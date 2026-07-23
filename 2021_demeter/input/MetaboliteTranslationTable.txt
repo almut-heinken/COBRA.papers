@@ -3582,7 +3582,7 @@ cpd26448	cpg180
 cpd26451	pgp161
 cpd26459	icolipa
 cpd26818	gal
-cpd26854	chit6p
+cpd26854	chtbs6p
 cpd27041	CE2847
 cpd27069	HC01852
 cpd27606	M02626

@@ -41,7 +41,7 @@
 12dgr180	1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)		C39H76O5	0							02/07/2014	Cell wall biosynthesis
 12dgr181	1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)		C39H72O5	0							02/07/2014	Glycerophospholipid metabolism
 12dgr2_ST	Membrane 1,2-diacylglycerol mixture		X	0							02/07/2014	
-12dhchol	12-Dehydrocholate	C24H38O5	C24H37O5	-1							22/12/2016	Bile acid metabolism
+12dhchol	12-Dehydrocholate	C24H38O5	C24H37O5	-1							22/12/2016	Bile acids
 12dhnp12d	cis-1,2-Dihydronaphthalene-1,2-diol		C10H10O2	0							19/09/2018	Xenobiotics metabolism
 12dhrtclnm	1,2-Dehydroreticulinium		C19H22NO4	1							19/09/2018	Isoquinoline alkaloid biosynthesis
 12dhtc	12-Dehydrotetracycline		C22H22N2O8	0							19/09/2018	Xenobiotics metabolism
@@ -65,7 +65,7 @@
 12mttritec2eACP	12-methyl-trans-tridec-2-enoyl-ACP		C25H45N2O8PRS	-1							02/07/2014	Fatty acid synthesis
 12npthldl	1,2-Naphthalenediol	C10H8O2	C10H8O2	0						HMDB0060497	02/07/2014	Polycyclic aromatic hydrocarbon degradation
 12ppd_R	(R)-propane-1,2-diol		C3H8O2	0	C00583	1030	16997	DNIAPMSPPWPWGF-UHFFFAOYSA-N		HMDB01881	02/07/2014	Pentose and glucuronate interconversions
-12ppd_S	(S)-propane-1,2-diol		C3H8O2	0	C02917	439846	29002	DNIAPMSPPWPWGF-VKHMYHEASA-N		HMDB06213	02/07/2014	Glyoxylate and dicarboxylate metabolism
+12ppd_S	(S)-propane-1,2-diol		C3H8O2	0	C02917	439846	29002	DNIAPMSPPWPWGF-VKHMYHEASA-N		HMDB06213	02/07/2014	Central metabolism
 12RHPET	12R-Hydroperoxyeicosatetraenoate		C20H31O4	-1	C14812		34145	ZIOZYRSDNLNNNJ-AUXIVJNKSA-M		HMDB06222	02/07/2014	Eicosanoid metabolism
 13_cis_oretn	13-cis-oxo-retinoic acid		C20H27O3	-1				GGCUJPCCTQNTJF-FAOQNJJDSA-M			02/07/2014	Vitamin A metabolism
 13_cis_retn	13-cis-retinoate		C20H27O2	-1	D00348	5282379	6067	SHGAZHPCJJPHSC-XFYACQKRSA-M		HMDB06219	02/07/2014	Vitamin A metabolism
@@ -79,7 +79,7 @@
 13m3omyrsACP	13-methyl-3-oxo-tetra-decanoyl-ACP		C26H47N2O9PRS	-1							02/07/2014	Fatty acid synthesis
 13mmyrsACP	13-methyl-tetra-decanoyl-ACP		C26H49N2O8PRS	-1							02/07/2014	Fatty acid synthesis
 13mtmrs2eACP	13-methyl-trans-tetra-dec-2-enoyl-ACP		C26H47N2O8PRS	-1							02/07/2014	Fatty acid synthesis
-13ppd	Propane-1,3-diol	C3H8O2	C3H8O2	0	C02457	5477	16109		OCCCO		02/07/2014	Glycerophospholipid metabolism
+13ppd	Propane-1,3-diol	C3H8O2	C3H8O2	0	C02457	5477	16109		OCCCO		02/07/2014	Central metabolism
 13shpoddnt	13S-Hydroperoxy-9Z,11E-octadecadienoic acid		C18H31O4	-1							19/09/2018	Linoleate metabolism
 14bdc	1,4-Benzenedicarboxylic acid		C8H4O4	-2							19/09/2018	Xenobiotics metabolism
 14dgndnbtn	1,4-Diguanidinobutane		C6H18N6	2							19/09/2018	Xenobiotics metabolism
@@ -99,7 +99,7 @@
 1531tacr	15, 31-O-Didesmethyl-tacrolimus	C42H65NO12	C42H65NO12	0							02/07/2014	Drug metabolism
 15ahgtl	1,5-Anhydroglucitol		C6H12O5	0							19/09/2018	Fructose and mannose metabolism
 15anhfruc	1,5-Anhydro-D-fructose		C6H10O5	0							19/09/2018	Fructose and mannose metabolism
-15dap	1,5-Diaminopentane		C5H16N2	2	C01672	273				HMDB02322	02/07/2014	Arginine and proline metabolism
+15dap	1,5-Diaminopentane		C5H16N2	2	C01672	273				HMDB02322	02/07/2014	Amino acid metabolites
 15dmt	15-DMT or M-III, 15-O-desmethyl tacrolimus	C43H67NO12	C43H67NO12	0							02/07/2014	Drug metabolism
 15HPET	15(S)-HPETE(1-)		C20H31O4	-1	C05966	5280893	15628	BFWYTORDSFIVKP-VAEKSGALSA-M		HMDB04244	02/07/2014	Arachidonic acid metabolism
 15kprostgf2	15-Keto-Prostaglandin F2A		C20H31O5	-1				LOLJEILMPWPILA-AMFHKTBMSA-M			03/01/2017	Eicosanoid metabolism
@@ -297,7 +297,7 @@
 2ddecdicoa	2,6-dodecadienoylcoa		C33H50N7O17P3S	-4	C05279	53480665		BNPQDIKRZDRREL-GQUYLXGASA-J		HMDB11123	02/07/2014	Fatty acid oxidation
 2ddecg3p	2-dodecanoyl-sn-glycerol 3-phosphate		C15H30O7P1	-1							02/07/2014	Glycerophospholipid metabolism
 2ddg6p	2-Dehydro-3-deoxy-D-gluconate 6-phosphate		C6H8O9P	-3							02/07/2014	Pentose and glucuronate interconversions
-2ddglcn	2-Dehydro-3-deoxy-D-gluconate		C6H9O6	-1	C00204	3504					02/07/2014	Pentose and glucuronate interconversions
+2ddglcn	2-Dehydro-3-deoxy-D-gluconate		C6H9O6	-1	C00204	3504					02/07/2014	Carbohydrates
 2ddpent	2-Dehydro-3-deoxy-L-pentonate	C5H8O5	C5H7O5	-1							02/07/2014	Ascorbate and aldarate metabolism
 2decdicoa	2,7-decadienoylcoa		C31H46N7O17P3S	-4				CDCJVILOANYHMI-CPAJBTEKSA-J			02/07/2014	Fatty acid oxidation
 2dg	2-deoxy-D-glucose		C6H12O5	0							02/07/2014	Starch and sucrose metabolism
@@ -398,7 +398,7 @@
 2hydog	2-hydroxyglutarate	C5H8O5	C5H6O5	-2				HWXBTNAVRSUOJR-UHFFFAOYSA-L			02/07/2014	Butanoate metabolism
 2hydogcoa	2-hydroxyglutaryl-CoA	C26H42N7O20P3S	C26H38N7O20P3S	-4	C03058	11966206					24/02/2015	Butanoate metabolism
 2hymeph	2-(Hydroxymethyl)phenol		C7H8O2	0	C06191					HMDB0059709	02/07/2014	Glycolysis/gluconeogenesis
-2hyoxplac	2-Hydroxyphenylacetate		C8H7O3	-1	C05852	11970	28478	CCVYRRGZDBSHFU-UHFFFAOYSA-M		HMDB00669	02/07/2014	Phenylalanine metabolism
+2hyoxplac	2-Hydroxyphenylacetate		C8H7O3	-1	C05852	11970	28478	CCVYRRGZDBSHFU-UHFFFAOYSA-M		HMDB00669	02/07/2014	Amino acid metabolites
 2ins	2-Inosose		C6H10O6	0							02/07/2014	Inositol phosphate metabolism
 2ippcoa	3-Isopropenylpimelyl-CoA		C31H46N7O19P3S	-4							19/09/2018	Xenobiotics metabolism
 2ippm	2-Isopropylmaleate		C7H8O4	-2						HMDB0012241	02/07/2014	Valine, leucine, and isoleucine metabolism
@@ -449,7 +449,7 @@
 2o3mpt	R__2_Oxo_3_methylpentanoate		C6H9O3	0							02/07/2014	
 2o7mthnt	2-Oxo-7-methylthioheptanoic acid		C8H14O3S	0							19/09/2018	Glucosinolate biosynthesis
 2oaldh	2-Oxoaldehyde		C2HO2R	0							19/09/2018	Miscellaneous
-2obut	2-Oxobutanoate		C4H5O3	-1	C00109	58	30831	TYEYBOSBBBHJIV-UHFFFAOYSA-M		HMDB00005	02/07/2014	C5-branched dibasic acid metabolism
+2obut	2-Oxobutanoate		C4H5O3	-1	C00109	58	30831	TYEYBOSBBBHJIV-UHFFFAOYSA-M		HMDB00005	02/07/2014	Fatty acids
 2oc	2-Oxocarboxylate		C2O3R	-1							19/09/2018	Arginine and proline metabolism
 2octdectecoa	2,6,9,12-octadecatetraenoylcoa		C39H58N7O17P3S	-4				ARCCYNRJAHXWRR-BLHYBTKNSA-J			02/07/2014	Fatty acid oxidation
 2octpencoa	2,6,9,12,15-octadecapentenoylcoa		C39H56N7O17P3S	-4				PDRIJPFVKOBYQM-OXYAKQEASA-J			02/07/2014	Fatty acid oxidation
@@ -517,8 +517,8 @@
 34dhpac	3,4-Dihydroxyphenylacetaldehyde		C8H8O3	0	C04043	119219	27978	IADQVXRMSNIUEL-UHFFFAOYSA-N		HMDB03791	02/07/2014	Tyrosine metabolism
 34dhpacet	3-4-Dihydroxyphenylacetate		C8H7O4	0							02/07/2014	Tyrosine metabolism
 34dhpe	3,4-Dihydroxyphenylethanol		C8H10O3	0		82755		JUUBCHWRXWPFFH-UHFFFAOYSA-N		HMDB05784	03/01/2017	Tyrosine metabolism
-34dhpha	(3,4-dihydroxyphenyl)acetate		C8H7O4	-1	C01161	547	41941	CFFZDZCDUFSOFZ-UHFFFAOYSA-M		HMDB01336	02/07/2014	Tyrosine metabolism
-34dhphe	L-dopa		C9H11NO4	0	C00355	6047	15765	WTDRDQBEARUVNC-LURJTMIESA-N		HMDB00181	02/07/2014	Phenylalanine metabolism
+34dhpha	(3,4-dihydroxyphenyl)acetate		C8H7O4	-1	C01161	547	41941	CFFZDZCDUFSOFZ-UHFFFAOYSA-M		HMDB01336	02/07/2014	Amino acid metabolites
+34dhphe	L-dopa		C9H11NO4	0	C00355	6047	15765	WTDRDQBEARUVNC-LURJTMIESA-N		HMDB00181	02/07/2014	Amino acid metabolites
 34dhpyr	3,4-Dihydroxypyridine		C5H5NO2	0							19/09/2018	Glycine, serine, alanine, and threonine metabolism
 34dhrdpn	3,4-Dehydrorhodopin		C40H56O	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 34dhrdvn	3,4-Dihydrorhodovibrin		C41H62O2	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
@@ -589,8 +589,8 @@
 3dhalchol	3-dehydro-Lithocholate	C24H38O3	C24H37O3	-1							15/03/2017	Bile acid metabolism
 3dhcacoa	3-dehydro-Choloyl-CoA	C45H72N7O20P3S	C45H68N7O20P3S	-4							22/12/2016	Bile acid metabolism
 3dhcdcacoa	3-dehydro-Chenodeoxycholoyl-CoA	C45H72N7O19P3S	C45H68N7O19P3S	-4							22/12/2016	Bile acid metabolism
-3dhcdchol	3-Dehydrochenodeoxycholate	C24H38O4	C24H37O4	-1							22/12/2016	Bile acid metabolism
-3dhchol	3-Dehydrocholate	C24H38O5	C24H37O5	-1						HMDB0062680	22/12/2016	Bile acid metabolism
+3dhcdchol	3-Dehydrochenodeoxycholate	C24H38O4	C24H37O4	-1							22/12/2016	Bile acids
+3dhchol	3-Dehydrocholate	C24H38O5	C24H37O5	-1						HMDB0062680	22/12/2016	Bile acids
 3dhcrntn	3-Dehydrocarnitine		C7H13NO3	0							19/09/2018	Fatty acid oxidation
 3dhdchol	3-dehydro-Deoxycholate	C24H38O4	C24H37O4	-1							22/12/2016	Bile acid metabolism
 3dhguln	3-dehydro-L-gulonate		C6H9O7	-1	C00618	439273	16142	WTAHRPBPWHCMHW-LWKDLAHASA-M		HMDB06334	02/07/2014	Pentose and glucuronate interconversions
@@ -753,7 +753,7 @@
 3mmlctn	3-Methylmuconolactone		C7H7O4	-1							19/09/2018	Toluene degradation
 3mmucnt	3-Methyl-cis,cis-muconate		C7H6O4	-2							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 3mob	3-methyl-2-oxobutanoate		C5H7O3	-1	C00141	49	16530	QHKABHOOEWYVLI-UHFFFAOYSA-M		HMDB00019	02/07/2014	CoA synthesis
-3mop	3-methyl-2-oxopentanoate		C6H9O3	-1	C03465	47	35932	JVQYSWDUAOAHFM-UHFFFAOYSA-M		HMDB00491	02/07/2014	Miscellaneous
+3mop	3-methyl-2-oxopentanoate		C6H9O3	-1	C03465	47	35932	JVQYSWDUAOAHFM-UHFFFAOYSA-M		HMDB00491	02/07/2014	Fatty acids
 3mox4hoxm	3-Methoxy-4-hydroxymandelate		C9H9O5	-1	C05584	736172	20106	CGQCWMIAEPEHNQ-UHFFFAOYSA-M		HMDB00291	02/07/2014	Miscellaneous
 3mox4hpac	(4-hydroxy-3-methoxyphenyl)acetaldehyde		C9H10O3	0	C05581	151276	28111	GOQGGGANVKPMNH-UHFFFAOYSA-N		HMDB05175	02/07/2014	Miscellaneous
 3moxtyr	3-Methoxytyramine		C9H14NO2	1	C05587	1669	742324	DIVQKHQLANKJQO-UHFFFAOYSA-N		HMDB00022	02/07/2014	Tyrosine metabolism
@@ -860,9 +860,9 @@
 4a5ic	4-Amino-5-imidazolecarboxylic acid		C4H5N3O2	0							19/09/2018	Purine catabolism
 4aabutn	4-acetamidobutanoate		C6H10NO3	-1	C02946	18189	17645	UZTFMUBKZQVKLK-UHFFFAOYSA-M		HMDB03681	02/07/2014	Arginine and proline metabolism
 4aaold	4-Androsten-16alpha-ol-3,17-dione		C19H26O3	0							19/09/2018	Steroid metabolism
-4abut	4-Aminobutanoate		C4H9NO2	0	C00334	119	16865	BTCSSZJGUNDROE-UHFFFAOYSA-N		HMDB00112	02/07/2014	Arginine and proline metabolism
+4abut	4-Aminobutanoate		C4H9NO2	0	C00334	119	16865	BTCSSZJGUNDROE-UHFFFAOYSA-N		HMDB00112	02/07/2014	Amino acid metabolites
 4abutn	4-Aminobutanal		C4H10NO	1	C00555	118	17769	DZQLQEYLEYWJIB-UHFFFAOYSA-O		HMDB01080	02/07/2014	Arginine and proline metabolism
-4abz	4-Aminobenzoate		C7H6NO2	-1						HMDB01392	02/07/2014	Aminobenzoate degradation
+4abz	4-Aminobenzoate		C7H6NO2	-1						HMDB01392	02/07/2014	Others
 4adcho	4-amino-4-deoxychorismate		C10H10NO5	-1							02/07/2014	Folate metabolism
 4ahmmp	4-Amino-5-hydroxymethyl-2-methylpyrimidine		C6H9N3O	0							02/07/2014	Thiamine metabolism
 4ampm	4-Amino-2-methyl-5-phosphomethylpyrimidine		C6H8N3O4P	-2							02/07/2014	Purine catabolism
@@ -906,7 +906,7 @@
 4hba	4-Hydroxy-benzyl alcohol		C7H8O2	0							02/07/2014	Aminobenzoate degradation
 4hbald	4-Hydroxybenzaldehyde (iJN746)	C7H6O2	C7H6O2	0						HMDB11718	08/03/2016	Aminobenzoate degradation
 4hbutcoa	4-Hydroxybutyryl-CoA	C25H42N7O18P3S	C25H38N7O18P3S	-4	C11062		28522				02/07/2014	Butanoate metabolism
-4hbz	4-hydroxybenzoate		C7H5O3	-1	C00156	135	30763	FJKROLUGYXJWQN-UHFFFAOYSA-M		HMDB00500	02/07/2014	Aminobenzoate degradation
+4hbz	4-hydroxybenzoate		C7H5O3	-1	C00156	135	30763	FJKROLUGYXJWQN-UHFFFAOYSA-M		HMDB00500	02/07/2014	Cell wall biosynthesis
 4hbzACP	4-hydroxybenzoyl ACP (iMEO21)		C18H25N2O9PRS	-1							08/03/2016	Fatty acid synthesis
 4hbzcoa	4-hydroxybenoyl-CoA		C28H36N7O18P3S	-4	C02949			LTVXPVBFJBTNIJ-TYHXJLICSA-J		HMDB06467	02/07/2014	Ubiquinone synthesis
 4hcnmylaldh	4-Hydroxycinnamyl aldehyde		C9H8O2	0							19/09/2018	Phenylpropanoid biosynthesis
@@ -921,8 +921,8 @@
 4hmdgluc	4-OH-midazolam-glucuronide	C24H21ClFN3O7	C24H20ClFN3O7	-1							02/07/2014	Drug metabolism
 4hmsaclt	4-Hydroxymethylsalicylate	C8H8O4	C8H7O4	-1							02/07/2014	Naphthalene degradation
 4hoxpac	4-Hydroxyphenylacetate		C8H7O3	0							02/07/2014	Tyrosine metabolism
-4hoxpacd	(4-hydroxyphenyl)acetaldehyde		C8H8O2	0	C03765	440113	15621	IPRPPFIAVHPVJH-UHFFFAOYSA-N		HMDB03767	02/07/2014	Primary amine metabolism
-4hphac	4-hydroxyphenylacetate		C8H7O3	-1	C00642	127	18101	XQXPVVBIMDBYFF-UHFFFAOYSA-M		HMDB00020	02/07/2014	Phenylalanine metabolism
+4hoxpacd	(4-hydroxyphenyl)acetaldehyde		C8H8O2	0	C03765	440113	15621	IPRPPFIAVHPVJH-UHFFFAOYSA-N		HMDB03767	02/07/2014	Amino acid metabolites
+4hphac	4-hydroxyphenylacetate		C8H7O3	-1	C00642	127	18101	XQXPVVBIMDBYFF-UHFFFAOYSA-M		HMDB00020	02/07/2014	Amino acid metabolites
 4hphacp	Hydroxyphehylacetyl phosphate	C8H9O6P	C8H7O6P	-2							20/12/2017	Tyrosine metabolism
 4hpro_D	cis-4-Hydroxy-D-proline	C5H9NO3	C5H9NO3	0	C03440	440014	57690	PMMYEEVYMWASQN-QWWZWVQMSA-N		HMDB0060460	02/07/2014	Arginine and proline metabolism
 4hpro_LT	trans-4-hydroxy-L-proline		C5H9NO3	0	C01157	5810	18095	PMMYEEVYMWASQN-DMTCNVIQSA-N		HMDB00725	02/07/2014	Arginine and proline metabolism
@@ -1060,7 +1060,7 @@
 5HPET	5(S)-HPETE(1-)		C20H31O4	-1	C05356	5280778	15632	JNUUNUQHXIOFDA-DHORPKIASA-M		HMDB01193	02/07/2014	Arachidonic acid metabolism
 5hptn	5-Hydroxypentanoate	C5H10O3	C5H9O3	-1	C02804						10/06/2018	
 5hptncoa	5-Hydroxypentanoyl-CoA	C26H44N7O18P3S	C26H40N7O18P3S	-4	C03237						10/06/2018	
-5htrp	5-hydroxy-L-tryptophan		C11H12N2O3	0	C01017	144	28171	LDCYZAJDBXYCGN-UHFFFAOYSA-N		HMDB00472	02/07/2014	Tetrahydrobiopterin metabolism
+5htrp	5-hydroxy-L-tryptophan		C11H12N2O3	0	C01017	144	28171	LDCYZAJDBXYCGN-UHFFFAOYSA-N		HMDB00472	02/07/2014	Amino acid metabolites
 5hval	5-Hydroxyvalerate,5-Hydroxypentanoate	C5H10O3	C5H9O3	-1	C02804						10/06/2018	Valerate metabolism
 5hvalcoa	5-Hydroxyvaleryl-CoA,5-Hydroxypentanoyl-CoA	C26H44N7O18P3S	C26H40N7O18P3S	-4	C03237						10/06/2018	Valerate metabolism
 5hxkyn	5-hydroxykynurenine		C10H12N2O4	0	C05651	440745	2076	OTDQYOVYQQZAJL-UHFFFAOYSA-N		HMDB0012819	02/07/2014	Tryptophan metabolism
@@ -1080,10 +1080,10 @@
 5mhx4coa	5-Methylhex-4-enoyl-CoA"		C28H42N7O17P3S	-4							12/11/2020	Geraniol degradation
 5mohcoa	5-Methyl-3-oxo-4-hexenoyl-CoA		C28H41N7O18P3S	-3							19/09/2018	Fatty acid oxidation
 5moxact	5-Methoxyindoleacetate		C11H10NO3	-1	C05660	18986	235589	COCNDHOPIHDTHK-UHFFFAOYSA-M		HMDB04096	02/07/2014	Tryptophan metabolism
-5mta	5-Methylthioadenosine		C11H15N5O3S	0	C00170	439176	17509	WUUGFSXJNOTRMR-IOSLPCCCSA-N		HMDB01173	02/07/2014	Arginine and proline metabolism
+5mta	5-Methylthioadenosine		C11H15N5O3S	0	C00170	439176	17509	WUUGFSXJNOTRMR-IOSLPCCCSA-N		HMDB01173	02/07/2014	Nucleotide metabolism
 5mtc	5-Methylcytosine	C5H7N3O	C5H7N3O	0						HMDB02894	02/07/2014	Methionine and cysteine metabolism
 5mthex2eACP	5-methyl-trans-hex-2-enoyl-ACP		C18H31N2O8PRS	-1							02/07/2014	Fatty acid synthesis
-5mthf	5-Methyltetrahydrofolate		C20H24N7O6	-1	C00440	439234	15641	ZNOVTXRBGFNYRX-ABLWVSNPSA-M		HMDB01396	02/07/2014	Folate metabolism
+5mthf	5-Methyltetrahydrofolate		C20H24N7O6	-1	C00440	439234	15641	ZNOVTXRBGFNYRX-ABLWVSNPSA-M		HMDB01396	02/07/2014	Cofactors
 5mthglu	5_Methyltetrahydropteroyltri_L_glutamate		C25H34N8O12	0							02/07/2014	Methionine and cysteine metabolism
 5mtr	5-Methylthio-D-ribose		C6H12O4S	0							02/07/2014	Arginine and proline metabolism
 5mtrptmn	5-Methoxytryptamine		C11H15N2O	1							19/09/2018	Tryptophan metabolism
@@ -1164,7 +1164,7 @@
 7ahglz	7-alpha-OH-gliclazide	C15H21N3O4S	C15H20N3O4S	-1							02/07/2014	Drug metabolism
 7bhglz	7-beta-OH-gliclazide	C15H21N3O4S	C15H20N3O4S	-1							02/07/2014	Drug metabolism
 7bhglzglc	7-beta-OH-gliclazide-glucuronide	C21H29N3O10S	C21H27N3O10S	-2							02/07/2014	Drug metabolism
-7dhcdchol	7-Dehydrochenodeoxycholate	C24H38O4	C24H37O4	-1							22/12/2016	Bile acid metabolism
+7dhcdchol	7-Dehydrochenodeoxycholate	C24H38O4	C24H37O4	-1							22/12/2016	Bile acids
 7dhchol	7-Dehydrocholate	C24H38O5	C24H37O5	-1							22/12/2016	
 7dhchsterol	cholesta-5,7-dien-3beta-ol		C27H44O	0	C01164	439423	17759	UCTLRSWJYQTBFZ-DDPQNLDTSA-N		HMDB00032	02/07/2014	Cholesterol metabolism
 7dhf	heptaglutamyl folate (DHF)		C49H55N13O24	-8		53477856		UDDQBNDBOUHLSR-INCUNFMESA-G		HMDB06559	02/07/2014	Folate metabolism
@@ -1178,7 +1178,7 @@
 7murt	7-Methyluric acid		C6H6N4O3	0							19/09/2018	Caffeine metabolism
 7mxthn	7-Methylxanthine		C6H6N4O2	0							19/09/2018	Caffeine metabolism
 7mxtsn	7-Methylxanthosine		C11H15N4O6	1	C16352						01/07/2019	Caffeine metabolism
-7ocholate	3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate		C24H37O5	-1	C04643						02/07/2014	Bile acid metabolism
+7ocholate	3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate		C24H37O5	-1	C04643						02/07/2014	Bile acids
 7oh_efv	7-hydroxy-Efavirenz	C14H9ClF3NO3	C14H9ClF3NO3	0		487645					01/03/2019	Drug metabolism
 7oh_efv_glc	7-hydroxy-Efavirenz Glucuronide	C20H17ClF3NO9	C20H17ClF3NO9	0							01/03/2019	Drug metabolism
 7ohocata	7-Hydroxy-Octanoate		C8H15O3	-1				OFCMTSZRXXFMBQ-UHFFFAOYSA-M			03/01/2017	Fatty acid oxidation
@@ -1222,10 +1222,10 @@ ab6p3hxl	D-arabino-6-Phospho-hex-3-ulose	C6H13O9P	C6H11O9P	-2							02/07/2014	M
 abdhthdp	alpha,beta-Dihydroxyethyl-ThDP		C14H21N4O9P2S	-1							19/09/2018	Methane metabolism
 abiphed	2-Aminobiphenyl-2,3-diol		C12H11NO2	0							19/09/2018	Xenobiotics metabolism
 abnzn	Acetylbenzene		C8H8O	0							19/09/2018	Xenobiotics metabolism
-abt	L-arabinitol		C5H12O5	0	C00532	439255	18403	HEBKCHPVOIAQTA-IMJSIDKUSA-N		HMDB01851	02/07/2014	Pentose and glucuronate interconversions
+abt	L-arabinitol		C5H12O5	0	C00532	439255	18403	HEBKCHPVOIAQTA-IMJSIDKUSA-N		HMDB01851	02/07/2014	Carbohydrates
 abt_D	D-Arabitol	C5H12O5	C5H12O5	0	C01904	5013	18333	HEBKCHPVOIAQTA-QWWZWVQMSA-N	OC[C@@H](O)C(O)[C@H](O)CO	HMDB00568	02/07/2014	Pentose and glucuronate interconversions
 abz_ala_b	4-Aminobenzoyl-Beta-Alanine	C10H12N2O3	C10H11N2O3	-1		719629					01/03/2019	Drug metabolism
-ac	Acetate		C2H3O2	-1	C00033	176	15366	QTBSBXVTEAMEQO-UHFFFAOYSA-M		HMDB00042	02/07/2014	Alanine and aspartate metabolism
+ac	Acetate		C2H3O2	-1	C00033	176	15366	QTBSBXVTEAMEQO-UHFFFAOYSA-M		HMDB00042	02/07/2014	Central metabolism
 ac_amn_b_gly	Acetyl 4-Aminobenzoylglycine	C11H12N2O4	C11H11N2O4	-1							01/03/2019	Drug metabolism
 ac_amn_b_gly_glc	Acetyl 4-Aminobenzoylglycine Glucuronide	C17H20N2O10	C17H18N2O10	-2							01/03/2019	Drug metabolism
 ac4oacnam	N-Acetyl-4-O-acetylneuraminate		C13H20NO10	-1							19/09/2018	Aminosugar metabolism
@@ -1234,10 +1234,10 @@ acaadp	N2-Acetyl-L-aminoadipate	C8H13NO5	C8H11NO5	-2							02/07/2014	Lysine met
 acaadpdp	N2-Acetyl-L-aminoadipyl-delta-phosphate		C8H12NO8P	-2	C12987						08/03/2016	Lysine metabolism
 acaadpsal	N2-Acetyl-L-aminoadipate semialdehyde		C8H12NO4	-1	C12988						08/03/2016	Lysine metabolism
 acabiph	N-Acetoxy-4-aminobiphenyl	C14H13NO2	C14H13NO2	0	C03621						01/07/2019	Xenobiotics metabolism
-acac	Acetoacetate		C4H5O3	-1	C00164	96	15344	WDJHALXBUFZDSR-UHFFFAOYSA-M		HMDB00060	02/07/2014	Butanoate metabolism
+acac	Acetoacetate		C4H5O3	-1	C00164	96	15344	WDJHALXBUFZDSR-UHFFFAOYSA-M		HMDB00060	02/07/2014	Fatty acids
 acACP	Acetyl-ACP		C13H23N2O8PRS	-1	C03939						02/07/2014	Fatty acid oxidation
 acact	Acetylacetone	C5H8O2	C5H8O2	0	C15499						01/07/2019	Xenobiotics metabolism
-acald	Acetaldehyde		C2H4O	0	C00084	177	15343	IKHGUXGNUITLKF-UHFFFAOYSA-N		HMDB00990	02/07/2014	Aminophosphonate metabolism
+acald	Acetaldehyde		C2H4O	0	C00084	177	15343	IKHGUXGNUITLKF-UHFFFAOYSA-N		HMDB00990	02/07/2014	Central metabolism
 acamoxm	N_Acetyl_L_2_amino_6_oxopimelate	C9H13NO6	C9H11NO6	-2			58117				02/07/2014	Glycerophospholipid metabolism
 acanth	N-Acetylanthranilate		C9H8NO3	-1							02/07/2014	
 acara	N_Acetoxyarylamine		C8H9NO2	0							02/07/2014	
@@ -1251,21 +1251,21 @@ acetone	acetone		C3H6O	0	C00207	180	15347	CSCPPACGZOOCGX-UHFFFAOYSA-N		HMDB01659
 acg5p	N-acetyl-L-gamma-glutamyl phosphate(3-)		C7H9NO8P	-3	C04133	440236	16878	FCVIHFVSXHOPSW-YFKPBYRVSA-K		HMDB06456	02/07/2014	Arginine and proline metabolism
 acg5sa	2-acetamido-5-oxopentanoate		C7H10NO4	-1	C01250	192878	16319	BCPSFKBPHHBDAI-LURJTMIESA-M		HMDB06488	02/07/2014	Arginine and proline metabolism
 acgagbside_hs	alpha GalNAc globoside		C52H92N3O27FULLRCO	0							02/07/2014	Sphingolipid metabolism
-acgal	N-acetyl-D-galactosamine		C8H15NO6	0	C01074	84265	28037	OVRNDRQMDRJTHS-KEWYIRBNSA-N		HMDB00212	02/07/2014	Aminosugar metabolism
-acgal1p	N-Acetyl-D-galactosamine 1-phosphate		C8H14NO9P	-2		22833661	55404	FZLJPEPAYPUMMR-KEWYIRBNSA-L		HMDB06480	02/07/2014	Aminosugar metabolism
-acgal6p	N-Acetyl-D-galactosamine 6-phosphate		C8H14NO9P	-2							02/07/2014	Aminosugar metabolism
-acgala	N_Acetyl_D_galactosamine		C8H15NO6	0							02/07/2014	
+acgal	N-acetyl-D-galactosamine		C8H15NO6	0	C01074	84265	28037	OVRNDRQMDRJTHS-KEWYIRBNSA-N		HMDB00212	02/07/2014	Carbohydrates
+acgal1p	N-Acetyl-D-galactosamine 1-phosphate		C8H14NO9P	-2		22833661	55404	FZLJPEPAYPUMMR-KEWYIRBNSA-L		HMDB06480	02/07/2014	Carbohydrates
+acgal6p	N-Acetyl-D-galactosamine 6-phosphate		C8H14NO9P	-2							02/07/2014	Carbohydrates
+acgala	N_Acetyl_D_galactosamine		C8H15NO6	0							02/07/2014	Carbohydrates
 acgalfuc12gal14acglcgalgluside_hs	(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1		C58H102N3O31FULLRCO	0			62650				02/07/2014	Blood group synthesis
 acgalfucgalacgalfuc12gal14acglcgalgluside_hs	Type IIIA glycolipid		C78H135N4O45FULLRCO	0	G00059		28574				02/07/2014	Blood group synthesis
 acgalfucgalacgalfucgalacglcgal14acglcgalgluside_hs	Type IIIAb		C92H158N5O55FULLRCO	0	G00075						02/07/2014	Blood group synthesis
 acgalfucgalacglcgal14acglcgalgluside_hs	(Gal)3 (GalNac)1 (Glc)1 (GlcNac)2 (LFuc)1 (Cer)1		X	0			62540				02/07/2014	Blood group synthesis
 acgalfucgalacglcgalgluside_hs	Type IA glycolipid		C58H102N3O31FULLRCO	0	G00042		62650				02/07/2014	Blood group synthesis
-acgalglcur	Dimer GalNAc-GlcA		C14H22NO12	-1							02/07/2014	Chondroitin sulfate degradation
-acgalidour	 Dimer GalNAc-IdoA		C14H22NO12	-1							02/07/2014	Chondroitin sulfate degradation
+acgalglcur	Dimer GalNAc-GlcA		C14H22NO12	-1							02/07/2014	Polysaccharide degradation
+acgalidour	 Dimer GalNAc-IdoA		C14H22NO12	-1							02/07/2014	Polysaccharide degradation
 acgalidour2s	 Dimer GalNAc-IdoA2S		C14H21NO15S	-2							02/07/2014	Chondroitin sulfate degradation
-acgam	N-acetyl-D-glucosamine		C8H15NO6	0	C00140	439174	506227	OVRNDRQMDRJTHS-RTRLPJTCSA-N		HMDB00215	02/07/2014	Aminosugar metabolism
-acgam1p	N-Acetyl-D-glucosamine 1-phosphate		C8H14NO9P	-2	C04256	440272	7125	FZLJPEPAYPUMMR-RTRLPJTCSA-L		HMDB01367	02/07/2014	Aminosugar metabolism
-acgam6p	N-acetyl-D-glucosamine 6-phosphate(2-)		C8H14NO9P	-2	C00357	440996	15784	BRGMHAYQAZFZDJ-RTRLPJTCSA-L		HMDB01062	02/07/2014	Aminosugar metabolism
+acgam	N-acetyl-D-glucosamine		C8H15NO6	0	C00140	439174	506227	OVRNDRQMDRJTHS-RTRLPJTCSA-N		HMDB00215	02/07/2014	Carbohydrates
+acgam1p	N-Acetyl-D-glucosamine 1-phosphate		C8H14NO9P	-2	C04256	440272	7125	FZLJPEPAYPUMMR-RTRLPJTCSA-L		HMDB01367	02/07/2014	Carbohydrates
+acgam6p	N-acetyl-D-glucosamine 6-phosphate(2-)		C8H14NO9P	-2	C00357	440996	15784	BRGMHAYQAZFZDJ-RTRLPJTCSA-L		HMDB01062	02/07/2014	Carbohydrates
 acgbgbside_hs	beta GalNAc globoside		C52H92N3O27FULLRCO	0				JGSARLDLIJGVTE-MBNYWOFBSA-N			02/07/2014	Sphingolipid metabolism
 acglc_D	6-Acetyl-D-glucose		C8H14O7	0							02/07/2014	
 acglc13galacglcgal14acglcgalgluside_hs	nLc7Cer		C66H115N4O37FULLRCO	0	G00068						02/07/2014	Blood group synthesis
@@ -1287,8 +1287,8 @@ aclys	N2-Acetyl-L-lysine	C8H16N2O3	C8H16N2O3	0				VEYYWZRYIYDQJM-ZETCQYMHSA-N			
 acmalt	Acetyl-maltose		C14H24O12	0							02/07/2014	Starch and sucrose metabolism
 acmam	N-Acetyl-D-muramoate		C11H18NO8	-1						HMDB0060493	02/07/2014	Cell wall biosynthesis
 acmama	N-Acetyl-D-muramoyl-L-alanine		C14H23N2O9	-1						HMDB0060494	02/07/2014	Cell wall biosynthesis
-acmana	N-acetyl-D-mannosamine		C8H15NO6	0	C00645	11096158	63153	OVRNDRQMDRJTHS-ZTVVOAFPSA-N		HMDB01129	02/07/2014	Aminosugar metabolism
-acmanap	N-acetyl-D-mannosamine 6-phosphate(2-)		C8H14NO9P	-2	C04257	440273	62165	BRGMHAYQAZFZDJ-ZTVVOAFPSA-L		HMDB01121	02/07/2014	Aminosugar metabolism
+acmana	N-acetyl-D-mannosamine		C8H15NO6	0	C00645	11096158	63153	OVRNDRQMDRJTHS-ZTVVOAFPSA-N		HMDB01129	02/07/2014	Carbohydrates
+acmanap	N-acetyl-D-mannosamine 6-phosphate(2-)		C8H14NO9P	-2	C04257	440273	62165	BRGMHAYQAZFZDJ-ZTVVOAFPSA-L		HMDB01121	02/07/2014	Carbohydrates
 acmp	acetaminophen/ paracetamol	C8H9NO2	C8H9NO2	0	D00217	1983		RZVAJINKPMORJF-UHFFFAOYSA-N		HMDB01859	02/07/2014	Drug metabolism
 acmp_glc	Acetaminophen Glucuronide	C14H17NO8	C14H16NO8	-1							01/03/2019	Drug metabolism
 acmpglu	Acetaminophen glucuronide	C14H17NO8	C14H16NO8	-1		83944		IPROLSVTVHAQLE-BYNIDDHOSA-N		HMDB0010316	02/07/2014	Drug metabolism
@@ -1299,7 +1299,7 @@ acn13acngalgbside_hs	sialyl (1,3) sialyl (2,6) galactosylgloboside		C72H121N4O43
 acn23acngalgbside_hs	sialyl (2,3) sialyl (2,6) galactosylgloboside		C72H121N4O43FULLRCO	-2							02/07/2014	Sphingolipid metabolism
 acnacngal14acglcgalgluside_hs	3,8-LD1		C66H111N4O38FULLRCO	-2	G00064						02/07/2014	Blood group synthesis
 acnacngalgbside_hs	disialyl galactosylgloboside		C72H121N4O43FULLRCO	-2							02/07/2014	Sphingolipid metabolism
-acnam	N-acetylneuraminate		C11H18NO9	-1	C19910	445063	45744	SQVRNKJHWKZAKO-PFQGKNLYSA-M		HMDB00230	02/07/2014	Aminosugar metabolism
+acnam	N-acetylneuraminate		C11H18NO9	-1	C19910	445063	45744	SQVRNKJHWKZAKO-PFQGKNLYSA-M		HMDB00230	02/07/2014	Carbohydrates
 acnam2a6agal	Alpha-2,6-N-acetylneuraminate-N-acetylgalactosamine	C19H32N2O14	C19H31N2O14	-1	G00455						29/03/2017	O-glycan degradation
 acnamgalacnamgalamR	alpha-N-Acetylneuraminyl-2,3-beta-D-galactose-1,3-(alpha-N-acetylneuraminyl-2,6)-N-acetyl-D-galactosaminyl-R	C36H58N3O27R	C36H56N3O27R	-2	C04926						01/07/2019	Glycosaminoglycan degradation
 acnamgalgalamR	alpha-N-Acetylneuraminyl-2,3-beta-D-galactosyl-1,3-N-acetyl-D-galactosaminyl-R	C25H41N2O19R	C25H40N2O19R	-1	C04885						01/07/2019	Glycosaminoglycan degradation
@@ -1326,24 +1326,24 @@ acser	O-Acetyl-L-serine		C5H9NO4	0	C00979	189				HMDB03011	02/07/2014	Glycine, s
 actACP	Acetoacetyl-ACP		C15H25N2O9PRS	-1							02/07/2014	Fatty acid oxidation
 acthr_L	Acetyl-Threonine 		C6H10NO4	-1				PEDXUVCGOLSNLQ-UHFFFAOYSA-M			03/01/2017	Glycine, serine, alanine, and threonine metabolism
 actlndc	Acetylenedicarboxylate	C4O4	C4O4	-2							19/09/2018	Pyruvate metabolism
-actn_R	(R)-Acetoin		C4H8O2	0						HMDB03243	02/07/2014	Butanoate metabolism
+actn_R	(R)-Acetoin		C4H8O2	0						HMDB03243	02/07/2014	Central metabolism
 actn_S	(S)-Acetoin	C4H8O2	C4H8O2	0							02/07/2014	Butanoate metabolism
 actp	Acetyl phosphate		C2H3O5P	-2						HMDB01494	02/07/2014	Fructose and mannose metabolism
 actyr	N-Acetyl-Tyrosine		C11H12NO4	-1				CAHKINHBCWCHCF-JTQLQIEISA-M			03/01/2017	Tyrosine metabolism
 ad	Acetamide	C2H5NO	C2H5NO	0						HMDB0031645	02/07/2014	Arginine and proline metabolism
 adap	Aryl dialkyl phosphate		C6H5O4PR2	0							19/09/2018	Aminobenzoate degradation
-adchac	Allodeoxycholic acid	C24H40O4	C24H39O4	-1	C17687						15/03/2017	Bile acid metabolism
+adchac	Allodeoxycholic acid	C24H40O4	C24H39O4	-1	C17687						15/03/2017	Bile acids
 adcob1nda	Adenosyl-cobyrinate-a-c-diamide		C55H68CoN11O15	0							02/07/2014	
 adcobdam	Adenosyl cobyrinate diamide		C55H68CoN11O15	-4	C06506					HMDB01083	02/07/2014	Vitamin B12 metabolism
 adcobhex	adenosyl-cobyric acid		C55H76CoN15O11	0	C06506			OCNLJCZKGHKJGF-QOCQOLRHSA-M		HMDB01083	02/07/2014	Vitamin B12 metabolism
-ade	Adenine		C5H5N5	0	C00147	190	16708	GFFGJBXGBJISGV-UHFFFAOYSA-N		HMDB00034	02/07/2014	Arginine and proline metabolism
+ade	Adenine		C5H5N5	0	C00147	190	16708	GFFGJBXGBJISGV-UHFFFAOYSA-N		HMDB00034	02/07/2014	Nucleotide metabolism
 adgaldpundcrnl	alpha-D-Galactosyl-diphosphoundecaprenol	C61H100O12P2	C61H100O12P2	-2							19/09/2018	Pentose and glucuronate interconversions
 adggcgn	alpha-D-Glucosylglycogenin		C16H20N2O8R2	0							19/09/2018	Plant polysaccharide degradation
 adgpgp	alpha-D-Glucosylpoly(glycerol phosphate)		C12H24O16P2	-2							19/09/2018	Cell wall biosynthesis
 adhap_hs	acyl-dihydroxyacetone phosphate		C3H4O6PFULLRCO	-2	C03372		22231				02/07/2014	Glycerophospholipid metabolism
 adhex6p	alpha-D-Hexose 6-phosphate		C6H12O9P	-1							19/09/2018	Glycolysis/gluconeogenesis
 adhlam	S-Acetyldihydrolipoamide		C10H19NO2S2	0						HMDB01526	02/07/2014	Glycolysis/gluconeogenesis
-adn	Adenosine		C10H13N5O4	0	C00212	60961	16335	OIRDTQYFTABQOQ-KQYNXXCUSA-N		HMDB00050	02/07/2014	Methionine and cysteine metabolism
+adn	Adenosine		C10H13N5O4	0	C00212	60961	16335	OIRDTQYFTABQOQ-KQYNXXCUSA-N		HMDB00050	02/07/2014	Nucleotide metabolism
 adocbi	Adenosyl cobinamide		C58H84CoN16O11	1						HMDB06903	02/07/2014	Vitamin B12 metabolism
 adocbip	Adenosyl cobinamide phosphate		C58H83CoN16O14P	-1						HMDB0012184	02/07/2014	Vitamin B12 metabolism
 adocblp	Adenosylcobalamin-phosphate		C72H99CoN18O20P2	0							02/07/2014	
@@ -1385,7 +1385,7 @@ agm	agmatinium(2+)		C5H16N4	2	C00179	199	17431	QYPPJABKJHAVHS-UHFFFAOYSA-P		HMDB
 agphchln	1-Alkenylglycerophosphocholine		C10H21NO6PR	0							19/09/2018	Ether lipid metabolism
 ahandrostan	3alpha-hydroxy-5beta-androstan-17-one		C19H30O2	0	C04373	5880	28195	QGXBDMJGAMFCBF-BNSUEQOYSA-N		HMDB00490	02/07/2014	Steroid metabolism
 ahandrostanglc	3alpha-hydroxy-5beta-androstan-17-one 3-glucosiduronic acid		C25H38O8	0	C11136	443078	37451	VFUIRAVTUVCQTF-SDHZCXLISA-N		HMDB04484	02/07/2014	Steroid metabolism
-ahcys	S-Adenosyl-L-homocysteine		C14H20N6O5S	0	C00021	439155	16680	ZJUKTBDSGOFHSH-WFMPWKQPSA-N		HMDB00939	02/07/2014	Androgen and estrogen synthesis and metabolism
+ahcys	S-Adenosyl-L-homocysteine		C14H20N6O5S	0	C00021	439155	16680	ZJUKTBDSGOFHSH-WFMPWKQPSA-N		HMDB00939	02/07/2014	Amino acid metabolites
 ahdt	7,8-dihydroneopterin 3-triphosphate(4-)		C9H12N5O13P3	-4	C04895	121885	18372	DGGUVLXVLHAAGT-UJURSFKZSA-J		HMDB00980	02/07/2014	Folate metabolism
 ahex1p	alpha-D-Hexose 1-phosphate		C6H12O9P	-1							19/09/2018	Glycolysis/gluconeogenesis
 ahlndn	Anhalonidine		C12H17NO3	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
@@ -1416,7 +1416,7 @@ ak2gp_hs	1-alkyl 2-acylglycerol 3-phosphate		C5H9O6PFULLRFULLR2CO	-2	C05977					
 ak2gpe_hs	1-alkyl 2-acylglycerol 3-phosphoethanolamine		C7H16O5NPFULLRFULLR2CO	0	C04475		36712				02/07/2014	Glycerophospholipid metabolism
 ak2lgchol_hs	1-alkyl 2-lysoglycerol 3-phosphocholine		C10H21O5NPFULLR	0	C04317	2733532		XKBJVQHMEXMFDZ-AREMUKBSSA-N		HMDB0011149	02/07/2014	Glycerophospholipid metabolism
 akdhap_hs	1-alkyldihydroxyacetone phosphate		C3H4O6PFULLRC2H4	-2							02/07/2014	Glycerophospholipid metabolism
-akg	2-Oxoglutarate		C5H4O5	-2	C00026	51	30915	KPGXRSRHYNQIFN-UHFFFAOYSA-L		HMDB00208	02/07/2014	Alanine and aspartate metabolism
+akg	2-Oxoglutarate		C5H4O5	-2	C00026	51	30915	KPGXRSRHYNQIFN-UHFFFAOYSA-L		HMDB00208	02/07/2014	Central metabolism
 akgp_hs	O-alkylglycerone phosphate(2-)		C4H10O4PFULLRCO2	-2	C03715		58049				02/07/2014	Glycerophospholipid metabolism
 aklnnt	Aklanonic acid		C21H14O8	-2							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 aklnntme	Aklanonic acid methyl ester		C22H17O8	-1							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
@@ -1424,8 +1424,8 @@ aklvktn	Aklaviketone		C22H18O8	0							19/09/2018	Xenobiotics metabolism
 akval	alpha-Ketovalerate	C5H8O3	C5H7O3	-1			5460364				25/09/2019	Valine, leucine, and isoleucine metabolism
 al26da	N6_Acetyl_LL_2_6_diaminoheptanedioate		C9H14N2O5	0							02/07/2014	
 ala_B	beta-alanine		C3H7NO2	0	C00099	239	16958	UCMIRNVEIXFBKS-UHFFFAOYSA-N		HMDB00056	02/07/2014	Beta-alanine metabolism
-ala_D	D-alanine		C3H7NO2	0	C00133	71080	15570	QNAYBMKLOCPYGJ-UWTATZPHSA-N		HMDB01310	02/07/2014	Alanine and aspartate metabolism
-ala_L	L-alanine		C3H7NO2	0	C00041	5950	16977	QNAYBMKLOCPYGJ-REOHCLBHSA-N		HMDB00161	02/07/2014	Alanine and aspartate metabolism
+ala_D	D-alanine		C3H7NO2	0	C00133	71080	15570	QNAYBMKLOCPYGJ-UWTATZPHSA-N		HMDB01310	02/07/2014	Amino acid metabolites
+ala_L	L-alanine		C3H7NO2	0	C00041	5950	16977	QNAYBMKLOCPYGJ-REOHCLBHSA-N		HMDB00161	02/07/2014	Amino acid metabolites
 alaala	D-Alanyl-D-alanine		C6H12N2O3	0	C00993	5460362	16576	DEFJQIDDEAULHB-QWWZWVQMSA-N		HMDB03459	02/07/2014	Alanine and aspartate metabolism
 alaargcys	Alanyl-Arginyl-Cysteine		C12H25N6O4S	1				WRDANSJTFOHBPI-UHFFFAOYSA-O			03/01/2017	Peptide metabolism
 alaarggly	Alanyl-Arginyl-Glycine		C11H23N6O4	1				JBGSZRYCXBPWGX-UHFFFAOYSA-O			03/01/2017	Peptide metabolism
@@ -1446,7 +1446,7 @@ alalysthr	Alanyl-Lysine-Threonine		C13H27N4O5	1				OINVDEKBKBCPLX-QEYWKRMJSA-O		
 alathr	L-alanyl-L-threonine		C7H14N2O4	0							02/07/2014	Peptide metabolism
 alatrna	L-Alanyl-tRNA(Ala)		C3H6NOR	1							02/07/2014	
 alaval	Alanyl-Valine	C8H16N2O3	C8H16N2O3	0							21/10/2019	Peptide metabolism
-alchac	Allolithocholic acid	C24H40O3	C24H39O3	-1						HMDB00381	15/03/2017	Bile acid metabolism
+alchac	Allolithocholic acid	C24H40O3	C24H39O3	-1						HMDB00381	15/03/2017	Bile acids
 aldh	Aldehyde		CHOR	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 alds	Aldose		C2H3O2R	0							19/09/2018	Fructose and mannose metabolism
 aldstrn	aldosterone		C21H28O5	0	C01780	24758425	27584	PQSUYGKTWSAVDQ-ZVIOFETBSA-N		HMDB00037	02/07/2014	Steroid metabolism
@@ -1460,7 +1460,7 @@ all_D	D-Allose		C6H12O6	0							02/07/2014	Fructose and mannose metabolism
 all6p	D-Allose 6-phosphate		C6H11O9P	-2							02/07/2014	Fructose and mannose metabolism
 allop	allopurinol	C5H4N4O	C5H4N4O	0	D00224	2094		OFCNXPDARWKPPY-UHFFFAOYSA-N		HMDB0014581	02/07/2014	Drug metabolism
 allphn	Allophanate		C2H3N2O3	-1	C01010						02/07/2014	Arginine and proline metabolism
-alltn	Allantoin		C4H6N4O3	0	C01551	204	15676	POJWUDADGALRAB-UHFFFAOYSA-N		HMDB00462	02/07/2014	Purine catabolism
+alltn	Allantoin		C4H6N4O3	0	C01551	204	15676	POJWUDADGALRAB-UHFFFAOYSA-N		HMDB00462	02/07/2014	Others
 alltn_R	(R)-Allantoin	C4H6N4O3	C4H6N4O3	0							02/07/2014	Others
 alltt	allantoate		C4H7N4O4	-1	C00499	203	30837	NUCLJNSWZCHRKL-UHFFFAOYSA-M		HMDB01209	02/07/2014	Purine catabolism
 allul6p	Allulose 6-phosphate		C6H11O9P	-2							02/07/2014	Fructose and mannose metabolism
@@ -1506,7 +1506,7 @@ amboappn	L-alpha-Amino-beta-oxalylaminopropionic acid		C5H7N2O5	-1							19/09/2
 amd	Amide		CH2NOR	0							19/09/2018	Miscellaneous
 amdp	Amidophosphoric acid		H2NO3P	-2							19/09/2018	Glycolysis/gluconeogenesis
 amdpcmnt	Amidinoproclavaminate		C9H16N4O4	0							19/09/2018	Clavulanic acid biosynthesis
-amet	S-Adenosyl-L-methionine		C15H23N6O5S	1	C00019	16757548	15414	MEFKEPWMEQBLKI-AIRLBKTGSA-O		HMDB01185	02/07/2014	Androgen and estrogen synthesis and metabolism
+amet	S-Adenosyl-L-methionine		C15H23N6O5S	1	C00019	16757548	15414	MEFKEPWMEQBLKI-AIRLBKTGSA-O		HMDB01185	02/07/2014	Amino acid metabolites
 ametam	S-Adenosylmethioninamine		C14H24N6O3S	2	C01137	439415	15625	ZUNBITIXDCPNSD-LSRJEVITSA-O		HMDB00988	02/07/2014	Arginine and proline metabolism
 amina	Amino acid		C2H3NO2R	-1							28/09/2018	Glutathione metabolism
 amio	Amiodarone	C25H29I2NO3	C25H30I2NO3	1	C06823	2157					01/03/2019	Drug metabolism
@@ -1564,7 +1564,7 @@ apifrl	Apiforol	C15H14O5	C15H14O5	0	 C12124						01/07/2019	Flavonoid, isoflavon
 apio_D	D-Apiose (rare sugar in rhamnogalacturonan II)		C5H10O5	0	C01488			ASNHGEVAWNWCRQ-UHFFFAOYSA-N		HMDB0029941	02/07/2014	Plant polysaccharide degradation
 apnnox	alpha-pinene oxide		C10H16O	0	C02759	91508	29060	NQFUSWIGRKFAHK-UHFFFAOYSA-N		HMDB03667	02/07/2014	Limonene and pinene degradation
 apoACP	apoprotein [acyl carrier protein]		RHO	0							02/07/2014	CoA synthesis
-apoC	Apocarboxlase (no lys residue)		XH	0							02/07/2014	Biotin metabolism
+apoC	Apocarboxlase (no lys residue)		XH	0							02/07/2014	Cofactors
 apoC_Lys	Apocarboxylase (Lys residue)		C6H13N2OX	0							02/07/2014	Biotin metabolism
 apoC_Lys_btn	Holocarboxylase (biotin covalent bound to Lys residue of apoC)		C16H27N4O3SX	0	C06250						02/07/2014	Biotin metabolism
 apolpp	Braun apolipoprotein		C292H498N87O98S2	0							02/07/2014	
@@ -1579,7 +1579,7 @@ aprut	N-acetylputrescinium		C6H15N2O	1	C02714	122356	17768	KLZGKIDSEJWEDW-UHFFFA
 aps	5-adenylyl sulfate(2-)		C10H12N5O10PS	-2	C00224	10238	17709	IRLPACMLTUPBCL-KQYNXXCUSA-L		HMDB01003	02/07/2014	Nucleotide interconversion
 aptrpn	Acetylpseudotropine		C10H17NO2	0							19/09/2018	Tropane, piperidine and pyridine alkaloid biosynthesis
 ara5p	D-Arabinose 5-phosphate		C5H9O8P	-2						HMDB0011734	02/07/2014	Lipopolysaccharide biosynthesis
-arab_D	D-Arabinose	C5H10O5	C5H10O5	0						HMDB0029942	02/07/2014	Lipopolysaccharide biosynthesis
+arab_D	D-Arabinose	C5H10O5	C5H10O5	0						HMDB0029942	02/07/2014	Carbohydrates
 arab_L	L-arabinose		C5H10O5	0	C00259	439195	17535	SRBFZHDQGSBBOR-HWQSCIPKSA-N		HMDB00646	02/07/2014	Ascorbate and aldarate metabolism
 arabinan101	Arabinan		C509H812O410	-2	C02474						02/07/2014	Plant polysaccharide degradation
 arabinogal	Larch arabinogalactan		C3862H6376O3218	0	C00569						02/07/2014	Plant polysaccharide degradation
@@ -1600,7 +1600,7 @@ arbt6p	Arbutin 6-phosphate		C12H15O10P	-2							02/07/2014	Glycolysis/gluconeoge
 arbtn	aerobactin minus Fe3		C22H33N4O13	-3							02/07/2014	
 arbtn_fe3	Aerobactin		C22H33FeN4O13	0							02/07/2014	
 arg_D	D-arginine		C6H15N4O2	1	C00792	71070	15816	ODKSFYDXXFIFQN-SCSAIBSYSA-O		HMDB03416	02/07/2014	Arginine and proline metabolism
-arg_L	L-arginine		C6H15N4O2	1	C00062	6322	16467	ODKSFYDXXFIFQN-BYPYZUCNSA-O		HMDB00517	02/07/2014	Alanine and aspartate metabolism
+arg_L	L-arginine		C6H15N4O2	1	C00062	6322	16467	ODKSFYDXXFIFQN-BYPYZUCNSA-O		HMDB00517	02/07/2014	Amino acid metabolites
 argalaala	Arginyl-Alanyl-Alanine		C12H25N6O4	1				OOBVTWHLKYJFJH-FXQIFTODSA-N			03/01/2017	Peptide metabolism
 argalaphe	Arginyl-Alanine-Phenylalanine		C18H29N6O4	1				SBVJJNJLFWSJOV-IACUBPJLSA-O			03/01/2017	Peptide metabolism
 argalathr	Arginyl-Alanyl-Threonine		C13H27N6O5	1				OTOXOKCIIQLMFH-KKVHJZIVSA-O			03/01/2017	Peptide metabolism
@@ -1633,7 +1633,7 @@ ascb6p	L-ascorbate-6-phosphate		C6H7O9P	-2							02/07/2014	Ascorbate and aldara
 asdn	Aureusidin		C15H10O6	0							19/09/2018	Xenobiotics metabolism
 asdn6og	Aureusidin 6-O-glucoside		C21H20O11	0							19/09/2018	Xenobiotics metabolism
 aslfnt	Alkyl sulfenate		ORS	-1							19/09/2018	Sulfur metabolism
-asn_L	L-asparagine		C4H8N2O3	0	C00152	6267	17196	DCXYFEDJOCDNAF-REOHCLBHSA-N		HMDB00168	02/07/2014	Alanine and aspartate metabolism
+asn_L	L-asparagine		C4H8N2O3	0	C00152	6267	17196	DCXYFEDJOCDNAF-REOHCLBHSA-N		HMDB00168	02/07/2014	Amino acid metabolites
 Asn_X_Ser_Thr	protein-linked asparagine residue (N-glycosylation site)		XH	0	C03021						02/07/2014	Keratan sulfate degradation
 asnasnarg	Asparaginyl-Asparaginyl-Arginine		C14H27N8O6	1				HAJWYALLJIATCX-BIIVOSGPSA-O			03/01/2017	Peptide metabolism
 asncyscys	Asparaginyl-Cysteinyl-Cysteine		C10H18N4O5S2	0				RFLVTVBAESPKKR-ZLUOBGJFSA-N			03/01/2017	Peptide metabolism
@@ -1647,7 +1647,7 @@ asntyrthr	Asparaginyl-Tyrosyl-Threonine		C17H24N4O7	0				XEGZSHSPQNDNRH-RBQWDTSB
 aso3	arsenite		AsO3	-3	C06697	544				HMDB0011620	02/07/2014	Respiration
 aso4	arsenate		AsO4	-3	C01478	234		DJHGAFSJWGLOIV-UHFFFAOYSA-N		HMDB0012190	02/07/2014	Respiration
 asp_D	D-aspartate		C4H6NO4	-1	C00402	83887	17364	CKLJMWTZIZZHCS-UWTATZPHSA-M		HMDB0648	02/07/2014	Alanine and aspartate metabolism
-asp_L	L-aspartate		C4H6NO4	-1	C00049	5960	17053	CKLJMWTZIZZHCS-REOHCLBHSA-M		HMDB00191	02/07/2014	Alanine and aspartate metabolism
+asp_L	L-aspartate		C4H6NO4	-1	C00049	5960	17053	CKLJMWTZIZZHCS-REOHCLBHSA-M		HMDB00191	02/07/2014	Amino acid metabolites
 aspalaarg	Asparaginyl-Alanyl-Arginine		C13H24N6O6	0				UWMIZBCTVWVMFI-XLPZGREQSA-N			03/01/2017	Peptide metabolism
 aspasnglu	Aspartyl-Asparaginyl-Glutamate		C13H18N4O9	-2				ZELQAFZSJOBEQS-LYFYHCNISA-L			03/01/2017	Peptide metabolism
 aspglu	Aspartyl-Glutamate		C9H12N2O7	-2				CKAJHWFHHFSCDT-ROLXFIACSA-L			03/01/2017	Peptide metabolism
@@ -1701,7 +1701,7 @@ betald	betaine aldehyde		C5H12NO	1	C00576	249	15710	SXKNCCSPZDCRFD-UHFFFAOYSA-N	
 bglc	beta-glucans		C1200000H2000002O1000001	0							02/07/2014	Dietary fiber binding
 bgly	N-benzoylglycinate		C9H8NO3	-1	C01586	464	18089	QIAFMBKCNZACKA-UHFFFAOYSA-M		HMDB00714	02/07/2014	Hippurate metabolism
 bglycogen	branching glycogen		C6H10O5	0							02/07/2014	Starch and sucrose metabolism
-bhb	(R)-3-hydroxybutyrate		C4H7O3	-1	C01089	92135	17066	WHBMMWSBFZVSSR-GSVOUGTGSA-M		HMDB00011	02/07/2014	Butanoate metabolism
+bhb	(R)-3-hydroxybutyrate		C4H7O3	-1	C01089	92135	17066	WHBMMWSBFZVSSR-GSVOUGTGSA-M		HMDB00011	02/07/2014	Fatty acids
 bhpm	(Bis-(P-Hydroxyphenyl)-Pyridyl-2-Methane	C18H15NO2	C18H15NO2	0							01/03/2019	Drug metabolism
 bhpm_glc	Bis-(P-Hydroxy-Phenyl)-Pyridyl-2-Methane Glucuronide	C24H23NO8	C24H23NO8	0							01/03/2019	Drug metabolism
 bildglcur	bis(beta-glucosyluronate)bilirubin		C45H50N4O18	-2	C05787	5459911	18392	SCJLWMXOOYZBTH-GIDSPALLSA-L		HMDB03325	02/07/2014	Heme degradation
@@ -1746,19 +1746,19 @@ bsn_glc	Bosentan Glucuronide	C33H37N5O12S	C33H36N5O12S	-1							01/03/2019	Drug 
 btal	Butanal		C4H8O	0						HMDB03543	02/07/2014	Butanoate metabolism
 btamp	Biotinyl-5-AMP		C20H27N7O9PS	-1	C05921	440839	3110	UTQCSTJVMLODHM-RHCAYAJFSA-M		HMDB04220	02/07/2014	Biotin metabolism
 btcoa	Butanoyl-CoA		C25H38N7O17P3S	-4	C00136	265	57371	CRFNGMNYKDXRTN-BTRAQTFYSA-J		HMDB01088	02/07/2014	Butanoate metabolism
-btd_RR	R_R__2_3_Butanediol		C4H10O2	0	C03044	225936		OWBTYPJTUOEWEK-QWWZWVQMSA-N		HMDB0033007	02/07/2014	Butanoate metabolism
+btd_RR	R_R__2_3_Butanediol		C4H10O2	0	C03044	225936		OWBTYPJTUOEWEK-QWWZWVQMSA-N		HMDB0033007	02/07/2014	Central metabolism
 btd_SS	(S,S)-2,3-Butanediol	C4H10O2	C4H10O2	0							02/07/2014	Butanoate metabolism
-btn	Biotin		C10H15N2O3S	-1	C00120	171548	15956	YBJHBAHKTGYVGT-ZKWXMUAHSA-M		HMDB00030	02/07/2014	Biotin metabolism
+btn	Biotin		C10H15N2O3S	-1	C00120	171548	15956	YBJHBAHKTGYVGT-ZKWXMUAHSA-M		HMDB00030	02/07/2014	Cofactors
 btn_co2	Carboxybiotin-carboxyl-carrier protein	C17H26N4O5SX	C17H26N4O5SX	-1							30/09/2014	Biotin metabolism
 btnam	Biotin amide		C10H17N3O2S	0							19/09/2018	Biotin metabolism
 btnso	d-biotin d-sulfoxide		C10H15N2O4S	-1							02/07/2014	Biotin metabolism
-btoh	butanol		C4H10O	0	C06142	263		LRHPLDYGYMQRHN-UHFFFAOYSA-N		HMDB04327	02/07/2014	Pyruvate metabolism
+btoh	butanol		C4H10O	0	C06142	263		LRHPLDYGYMQRHN-UHFFFAOYSA-N		HMDB04327	02/07/2014	Central metabolism
 bttn	Bracteatin		C15H10O7	0							19/09/2018	Xenobiotics metabolism
 bttn6og	Bracteatin 6-O-glucoside		C21H20O12	0							19/09/2018	Xenobiotics metabolism
-but	Butyrate		C4H7O2	-1	C00246	264	30772	FERIUCNNQQJTOY-UHFFFAOYSA-M		HMDB00039	02/07/2014	Butanoate metabolism
+but	Butyrate		C4H7O2	-1	C00246	264	30772	FERIUCNNQQJTOY-UHFFFAOYSA-M		HMDB00039	02/07/2014	Central metabolism
 but2eACP	But-2-enoyl-[acyl-carrier protein]		C15H25N2O8PRS	-1							02/07/2014	Fatty acid synthesis
 butACP	Butyryl-ACP (n-C4:0ACP)		C15H27N2O8PRS	-1							02/07/2014	Fatty acid synthesis
-butam	n-butylamine	C4H11N	C4H11N	0	C18706						25/09/2019	Valine, leucine, and isoleucine metabolism
+butam	n-butylamine	C4H11N	C4H11N	0	C18706						25/09/2019	Amines
 butb	Butyro-betaine	C8H18NO	C8H19NO	1							02/07/2014	
 butpi	Butanoyl phosphate		C4H7O5P	-2	C02527						02/07/2014	Butanoate metabolism
 butso3	butanesulfonate		C4H9O3S	-1							02/07/2014	Respiration
@@ -1785,7 +1785,7 @@ C02356	(S)-2-Aminobutanoate		C4H9NO2	0	C02356	80283	35619	QWCKQJZIFLGMSD-VKHMYHE
 C02442	N-methyltyraminium		C9H14NO	1	C02442	9727	17458	AXVZFRBSCNEKPQ-UHFFFAOYSA-O		HMDB03633	02/07/2014	Phenylalanine metabolism
 C02469	Uroporphyrin III		C40H30N4O16	-8	C02469		15436	VZVFNUAIRVUCEW-UJJXFSCMSA-N		HMDB00916	02/07/2014	Heme synthesis
 C02470	Xanthurenic acid		C10H6NO4	-1	C02470	5699	217069	FBZONXHGGPHHIY-UHFFFAOYSA-M		HMDB00881	02/07/2014	Tryptophan metabolism
-C02528	chenodeoxycholate		C24H39O4	-1	C02528	10133	16755	RUDATBOHQWOJDD-BSWAIDMHSA-M		HMDB00518	02/07/2014	Bile acid metabolism
+C02528	chenodeoxycholate		C24H39O4	-1	C02528	10133	16755	RUDATBOHQWOJDD-BSWAIDMHSA-M		HMDB00518	02/07/2014	Bile acids
 C02592	Taurolithocholate		C26H44NO5S	-1	C02592	439763	36259			HMDB00722	02/07/2014	
 C02712	N-Acetylmethionine		C7H12NO3S	-1	C02712	6180	21557	XUYPXLNMDZIRQH-LURJTMIESA-M		HMDB0011745	02/07/2014	Methionine and cysteine metabolism
 C02744	Psychosine sulfate		C24H47NO10S	0	C02744	53481594	17507	UIEYIJKBVSNMMH-PIIMIWFASA-N		HMDB0013046	02/07/2014	Glycosphingolipid metabolism
@@ -1883,7 +1883,7 @@ c81coa	octenoylcoa		C29H44N7O17P3S	-4	C05276	5280769	27537	CPSDNAXXKWVYIY-NTLMCJ
 c81crn	octenoyl carnitine		C15H27NO4	0		53481667		YMIVWYONPRZBEJ-LXKVQUBZSA-N		HMDB0013324	02/07/2014	Fatty acid oxidation
 c8crn	octanoyl carnitine		C15H29NO4	0	C02838	11953814	18102	CXTATJFJDMJMIY-CYBMUJFWSA-N		HMDB00791	02/07/2014	Fatty acid oxidation
 c8dc	suberyl carnitine		C15H26NO6	-1				YVWVEIPYMGBQPE-UHFFFAOYSA-M			02/07/2014	Fatty acid oxidation
-ca2	calcium(2+)		Ca	2	C00076	271	29108	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		HMDB00464	02/07/2014	
+ca2	calcium(2+)		Ca	2	C00076	271	29108	BHPQYMZQTOCNFJ-UHFFFAOYSA-N		HMDB00464	02/07/2014	Minerals
 ca24g	Cholic acid-24glucuronide, CA-24G		C30H47O11	-1							03/01/2017	Bile acid synthesis
 ca3s	Cholic acid 3-sulfate		C24H38O8S	-2							03/01/2017	Bile acid synthesis
 caflcoa	Caffeoyl-CoA	C30H38N7O19P3S	C30H39N7O19P3S	-3							19/09/2018	Caffeine metabolism
@@ -2662,7 +2662,7 @@ cfoh	Caffeyl alcohol		C9H10O3	0							19/09/2018	Caffeine metabolism
 cfral	Coniferaldehyde		C10H10O3	0							19/09/2018	Caffeine metabolism
 cfrl	Coniferol		C10H12O3	0							19/09/2018	Isoquinoline alkaloid biosynthesis
 cglsd	Cyanoglucoside		C8H11NO6R2	0							19/09/2018	Cyanoamino acid metabolism
-cgly	L-cysteinylglycine		C5H10N2O3S	0	C01419	439498	4047	ZUKPVRWZDMRIEO-VKHMYHEASA-N		HMDB00078	02/07/2014	Alanine and aspartate metabolism
+cgly	L-cysteinylglycine		C5H10N2O3S	0	C01419	439498	4047	ZUKPVRWZDMRIEO-VKHMYHEASA-N		HMDB00078	02/07/2014	Amino acid metabolites
 ch15dccoa	Cyclohexa-1,5-dienecarbonyl-CoA		C28H39N7O17P3S	-3							19/09/2018	Xenobiotics metabolism
 ch4	Methane	CH4	CH4	0	C01438	297	16183	VNWKTOKETHGBQD-UHFFFAOYSA-N	[H]C([H])([H])[H] 	HMDB02714	03/02/2015	Methane metabolism
 ch4s	Methanethiol		CH4S	0	C00409	878	16007	LSDPWZHWYPCBBB-UHFFFAOYSA-N		HMDB03227	02/07/2014	Methionine and cysteine metabolism
@@ -2683,8 +2683,8 @@ chlphncl3a	Chloramphenicol 3-acetate		C13H14N2O6Cl2	0							19/09/2018	Xenobioti
 chlphyllide	Chlorophyllide		C35H33N4O5Mg	0	C02139					HMDB0031147	14/03/2016	Porphyrin and chlorophyll metabolism
 chlstol	5alpha-cholesta-7,24-dien-3beta-ol		C27H44O	0	C05439	440670	16290	PKEPPDGGTSZLBL-SKCNUYALSA-N		HMDB06842	02/07/2014	Cholesterol metabolism
 chmsaldh	5-Chloro-2-hydroxymuconic semialdehyde		C6H4O4Cl	-1							19/09/2018	Benzoate degradation
-chol	Choline		C5H14NO	1	C00114	305	15354	OEYIOHPDSNJKLS-UHFFFAOYSA-N		HMDB00097	02/07/2014	Glycerophospholipid metabolism
-cholate	Cholate		C24H39O5	-1	C00695	221493	16359	BHQCQFFYRZLCQQ-OELDTZBJSA-M		HMDB00619	02/07/2014	Bile acid metabolism
+chol	Choline		C5H14NO	1	C00114	305	15354	OEYIOHPDSNJKLS-UHFFFAOYSA-N		HMDB00097	02/07/2014	Amines
+cholate	Cholate		C24H39O5	-1	C00695	221493	16359	BHQCQFFYRZLCQQ-OELDTZBJSA-M		HMDB00619	02/07/2014	Bile acids
 cholcoa	choloyl-CoA(4-)		C45H70N7O20P3S	-4	C01794	439573	15519	ZKWNOTQHFKYUNU-JGCIYWTLSA-J		HMDB01374	02/07/2014	Bile acid metabolism
 cholcoads	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholest-24-enoyl-CoA		C48H74N7O20P3S	-4	C05460	5280797	27505	QVDPWQVOSKJUES-SQEGORTJSA-J		HMDB06889	02/07/2014	Bile acid synthesis
 cholcoaone	3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestan-26-oyl-CoA(4-)		C48H74N7O21P3S	-4	C05467	440690	27379	AWLXQJGPNLCTLM-YFXOTMPNSA-J		HMDB06891	02/07/2014	Bile acid metabolism
@@ -2692,10 +2692,11 @@ cholcoar	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA(4-)		
 cholcoas	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoyl-CoA(S)		C48H76N7O20P3S	-4	C17343	15942888	15493	MNYDLIUNNOCPHG-TUTZYBGQSA-J		HMDB02178	02/07/2014	Bile acid synthesis
 cholp	choline phosphate(1-)		C5H13NO4P	-1	C00588	1014	18132	YHHSONZFOIEMCP-UHFFFAOYSA-M		HMDB01565	02/07/2014	Glycerophospholipid metabolism
 chols	Choline sulfate		C5H13NO4S	0							02/07/2014	Glycine, serine, alanine, and threonine metabolism
-chor	chorismate		C10H8O6	-2	C00251	12039				HMDB0012199	02/07/2014	Folate metabolism
+chor	chorismate		C10H8O6	-2	C00251	12039				HMDB0012199	02/07/2014	Cell wall biosynthesis
 chsterol	cholesterol		C27H46O	0	C00187	11025495	16113	HVYWMOMLDIMFJA-DPAQBDIFSA-N		HMDB00067	02/07/2014	Bile acid metabolism
 chsterols	cholesterol sulfate		C27H45O4S	-1	C18043	65076	41321	BHYOQNUELFTYRT-DPAQBDIFSA-M		HMDB00653	02/07/2014	Steroid metabolism
 chtbs	N,N-diacetylchitobiose		C16H28N2O11	0							02/07/2014	Aminosugar metabolism
+chtbs6p	Diacetylchitobiose-6-phosphate		C16H27N2O14P	-2							24/02/2026	Aminosugar metabolism
 chtn	chitin		C24H41N3O16	0			71404	WZZVUHWLNMNWLW-VFCSDQTKSA-N			02/07/2014	Aminosugar metabolism
 chxn	Cyclohexanone		C6H10O	0							19/09/2018	Xenobiotics metabolism
 chxn12dn	Cyclohexan-1,2-dione		C6H8O2	0							19/09/2018	Xenobiotics metabolism
@@ -2703,7 +2704,7 @@ chxne	Cyclohexane		C6H12	0							19/09/2018	Xenobiotics metabolism
 chxnol	Cyclohexanol		C6H12O	0							19/09/2018	Xenobiotics metabolism
 chxylamn	Cyclohexylamine		C6H14N	1							19/09/2018	Xenobiotics metabolism
 chylo_hs	Chylomicron Lipoprotein		X	0							03/01/2017	Glycerophospholipid metabolism
-cinnm	trans-Cinnamate		C9H7O2	-1							02/07/2014	Flavonoid, isoflavonoid, and polyphenol metabolism
+cinnm	trans-Cinnamate		C9H7O2	-1							02/07/2014	Amino acid metabolites
 cinnmaldh	Cinnamaldehyde		C9H8O	0							19/09/2018	Phenylalanine metabolism
 cinnmcoa	Trans-Cinnamyl-CoA	C30H42N7O17P3S	C30H38N7O17P3S	-4							20/12/2017	Phenylalanine metabolism
 cinnmoh	Cinnamyl alcohol		C9H10O	0							19/09/2018	Phenylalanine metabolism
@@ -2711,14 +2712,14 @@ cisacndl	cis-1,2-Anthracenediol		C14H12O2	0							19/09/2018	Polycyclic aromatic
 cisclaaldh	cis-3-Chloroallyl aldehyde		C3H3OCl	0							19/09/2018	Xenobiotics metabolism
 cisclpol	cis-3-Chloro-2-propene-1-ol		C3H5OCl	0							19/09/2018	Xenobiotics metabolism
 cisipgn	(+)-cis-Isopulegone		C10H16O	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-cit	Citrate		C6H5O7	-3	C00158	311	30769	KRKNYBCHXYNGOX-UHFFFAOYSA-K		HMDB00094	02/07/2014	Citric acid cycle
+cit	Citrate		C6H5O7	-3	C00158	311	30769	KRKNYBCHXYNGOX-UHFFFAOYSA-K		HMDB00094	02/07/2014	Central metabolism
 Cit_Mg	Citrate-Mg		C6H5O7Mg	-1							02/07/2014	
 citmal	(S)-Citramalate	C5H8O5	C5H6O5	-2	C02614					HMDB00426	17/03/2015	C5-branched dibasic acid metabolism
 citmcoa_L	(3S)-citramalyl-CoA(5-)		C26H37N7O20P3S	-5	C01011	53477827	36882	XYGOWHUIVNMEIA-XBVYHAPZSA-I		HMDB06345	02/07/2014	C5-branched dibasic acid metabolism
 citr_L	L-citrulline		C6H13N3O3	0	C00327	9750	16349	RHGKLRLOHDJJDR-BYPYZUCNSA-N		HMDB00904	02/07/2014	Alanine and aspartate metabolism
 ckdn	CMP-3-deoxy-D-glycero-D-galacto-nonulosonic acid		C18H26N3O16P	-2							02/07/2014	Cell wall biosynthesis
 ckdo	CMP-3-deoxy-D-manno-octulosonate		C17H24N3O15P	-2							02/07/2014	Lipopolysaccharide biosynthesis
-cl	Chloride		Cl	-1	C00698	24526	17996	VEXZGXHMUGYJMC-UHFFFAOYSA-M		HMDB00492	02/07/2014	Drug metabolism
+cl	Chloride		Cl	-1	C00698	24526	17996	VEXZGXHMUGYJMC-UHFFFAOYSA-M		HMDB00492	02/07/2014	Small molecules
 clcxb	Celecoxib	C17H14F3N3O2S	C17H14F3N3O2S	0	C07589	2662					01/03/2019	Drug metabolism
 clcxb_c	Carboxycelecoxib	C17H14F3N3O4S	C17H13F3N3O4S	-1		10047220					01/03/2019	Drug metabolism
 clcxb_c_glc	Carboxycelecoxib Glucuronide	C23H22F3N3O10S	C23H21F3N3O10S	-1							01/03/2019	Drug metabolism
@@ -2779,13 +2780,13 @@ cnrt	Cyanuric acid		C3H3N3O3	0							19/09/2018	Xenobiotics metabolism
 cnxthn	9-cis-Neoxanthin		C40H56O4	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 co	carbon monoxide		CO	0	C00237	281	17245	UGFAIRIUMAVXCW-UHFFFAOYSA-N		HMDB01361	02/07/2014	Flavonoid, isoflavonoid, and polyphenol metabolism
 co1dam	Cob(I)yrinate a,c diamide		C45H56CoN6O12	-5	C06505			NKLHEMWEQJCPPF-YYYLUSCNSA-M		HMDB06904	02/07/2014	Vitamin B12 metabolism
-co2	Carbon dioxide		CO2	0	C00011	280	16526	CURLTUGMZLYLDI-UHFFFAOYSA-N		HMDB01967	02/07/2014	Alanine and aspartate metabolism
+co2	Carbon dioxide		CO2	0	C00011	280	16526	CURLTUGMZLYLDI-UHFFFAOYSA-N		HMDB01967	02/07/2014	Central metabolism
 co2dam	Cob(II)yrinate a,c diamide		C45H56CoN6O12	-4	C06504						02/07/2014	Vitamin B12 metabolism
 coa	Coenzyme A		C21H32N7O16P3S	-4	C00010	6816	15346	RGJOEKWQDUBAIZ-IBOSZNHHSA-J		HMDB01423	02/07/2014	Alanine and aspartate metabolism
 cob	Coenzyme B	C11H22NO7PS	C11H19NO7PS	-3							02/07/2014	Methane metabolism
 cob1nda	Cob-I-yrinate-a-c-diamide		C45H56CoN6O12	0							02/07/2014	
 cob2nda	Cob-II-yrinate-a-c-diamide		C45H56CoN6O12	0							02/07/2014	
-cobalt2	Co2+		Co	2	C00175	104729				HMDB00608	02/07/2014	Vitamin B12 metabolism
+cobalt2	Co2+		Co	2	C00175	104729				HMDB00608	02/07/2014	Minerals
 cobn	Cobyrinate		C45H52CoN4O14	0							02/07/2014	
 cobya	Cobyrinate		C45H52N4O14Co	-6	C05773						02/07/2014	Vitamin B12 metabolism
 codhpre6	cobalt-dihydro-precorrin 6		C44H47N4O16Co	-7	C11543						02/07/2014	Vitamin B12 metabolism
@@ -2812,7 +2813,7 @@ copre6	cobalt-precorrin 6		C44H45N4O16Co	-7	C11542						02/07/2014	Vitamin B12 m
 copre6b	Cobalt-precorrin-6b		C44H47CoN4O16	-7							02/07/2014	Vitamin B12 metabolism
 copre7	Cobalt-precorrin-7		C44H50CoN4O14	-6							02/07/2014	Vitamin B12 metabolism
 copre8	cobalt-precorrin 8		C45H52N4O14Co	-6	C11545						02/07/2014	Vitamin B12 metabolism
-coprost	Coprostanol	C27H48O	C27H48O	0				QYIXCDOBOSTCEI-NWKZBHTNSA-N		HMDB00577	22/12/2016	Bile acid metabolism
+coprost	Coprostanol	C27H48O	C27H48O	0				QYIXCDOBOSTCEI-NWKZBHTNSA-N		HMDB00577	22/12/2016	Bile acids
 core_lps_bt	core_lps_bt		C139H253N2O66P3	-1							02/07/2014	
 core_lps_hp	core_lps_hp		C129H237N2O62P2	1							17/07/2015	
 core2	Core 2		C22H37N2O15X	0			15876				02/07/2014	Keratan sulfate synthesis
@@ -2936,7 +2937,7 @@ cspg_c_rest	Not degradable product CSABCPASE_C, Gal6S-Gal-Xyl-L-Ser-protein		C17
 cspg_d	chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan		C45H64N2O51S5X	-7							02/07/2014	Chondroitin sulfate degradation
 cspg_e	chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan		C45H63N2O54S6X	-8							02/07/2014	Chondroitin sulfate degradation
 cspmd	Carboxyspermidine		C8H20N3O2	1	C18172						02/07/2014	Arginine and proline metabolism
-ctbt	crotonobetaine		C7H13NO2	0							02/07/2014	Fatty acid oxidation
+ctbt	crotonobetaine		C7H13NO2	0							02/07/2014	Amines
 ctbtcoa	crotonobetainyl-CoA		C28H44N8O17P3S	-3							02/07/2014	Fatty acid oxidation
 ctdecdcoa	cis2trans4decadienoylcoa		C31H46N7O17P3S	-4				FASAKYLWSRDQOH-STEVQDCBSA-J			02/07/2014	Fatty acid oxidation
 ctet	Cellotetraose		C24H42O21	0							19/09/2018	Starch and sucrose metabolism
@@ -2949,7 +2950,7 @@ ctrnt	Citronellate		C10H17O2	-1							19/09/2018	Flavonoid, isoflavonoid, and po
 ctxt	Cetraxate		C17H23NO4	0							19/09/2018	Xenobiotics metabolism
 ctxtbester	Cetraxate benzyl ester		C24H30NO4	1							19/09/2018	Xenobiotics metabolism
 cu	Cu+		Cu	1							02/07/2014	
-cu2	Cu2+		Cu	2				JPVYNHNXODAKFH-UHFFFAOYSA-N		HMDB00657	02/07/2014	
+cu2	Cu2+		Cu	2				JPVYNHNXODAKFH-UHFFFAOYSA-N		HMDB00657	02/07/2014	Minerals
 cvm1gluc	cerivastatin-M1-glucuronide	C30H37FNNaO11	C30H36FNNaO11	-1							02/07/2014	Drug metabolism
 cvm23gluc	cerivastatin-M23-glucuronide	C31H39FNNaO12	C31H38FNNaO12	-1							02/07/2014	Drug metabolism
 cvxthn	9-cis-Violaxanthin		C40H56O4	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
@@ -2960,7 +2961,7 @@ cych1e1cbxlcoa	Cyclohex-1-ene-1-carboxyl-CoA	C28H44N7O17P3S	C28H40N7O17P3S	-4	C0
 cyn	Cyanin		C27H29O16	-1							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 cynt	Cyanate		CNO	-1	C01417	105034	29195	XLJMAIOERFSOGZ-UHFFFAOYSA-M		HMDB02078	02/07/2014	Miscellaneous
 cys_D	D-Cysteine		C3H7NO2S	0							02/07/2014	Methionine and cysteine metabolism
-cys_L	L-cysteine		C3H7NO2S	0	C00097	5862	17561	XUJNEKJLAYXESH-REOHCLBHSA-N		HMDB00574	02/07/2014	Alanine and aspartate metabolism
+cys_L	L-cysteine		C3H7NO2S	0	C00097	5862	17561	XUJNEKJLAYXESH-REOHCLBHSA-N		HMDB00574	02/07/2014	Amino acid metabolites
 cysacmp	cysteine-conjugate-acetaminophen	C11H14N2O4S	C11H14N2O4S	0							02/07/2014	Drug metabolism
 cysam	cysteaminium		C2H8NS	1	C01678	6058	17141	UFULAYFCSOUIOV-UHFFFAOYSA-O		HMDB02991	02/07/2014	CoA catabolism
 cysasnmet	Cystyl-Asparaginyl-Methionine		C12H22N4O5S2	0				SQJSYLDKQBZQTG-BIIVOSGPSA-N			03/01/2017	Peptide metabolism
@@ -2985,8 +2986,8 @@ cytbr	cytochrome-bo-red		CuR	1							12/11/2020	Respiration
 cytcbbox	cytochrome-cbb-ox		CuR	4							12/11/2020	
 cytcbbr	cytochrome-cbb-red		CuR	2							12/11/2020	
 cytcox	Cytochrome-C-ox		FeR	3							12/11/2020	Respiration
-cytcr	Cytochrome-C-red"		FeR	2							12/11/2020	Respiration
-cytd	Cytidine		C9H13N3O5	0	C00475	6175	17562	UHDGCWIWMRVCDJ-XVFCMESISA-N		HMDB00089	02/07/2014	Nucleotide interconversion
+cytcr	Cytochrome-C-red		FeR	2							12/11/2020	Respiration
+cytd	Cytidine		C9H13N3O5	0	C00475	6175	17562	UHDGCWIWMRVCDJ-XVFCMESISA-N		HMDB00089	02/07/2014	Nucleotide metabolism
 czp	Clonazepam	C15H10ClN3O3	C15H10ClN3O3	0		2802					01/03/2019	Drug metabolism
 d12dg_LLA	diglucosyl_1_2_diacylglycerol		C4920H8998O1500	0							02/07/2014	
 d2hicprt	D-2-Hydroxyisocaproate		C6H11O3	-1							19/09/2018	
@@ -2996,7 +2997,7 @@ daa	Deaminated Amiodarone (M5)	C21H20I2O4	C21H20I2O4	0							01/03/2019	Drug met
 daa_glc	Deaminated Amiodarone Glucuronide (M14)	C27H28I2O10	C27H27I2O10	-1							01/03/2019	Drug metabolism
 dacphlsprnc	Deacetylcephalosporin C		C14H18N3O7S	-1							19/09/2018	Xenobiotics metabolism
 dactxvndln	Deacetoxyvindoline		C23H30N2O4	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-dad_2	2-deoxyadenosine		C10H13N5O3	0	C00559	13730	17256	OLXZPDWKRNYJJZ-RRKCRQDMSA-N		HMDB00101	02/07/2014	Nucleotide interconversion
+dad_2	2-deoxyadenosine		C10H13N5O3	0	C00559	13730	17256	OLXZPDWKRNYJJZ-RRKCRQDMSA-N		HMDB00101	02/07/2014	Nucleotide metabolism
 dad_5	5-Deoxyadenosine		C10H13N5O3	0	C05198	439182		XGYIMTFOTBMPFP-KQYNXXCUSA-N		HMDB01983	02/07/2014	Arginine and proline metabolism
 dadp	dADP		C10H12N5O9P2	-3	C00206	53477733	16174	DAEAPNUQQAICNR-RRKCRQDMSA-K		HMDB01508	02/07/2014	Aminosugar metabolism
 dag_hs	diglyceride		C3H6OFULLRCO2FULLR2CO2	0				XIAZEYRSKHAPND-QEFFJBJBSA-N			02/07/2014	Fatty acid oxidation
@@ -3032,7 +3033,7 @@ dcamp	N6-(1,2-Dicarboxyethyl)-AMP		C14H14N5O11P	-4	C03794	440122	15919	OFBHPPMPB
 dcdp	dCDP		C9H12N3O10P2	-3	C00705	150855	28846	FTDHDKPUHBLBTL-SHYZEUOFSA-K		HMDB01245	02/07/2014	NAD metabolism
 dcf	Diclofenac	C14H11Cl2NO2	C14H10Cl2NO2	-1	C01690	3033					01/03/2019	Drug metabolism
 dcf_glc	Diclofenac Acyl Glucuronide	C20H19Cl2NO8	C20H18Cl2NO8	-1		16084218					01/03/2019	Drug metabolism
-dchac	deoxycholic acid		C24H39O4	-1	C04483	222528	28834	KXGVEGMKQFWNSR-LLQZFEROSA-M		HMDB00626	02/07/2014	Bile acid metabolism
+dchac	deoxycholic acid		C24H39O4	-1	C04483	222528	28834	KXGVEGMKQFWNSR-LLQZFEROSA-M		HMDB00626	02/07/2014	Bile acids
 dchlmthn	Dichloromethane	CH2Cl2	CH2Cl2	0							19/09/2018	Xenobiotics metabolism
 dchlp	Dolichol phosphate		C15H28O4P	-1							19/09/2018	
 dcholcoa	chenodeoxycholoyl coenzyme a		C45H70N7O19P3S	-4	C05337	11966205	28701	IIWDDMINEZBCTG-RUAADODMSA-J		HMDB06292	02/07/2014	Bile acid metabolism
@@ -3047,11 +3048,11 @@ dcsptn1	docosa-4,7,10,13,16-pentaenoic acid		C22H33O2	-1		159656	65136	AVKOENOBF
 dcsptn1coa	docosa-4,7,10,13,16-pentaenoyl coenzyme A		C43H64N7O17P3S	-4	C16173	53477845		QKBTYZDPVNTERQ-UWVCYPHHSA-J		HMDB06513	02/07/2014	Fatty acid oxidation
 dcsptn1crn	docosa-4,7,10,13,16-pentaenoyl carnitine		C29H47NO4	0				KRXOUZZWQXTUIB-IDERWEGCSA-N		HMDB06321	02/07/2014	Fatty acid oxidation
 dctp	dCTP		C9H12N3O13P3	-4	C00458	65091	16311	RGWHQCVHVJXOKC-SHYZEUOFSA-J		HMDB00998	02/07/2014	NAD metabolism
-dcyt	Deoxycytidine		C9H13N3O4	0	C00881	13711	15698	CKTSBUTUHBMZGZ-SHYZEUOFSA-N		HMDB00014	02/07/2014	Nucleotide interconversion
+dcyt	Deoxycytidine		C9H13N3O4	0	C00881	13711	15698	CKTSBUTUHBMZGZ-SHYZEUOFSA-N		HMDB00014	02/07/2014	Nucleotide metabolism
 dd2coa	trans-Dodec-2-enoyl-CoA		C33H52N7O17P3S	-4	C03221	45266564	57330	IRFYVBULXZMEDE-KDPBKMHJSA-J		HMDB03712	02/07/2014	Fatty acid oxidation
 dd3coa	cis-dodec-3-enoyl-CoA(4-)		C33H52N7O17P3S	-4	C02944	16061154	58543	XEMIVMKTVGRFTD-YPWFGKPMSA-J		HMDB04257	02/07/2014	Fatty acid oxidation
 dd5ecoa	5-dodecenoylcoa		C33H52N7O17P3S	-4				RCVJZGBRLGUTKT-GMHMEAMDSA-J			02/07/2014	Fatty acid oxidation
-ddca	laurate		C12H23O2	-1	C02679	3893	30805	POULHZVOKOAJMA-UHFFFAOYSA-M		HMDB00638	02/07/2014	Cytochrome metabolism
+ddca	laurate		C12H23O2	-1	C02679	3893	30805	POULHZVOKOAJMA-UHFFFAOYSA-M		HMDB00638	02/07/2014	Fatty acids
 ddcaACP	Dodecanoyl-ACP (n-C12:0ACP)		C23H43N2O8PRS	-1	C05223		16759				02/07/2014	Fatty acid oxidation
 ddcacoa	Dodecanoyl-CoA (n-C12:0CoA)		C33H54N7O17P3S	-4	C01832	165436	15521	YMCXGHLSVALICC-GMHMEAMDSA-J		HMDB03571	02/07/2014	Fatty acid oxidation
 ddea	Di-N-Desethylamiodarone (DDEA) 	C21H21I2NO3	C21H22I2NO3	1		125134					01/03/2019	Drug metabolism
@@ -3096,7 +3097,7 @@ dgal6p	6-Phospho-D-galactose	C6H13O9P	C6H11O9P	-2							02/07/2014	Galactose met
 dgaldagl	D-Galactosyldiacylglycerol		C11H16O10R2	0							19/09/2018	Galactose metabolism
 dgalrnt1p	D-Galacturonate 1-phosphate	C6H8O10P	C6H9O10P	-2							19/09/2018	Pentose and glucuronate interconversions
 dgbgalbgr	D-Galactosyl-1,3-beta-D-galactosyl-1,4-beta-D-glucosyl-R		C18H31O16R	0							19/09/2018	N-glycan degradation
-dgchol	glycochenodeoxycholate		C26H43NO5	0	C05466	22833540	36274	GHCZAUBVMUEKKP-GYPHWSFCSA-N		HMDB00637	02/07/2014	Bile acid metabolism
+dgchol	glycochenodeoxycholate		C26H43NO5	0	C05466	22833540	36274	GHCZAUBVMUEKKP-GYPHWSFCSA-N		HMDB00637	02/07/2014	Bile acids
 dgcholcoa	Chenodeoxyglycocholoyl-CoA		C45H70N7O19P3S	-4	C05461	440685		IIWDDMINEZBCTG-ILLDALFMSA-J		HMDB06897	02/07/2014	Bile acid synthesis
 dgdag_LPL	Diglucosyl_diacylglycerol		X	0							02/07/2014	
 dgdp	dGDP		C10H12N5O10P2	-3	C00361	439220	28862	CIKGWCTVFSRMJU-KVQBGUIXSA-K		HMDB00960	02/07/2014	Glycolysis/gluconeogenesis
@@ -3129,7 +3130,7 @@ dhchd1c	1,2-Dihydroxycyclohexa-3,5-diene-1-carboxylate		C7H7O4	-1							19/09/20
 dhcholestanate	3alpha,7alpha-Dihydroxy-5beta-cholestanate		C27H45O4	-1	C04554	53477686	16577	ITZYGDKGRKKBSN-HKFUITGCSA-M		HMDB00359	02/07/2014	Bile acid synthesis
 dhcholestancoa	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA		C48H76N7O19P3S	-4	C04644	440420	15494	SBYLHTNKEWSLBA-UVNMPUASSA-J		HMDB02159	02/07/2014	Bile acid synthesis
 dhcholoylcoa	3alpha,7alpha-Dihydroxy-5beta-cholest-24-enoyl-CoA		C48H74N7O19P3S	-4	C05447	5280796	27393	SEBZZAWTQNNGPK-ZAVIOYSRSA-J		HMDB06895	02/07/2014	Bile acid synthesis
-dhcinnm	2,3-dihydroxicinnamic acid		C9H7O4	-1							02/07/2014	Phenylalanine metabolism
+dhcinnm	2,3-dihydroxicinnamic acid		C9H7O4	-1							02/07/2014	Amino acid metabolites
 dhcmnt	Dihydroclavaminate		C8H12N2O4	0							19/09/2018	Clavulanic acid biosynthesis
 dhcrm_hs	dihydroceramide		C18H38NO2FULLRCO	0			31488	KZTJQXAANJHSCE-OIDHKYIRSA-N			02/07/2014	Glycosphingolipid metabolism
 dhdascb	dehydroascorbide(1-)		C6H6O6	0	C00425	210328	17242	SBJKKFFYIZUCET-UHFFFAOYSA-N		HMDB01264	02/07/2014	Eicosanoid metabolism
@@ -3149,7 +3150,7 @@ dhmoifvn	2,7-Dihydroxy-4-methoxyisoflavanone		C16H14O5	0							19/09/2018	Flavon
 dhmphze	Dihydromethanophenazine	C37H52N2O	C37H52N2O	0							02/07/2014	Methane metabolism
 dhmptp	dihydromonapterin-triphosphate		C9H12N5O13P3	-4							02/07/2014	
 dhmtp	1,2-Dihydroxy-5-(Methylthio)Pent-1-En-3-One	C6H10O3S	C6H9O3S	-1	C15606	17396598	49252	CILXJJLQPTUUSS-XQRVVYSFSA-M	CSCCC(=O)C(\O)=C\O	HMDB12134	02/07/2014	Methionine and cysteine metabolism
-dhna	1,4-Dihydroxy-2-naphthoate		C11H7O4	-1							02/07/2014	Ubiquinone and other terpenoid-quinone biosynthesis
+dhna	1,4-Dihydroxy-2-naphthoate		C11H7O4	-1							02/07/2014	Cell wall biosynthesis
 dhnacoa	1,4-Dihydroxy-2-naphthoyl-CoA		C32H38N7O19P3S	-4	C15547						14/06/2016	Ubiquinone and other terpenoid-quinone biosynthesis
 dhnpt	Dihydroneopterin		C9H13N5O4	0						HMDB02275	02/07/2014	Folate metabolism
 dhocholoylcoa	3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane		C48H74N7O20P3S	-4							02/07/2014	
@@ -3180,7 +3181,7 @@ di17peam	Diisoheptadecanoylphosphatidylethanolamine	C39H78NO8P	C39H78NO8P	0					
 di17pglyc	Diisoheptadecanoylphosphatidylglycerol	C40H79O10P	C40H78O10P	-1							02/07/2014	
 di17pgp	Diisoheptadecanoylphosphatidylglycerophosphate	C40H80O13P2	C40H77O13P2	-3							02/07/2014	
 di17pser	Diisoheptadecanoylphosphatidylserine	C40H78NO10P	C40H76NO10P	-2							02/07/2014	
-diact	Diacetyl		C4H6O2	0	C00741	650		QSJXEFYPDANLFS-UHFFFAOYSA-N		HMDB03407	02/07/2014	Pyruvate metabolism
+diact	Diacetyl		C4H6O2	0	C00741	650		QSJXEFYPDANLFS-UHFFFAOYSA-N		HMDB03407	02/07/2014	Central metabolism
 didecaeth	C12:0-Ethanolamide, Didecanoyl Ethanolamide		C14H29NO2	0				QZXSMBBFBXPQHI-UHFFFAOYSA-N			03/01/2017	Glycerophospholipid metabolism
 didp	dIDP		C10H11N4O10P2	-3	C01344	439488	28823	BKUSIKGSPSFQAC-RRKCRQDMSA-K		HMDB03536	02/07/2014	Nucleotide interconversion
 digalsgalside_hs	Digalactosylceramidesulfate		C30H55NO15SFULLRCO	-1	C06127						02/07/2014	Sphingolipid metabolism
@@ -3291,7 +3292,7 @@ dolmnt	Deoxylimonate		C26H31O8	-1							19/09/2018	Flavonoid, isoflavonoid, and 
 dolmntrl	Deoxylimononic acid D-ring-lactone		C26H32O9	-2							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 dolp_L	dolichyl phosphate(2-)		C1080H1758O40P10	-20	C00110	5280322	57683	GYBNOAFGEKAZTA-QOLULZROSA-N		HMDB06353	02/07/2014	N-glycan degradation
 dolp_U	dolichyl phosphate(2-)		C1025H1670O40P10	-20			57683	GYBNOAFGEKAZTA-QOLULZROSA-L			02/07/2014	N-glycan synthesis
-dopa	Dopamine		C8H12NO2	1	C03758	681	18243	VYFYYTLLBUKUHU-UHFFFAOYSA-O		HMDB00073	02/07/2014	Drug metabolism
+dopa	Dopamine		C8H12NO2	1	C03758	681	18243	VYFYYTLLBUKUHU-UHFFFAOYSA-O		HMDB00073	02/07/2014	Amino acid metabolites
 dopa3glcur	Dopamine-3-O-Glucuronide		C14H19NO8	0				VFNIABIHYUQGBJ-BYNIDDHOSA-N			03/01/2017	Tyrosine metabolism
 dopa4glcur	Dopamine-4-O-Glucuronide		C14H19NO8	0		3082490		CQASRCDNLNMIJY-BYNIDDHOSA-N		HMDB0010329	03/01/2017	Tyrosine metabolism
 dopa4sf	Dopamine 4-O-Sulphate		C8H11NO5S	0	C13691	123932		DEKNNWJXAQTLFA-UHFFFAOYSA-N		HMDB04148	03/01/2017	Tyrosine metabolism
@@ -3300,7 +3301,7 @@ dopasf	dopamine 3-O-sulfate		C8H11NO5S	0	C13690	122136	37946	NZKRYJGNYPYXJZ-UHFF
 dortp	Deoxyribose triphosphate		C5H10O13P3	-3							19/09/2018	Nucleotide sugar metabolism
 doxopa	1,2-Dioxopropanoic acid		X	0							02/07/2014	
 dpcnl	Diphenylene carbinol		C13H10O	0							19/09/2018	Xenobiotics metabolism
-dpcoa	Dephospho-CoA		C21H33N7O13P2S	-2	C00882	439335	15468	KDTSHFARGAKYJN-IBOSZNHHSA-L		HMDB01373	02/07/2014	CoA catabolism
+dpcoa	Dephospho-CoA		C21H33N7O13P2S	-2	C00882	439335	15468	KDTSHFARGAKYJN-IBOSZNHHSA-L		HMDB01373	02/07/2014	Cofactors
 dpdn3gcg	Delphinidin 3-glucoside 5-caffoyl-glucoside		C36H34O20	-2							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 dpgpe	2,3-O-phytanyl-sn-glycero-1-phosphoethanolamine	C45H94O6N1P1	C45H94NO6P	0							13/05/2020	Glycerophospholipid metabolism
 dpgpg	2,3-di-O-phytanyl-sn-glycerol-1-phospho-3'-sn-glycerol	C46H94O8P1	C46H94O8P	-1							13/05/2020	Glycerophospholipid metabolism
@@ -3355,7 +3356,7 @@ dtmp	dTMP		C10H13N2O8P	-2	C00364	9700	17013	GYOZYWVXFNDGLU-XLPZGREQSA-L		HMDB012
 dtnpodaglu	dTDP-3-oxo-6-deoxy-alpha-D-glucose		C16H22N2O15P2	-2							19/09/2018	Cell wall biosynthesis
 dtt	1,4-dithiothreitol		C4H10O2S2	0	C00265	262	42106	VHJLVAABSRFDPM-IMJSIDKUSA-N		HMDB03156	02/07/2014	Selenoamino acid metabolism
 dttOX	trans-1,2-dithiane-4,5-diol		C4H8O2S2	0	C01119	439407	42147	YPGMOWHXEQDBBV-IMJSIDKUSA-N		HMDB0059664	02/07/2014	Selenoamino acid metabolism
-dttp	dTTP		C10H13N2O14P3	-4	C00459	64968	18077	NHVNXKFIZYSCEB-XLPZGREQSA-J		HMDB01342	02/07/2014	NAD metabolism
+dttp	dTTP		C10H13N2O14P3	-4	C00459	64968	18077	NHVNXKFIZYSCEB-XLPZGREQSA-J		HMDB01342	02/07/2014	Nucleotide metabolism
 dudp	dUDP		C9H11N2O11P2	-3	C01346	145729	28850	QHWZTVCCBMIIKE-SHYZEUOFSA-K		HMDB01000	02/07/2014	Nucleotide interconversion
 dump	dUMP		C9H11N2O8P	-2	C00365	65063	17622	JSRLJPSBLDHEIO-SHYZEUOFSA-L		HMDB01409	02/07/2014	Nucleotide interconversion
 duri	Deoxyuridine		C9H12N2O5	0	C00526	13712	16450	MXHRCPNRJAMMIM-SHYZEUOFSA-N		HMDB00012	02/07/2014	Nucleotide interconversion
@@ -3455,7 +3456,7 @@ ethrtl1p_D	D-Erythritol 1-phosphate	C4H11O7P	C4H9O7P	-2	C21294						26/08/2019	F
 ethrtl4p	D-Erythritol 4-phosphate		C4H10O7P	-1							19/09/2018	Fructose and mannose metabolism
 ethso3	ethanesulfonate		C2H5O3S	-1							02/07/2014	Respiration
 ethyne	 Acetylene; Ethyne	C2H2	C2H2	0	 C01548						01/07/2019	Chloroalkane and chloroalkene degradation
-etoh	Ethanol		C2H6O	0	C00469	702	16236	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		HMDB00108	02/07/2014	Glycolysis/gluconeogenesis
+etoh	Ethanol		C2H6O	0	C00469	702	16236	LFQSCWFLJHTTHZ-UHFFFAOYSA-N		HMDB00108	02/07/2014	Central metabolism
 eumelanin	Eumelanin		X	0	C17937						03/01/2017	
 eztmb	Ezetimibe	C24H21F2NO3	C24H21F2NO3	0		150311					01/03/2019	Drug metabolism
 eztmb_glc	Ezetimibe Glucuronide	C30H29F2NO9	C30H28F2NO9	-1		9894653					01/03/2019	Drug metabolism
@@ -3477,7 +3478,7 @@ fac	Fluoroacetate		C2H2O2F	-1							19/09/2018	Xenobiotics metabolism
 facald	Fluoroacetaldehyde		C2H3OF	0							19/09/2018	Xenobiotics metabolism
 fad	Flavin adenine dinucleotide oxidized		C27H31N9O15P2	-2	C00016	643975	16238	VWWQXMAJTJZDQX-UYBVJOGSSA-L		HMDB01248	02/07/2014	Alanine and aspartate metabolism
 fadh2	Flavin adenine dinucleotide reduced		C27H33N9O15P2	-2	C01352	446013	17877	YPZRHBJKEMOYQH-UYBVJOGSSA-L		HMDB01197	02/07/2014	Alanine and aspartate metabolism
-fald	formaldehyde		CH2O	0	C00067	712	16842	WSFSSNUMVMOOMR-UHFFFAOYSA-N		HMDB01426	02/07/2014	Aminobenzoate degradation
+fald	formaldehyde		CH2O	0	C00067	712	16842	WSFSSNUMVMOOMR-UHFFFAOYSA-N		HMDB01426	02/07/2014	Others
 fbnzn	Fluorobenzene		C6H5F	0							19/09/2018	Xenobiotics metabolism
 fc1p	L-Fuculose 1-phosphate		C6H11O8P	-2							02/07/2014	Fructose and mannose metabolism
 fcl_L	L-fuculose		C6H12O5	0							02/07/2014	Fructose and mannose metabolism
@@ -3491,8 +3492,8 @@ fdxo_42	ferrodoxin__oxidized_form_42_		Fe12S12X	0							02/07/2014
 fdxox	Oxidized ferredoxin		X	0	C00139						02/07/2014	Butanoate metabolism
 fdxr_42	ferrodoxin__reduced_form_42_		Fe12S12X	0							02/07/2014	
 fdxrd	Reduced ferredoxin		XH2	0	C00138						02/07/2014	Butanoate metabolism
-fe2	Fe2+		Fe	2	C14818	27284	29033	CWYNVVGOOAEACU-UHFFFAOYSA-N		HMDB00692	02/07/2014	Heme degradation
-fe3	Fe3+		Fe	3	C14819	29936	29034	VTLYFUHAOXGGBS-UHFFFAOYSA-N		HMDB0012943	02/07/2014	Heme synthesis
+fe2	Fe2+		Fe	2	C14818	27284	29033	CWYNVVGOOAEACU-UHFFFAOYSA-N		HMDB00692	02/07/2014	Minerals
+fe3	Fe3+		Fe	3	C14819	29936	29034	VTLYFUHAOXGGBS-UHFFFAOYSA-N		HMDB0012943	02/07/2014	Minerals
 fe3dcit	Fe(III)dicitrate		C12H10FeO14	-3							02/07/2014	
 fe3dhbzs	ferric 2,3-dihydroxybenzoylserine		C10H10NO6Fe	2							02/07/2014	
 fe3dhbzs3	2-3-dihydroxybenzoylserine trimer-Fe-III		C30FeH29N3O16	0							02/07/2014	
@@ -3530,8 +3531,8 @@ fna5moxam	Formyl-N-acetyl-5-methoxykynurenamine		C13H16N2O4	0	C05642	171161		JYW
 foam	Formamide		CH3NO	0							02/07/2014	
 focytC	Ferrocytochrome C		C42H54FeN8O6S2	2	C00126		16928	WFVBWSTZNVJEAY-VQGVYVAWSA-L			02/07/2014	Methionine and cysteine metabolism
 focytcc553	Ferrocytochrome c-553		C42H54FeN8O6S2	2							02/07/2014	Respiration
-fol	Folate		C19H18N7O6	-1	C00504	6037	27470	OVBPIULPVIDEAO-LBPRGKRZSA-M		HMDB00121	02/07/2014	Folate metabolism
-for	Formate		CH1O2	-1	C00058	284	30751	BDAGIHXWWSANSR-UHFFFAOYSA-M		HMDB00142	02/07/2014	Arginine and proline metabolism
+fol	Folate		C19H18N7O6	-1	C00504	6037	27470	OVBPIULPVIDEAO-LBPRGKRZSA-M		HMDB00121	02/07/2014	Cofactors
+for	Formate		CH1O2	-1	C00058	284	30751	BDAGIHXWWSANSR-UHFFFAOYSA-M		HMDB00142	02/07/2014	Central metabolism
 forcoa	formyl-CoA		C22H32N7O17P3S	-4							02/07/2014	
 forglu	N-Formimidoyl-L-glutamate		C6H8N2O4	-2	C00439	439233	7274	NRXIKWMTVXPVEF-BYPYZUCNSA-L		HMDB00854	02/07/2014	Folate metabolism
 formcoa	formyl-CoA(4-)		C22H32N7O17P3S	-4	C00798	439313	15522	SXMOKYXNAPLNCW-GORZOVPNSA-J		HMDB03419	02/07/2014	Fatty acid oxidation
@@ -3541,11 +3542,11 @@ frdp	Farnesyl diphosphate		C15H25O7P2	-3	C00448	445713	50277	VWFJDQUYCIWHTN-UHFF
 frlt	Ferulate	C10H9O4	C10H9O4	-1							19/09/2018	Methionine and cysteine metabolism
 frmd	Formamide	CH3NO	CH3NO	0	C00488	713	16397	ZHNUHDYFZUAESO-UHFFFAOYSA-N	[H]C(N)=O	HMDB01536	02/07/2014	Glyoxylate and dicarboxylate metabolism
 frmdylgly	N-Formimidoylglycine		C3H6N2O2	0							19/09/2018	Purine catabolism
-fru	D-Fructose		C6H12O6	0	C02336	439709	28645	RFSUNEUAIZKAJO-ARQDHWQXSA-N		HMDB00660	02/07/2014	Drug metabolism
+fru	D-Fructose		C6H12O6	0	C02336	439709	28645	RFSUNEUAIZKAJO-ARQDHWQXSA-N		HMDB00660	02/07/2014	Carbohydrates
 frulys	fructoselysine		C12H25N2O7	1							02/07/2014	Starch and sucrose metabolism
 frulysp	fructoselysine Phosphate		C12H24N2O10P	-1							02/07/2014	Starch and sucrose metabolism
 frulysph	fructoselysine Phosphate		C12H25N2O10P	0							12/11/2020	
-fruur	D-Fructuronate		C6H9O7	-1							02/07/2014	Pentose and glucuronate interconversions
+fruur	D-Fructuronate		C6H9O7	-1							02/07/2014	Carbohydrates
 ftz	Futalosinate	C19H18N4O7	C19H17N4O7	-1	C16999	96023485	58863		O[C@@H]1[C@@H](CCC(=O)c2cccc(c2)C([O-])=O)O[C@H]([C@@H]1O)n1cnc2c1nc[nH]c2=O		15/06/2016	Ubiquinone and other terpenoid-quinone biosynthesis
 fuc_L	L-fucose		C6H12O5	0	C01019	17106	2181	SHZGCJCMOBCMKK-DHVFOXMCSA-N		HMDB00174	02/07/2014	Drug metabolism
 fuc12gal14acglcgalgluside_hs	Type IIH glycolipid		C50H89N2O26FULLRCO	0							02/07/2014	Blood group synthesis
@@ -3574,7 +3575,7 @@ fucgalacglcgalgluside_hs	Type IH glycolipid		C50H89N2O26FULLRCO	0			28743				02/
 fucgalfucgalacglcgalgluside_hs	(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1		C62H109N2O35FULLRCO	0							02/07/2014	Blood group synthesis
 fucgalgbside_hs	fucosyl galactosylgloboside		C56H99N2O31FULLRCO	0							02/07/2014	Sphingolipid metabolism
 fucneulacnhx	monofucosyl-monosialyl-lacto-N-hexaose (HMO, PMID: 17002410)	C57H95N3O43	C57H94N3O43	-1							02/07/2014	
-fum	Fumarate		C4H2O4	-2	C00122	444972	18012	VZCYOOQTPOCHFL-OWOJBTEDSA-L		HMDB00134	02/07/2014	Alanine and aspartate metabolism
+fum	Fumarate		C4H2O4	-2	C00122	444972	18012	VZCYOOQTPOCHFL-OWOJBTEDSA-L		HMDB00134	02/07/2014	Central metabolism
 fustin	Fustin	C15H12O6	C15H12O6	0	C01378						01/07/2019	Flavonoid, isoflavonoid, and polyphenol metabolism
 fvprn	Flavaprenin		C20H20O5	0							19/09/2018	Terpenoid backbone biosynthesis
 fvs	fluvastatin	C24H25FNNaO4	C24H25FNNaO4	0	DB01095	446155		FJLGEFLZQAZZCD-MCBHFWOFSA-N			02/07/2014	Drug metabolism
@@ -3612,7 +3613,7 @@ gacpail_hs	glucosaminyl-acylphosphatidylinositol		C31H58NO14PFULLRCO2FULLR2CO2	0
 gacphprnt	7-Glutarylaminocephalosporanate		C15H16N2O8S	-2							19/09/2018	Xenobiotics metabolism
 gACPm	Glutaryl-ACP methyl ester		C17H29N2O10PRS	-1							02/07/2014	Biotin metabolism
 gagicolipa	galactosyl-glucosyl-inner core oligosaccharide lipid A		C157H271N2O84P4	-11							02/07/2014	Lipopolysaccharide biosynthesis
-gal	D-Galactose		C6H12O6	0	C00984	439357	28061	WQZGKKKJIJFFOK-PHYPRBDBSA-N		HMDB00143	02/07/2014	Chondroitin sulfate degradation
+gal	D-Galactose		C6H12O6	0	C00984	439357	28061	WQZGKKKJIJFFOK-PHYPRBDBSA-N		HMDB00143	02/07/2014	Carbohydrates
 gal_bD	beta D-Galactose		C6H12O6	0							02/07/2014	Sphingolipid metabolism
 gal14acglcgalgluside_hs	Lactoneotetraosylceramide		C44H79N2O22FULLRCO	0							02/07/2014	Blood group synthesis
 gal1a3acgal	Alpha-1,3-Galactose-N-acetylgalactosamine	C14H25NO11	C14H25NO11	0	G00763						29/03/2017	O-glycan degradation
@@ -3629,7 +3630,7 @@ galactan	Galactan (ECMDB21653)	C24H40O20	C24H40O20	0	C05796						26/08/2019	Plan
 galam	D-Galactosamine		C6H13NO5	0	C06377			MSWZFWKMSRAUBD-GASJEMHNSA-N			02/07/2014	Aminosugar metabolism
 galam6p	D-galactosamine-6-phosphate		C6H13NO8P	-1							02/07/2014	Aminosugar metabolism
 galct_D	D-Galactarate		C6H8O8	-2							02/07/2014	Ascorbate and aldarate metabolism
-galctn_D	D-Galactonate		C6H11O7	-1	C00880	128869		RGHNJXZEOKUKBD-MGCNEYSASA-N		HMDB00565	02/07/2014	Galactose metabolism
+galctn_D	D-Galactonate		C6H11O7	-1	C00880	128869		RGHNJXZEOKUKBD-MGCNEYSASA-N		HMDB00565	02/07/2014	Carbohydrates
 galctn_L	L-Galactonate		C6H11O7	-1							02/07/2014	
 galctr_D	D-Mucic acid	C6H10O8	C6H8O8	-2							02/07/2014	Pentose and glucuronate interconversions
 galfuc12gal14acglcgalgluside_hs	(Gal)3 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1		C56H99N2O31FULLRCO	0							02/07/2014	Blood group synthesis
@@ -3647,10 +3648,10 @@ galside_hs	D-galactosyl-N-acylsphingosine		C24H46NO7FULLRCO	0	C02686	53480652		V
 galt	galactitol		C6H14O6	0	C01697	11850	16813	FBPFZTCFMRRESA-GUCUJZIJSA-N		HMDB00107	02/07/2014	Galactose metabolism
 galt1p	Galactitol 1-phosphate		C6H13O9P	-2							02/07/2014	Galactose metabolism
 galthcrm_hs	Gal-Gal-Gal-Glc-Cer		C42H76NO22FULLRCO	0							02/07/2014	Sphingolipid metabolism
-galur	D-Galacturonate		C6H9O7	-1	C08348	84740				HMDB02545	02/07/2014	Pentose and glucuronate interconversions
-gam	D-Glucosamine		C6H14NO5	1	C00329	439213	47977	MSWZFWKMSRAUBD-IVMDWMLBSA-O		HMDB01514	02/07/2014	Aminosugar metabolism
+galur	D-Galacturonate		C6H9O7	-1	C08348	84740				HMDB02545	02/07/2014	Carbohydrates
+gam	D-Glucosamine		C6H14NO5	1	C00329	439213	47977	MSWZFWKMSRAUBD-IVMDWMLBSA-O		HMDB01514	02/07/2014	Carbohydrates
 gam1p	D-Glucosamine 1-phosphate		C6H13NO8P	-1						HMDB01109	02/07/2014	Cell wall biosynthesis
-gam26s	Glucosamine 2,6-sulfate		C6H11NO11S2	-2							02/07/2014	Drug metabolism
+gam26s	Glucosamine 2,6-sulfate		C6H11NO11S2	-2							02/07/2014	Heparan sulfate degradation
 gam6p	D-Glucosamine 6-phosphate		C6H13NO8P	-1	C00352	439217	15873	XHMJOUIAFHJHBW-IVMDWMLBSA-M		HMDB01254	02/07/2014	Aminosugar metabolism
 gams	N-Sulfo-D-glucosamine	C6H13NO8S	C6H12NO8S	-1	C01075						01/07/2019	Glycosaminoglycan degradation
 gar	N1-(5-Phospho-D-ribosyl)glycinamide		C7H14N2O8P	-1	C03838	160913	58457	OBQMLSFOUZUIOB-ORJLUFJISA-M		HMDB02022	02/07/2014	Folate metabolism
@@ -3669,7 +3670,7 @@ gca3s	Glycocholic acid 3-sulfate		C26H42NO9S	-1							03/01/2017	Bile acid synth
 gcald	glycolaldehyde		C2H4O2	0	C00266	756	17071	WGCNASOHLSPBMP-UHFFFAOYSA-N		HMDB03344	02/07/2014	Cell wall biosynthesis
 gcdca3s	Glycochenodeoxycholic acid 3-sulfate		C26H42NO8S	-1							03/01/2017	Bile acid synthesis
 gcgn	Glycogenin		C10H10N2O3R2	0							19/09/2018	Plant polysaccharide degradation
-gchola	glycocholate		C26H43NO6	0	C01921	23617285	17687	RFDAIACWWDREDC-FRVQLJSFSA-N		HMDB00138	02/07/2014	Bile acid metabolism
+gchola	glycocholate		C26H43NO6	0	C01921	23617285	17687	RFDAIACWWDREDC-FRVQLJSFSA-N		HMDB00138	02/07/2014	Bile acids
 gcncn	gamma-Coniceine		C8H16N	1							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 gcp	Glycerol 1,2-cyclic phosphate		C3H6O5P	-1							19/09/2018	Glycerophospholipid metabolism
 gcrtn	gamma-Carotene		C40H56	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
@@ -3717,7 +3718,7 @@ glap	Gla protein		C7H6N2O6R2	-2							19/09/2018	Ubiquinone and other terpenoid-
 glappc	Gla protein precursor		C6H7N2O4R2	-1							19/09/2018	Ubiquinone and other terpenoid-quinone biosynthesis
 Glc_aD	alpha D-glucose		C6H12O6	0							02/07/2014	
 glc_bD	beta D-glucose		C6H12O6	0							02/07/2014	Galactose metabolism
-glc_D	D-glucose		C6H12O6	0	C00031	5793	4167	WQZGKKKJIJFFOK-GASJEMHNSA-N		HMDB00122	02/07/2014	Cyanoamino acid metabolism
+glc_D	D-glucose		C6H12O6	0	C00031	5793	4167	WQZGKKKJIJFFOK-GASJEMHNSA-N		HMDB00122	02/07/2014	Carbohydrates
 glc1man	glucose-1,3-mannose oligosaccharide		C12H22O11	0	C04147	440240	27554	QIGJYVCQYDKYDW-WPMDEUETSA-N		HMDB0060068	02/07/2014	N-glycan synthesis
 glc2man	(2)[glucose-1,3]-mannose oligosaccharide		C18H32O16	0							02/07/2014	N-glycan synthesis
 glc3man	glucose-1,2-(2)[glucose-1,3]-mannose oligosaccharide		C24H42O21	0							02/07/2014	N-glycan synthesis
@@ -3725,7 +3726,7 @@ glc3meacp	glucuronide-conjugate of 3-methoxy-acetaminophen	C14H17NO9	C14H16NO9	-
 glcglycp	2-(beta-D-Glucosyl)-sn-glycerol 3-phosphate		C9H17O11P	-2	C10517						01/07/2019	Glucosylglycerol biosynthesis
 glclgly	Glycylglycine		C4H8N2O3	0							19/09/2018	Xenobiotics metabolism
 glcmannan	Konjac glucomannan	C2574H4292O2146	C2574H4292O2146	0	G11598	4934					27/03/2015	Plant polysaccharide degradation
-glcn	D-gluconate		C6H11O7	-1	C00257	10690	33198	RGHNJXZEOKUKBD-SQOUGZDYSA-M		HMDB00625	02/07/2014	Pentose and glucuronate interconversions
+glcn	D-gluconate		C6H11O7	-1	C00257	10690	33198	RGHNJXZEOKUKBD-SQOUGZDYSA-M		HMDB00625	02/07/2014	Carbohydrates
 glcn_D	D_Gluconate		X	0							02/07/2014	
 glcr	D-glucarate(2-)		C6H8O8	-2	C00818	33037	16002	DSLZVSRJTYRBFB-LLEIAEIESA-L		HMDB00663	02/07/2014	Ascorbate and aldarate metabolism
 glctl	Glycitol		C2H5O2R	0							19/09/2018	Fructose and mannose metabolism
@@ -3733,11 +3734,11 @@ glctn14ltn	L-Galactono-1,4-lactone	C6H10O6	C6H10O6	0							19/09/2018	Galactose 
 glctnb	Galacto-N-biose	C14H25NO11	C14H25NO11	0							29/03/2017	
 glctnbp	Galacto-N-biose phosphate	C14H26NO14P	C14H24NO14P	-2							29/03/2017	
 glctnl	Galactinol		C12H22O11	0							19/09/2018	Inositol phosphate metabolism
-glcur	D-glucuronate		C6H9O7	-1	C00191	444791	47952	AEMOLEFTQBMNLQ-AQKNRBDQSA-M		HMDB00127	02/07/2014	Chondroitin sulfate degradation
+glcur	D-glucuronate		C6H9O7	-1	C00191	444791	47952	AEMOLEFTQBMNLQ-AQKNRBDQSA-M		HMDB00127	02/07/2014	Carbohydrates
 glcur1p	D-Glucuronate 1-phosphate		C6H8O10P	-3	C05385	440650	35145	AIQDYKMWENWVQJ-AQKNRBDQSA-K		HMDB03976	02/07/2014	Pentose phosphate pathway
 glgchlo	beta glucan-glycocholate complex		C1200026H2200043NO1100006	0							02/07/2014	Dietary fiber binding
 gln_D	D-glutamine		C5H10N2O3	0							19/09/2018	Glutamate metabolism
-gln_L	L-glutamine		C5H10N2O3	0	C00064	5961	18050	ZDXPYRJPNDTMRX-VKHMYHEASA-N		HMDB00641	02/07/2014	Alanine and aspartate metabolism
+gln_L	L-glutamine		C5H10N2O3	0	C00064	5961	18050	ZDXPYRJPNDTMRX-VKHMYHEASA-N		HMDB00641	02/07/2014	Amino acid metabolites
 glnasngln	Glutaminyl-Asparaginyl-Glutamine		C14H24N6O7	0				TWHDOEYLXXQYOZ-BIIVOSGPSA-N			03/01/2017	Peptide metabolism
 glnhishis	Glutaminyl-Histidyl-Histidine		C17H24N8O5	0				GFLNKSQHOBOMNM-XQQFMLRXSA-N			03/01/2017	Peptide metabolism
 glnhislys	Glutaminyl-Histidyl-Lysine		C17H30N7O5	-1				NNXIQPMZGZUFJJ-AVGNSLFASA-M			03/01/2017	Peptide metabolism
@@ -3754,7 +3755,7 @@ gltml1p	L-Glutamyl 1-phosphate	C5H10NO7P	C5H9NO7P	-1							19/09/2018	Glutamate 
 gltmn	Galantamine	C17H21NO3	C17H22NO3	1	C08526	9651					01/03/2019	Drug metabolism
 gltmn_glc	Galantamine Glucuronide	C23H29NO9	C23H29NO9	0							01/03/2019	Drug metabolism
 glu_D	D-Glutamate		C5H8NO4	-1						HMDB03339	02/07/2014	Cell wall biosynthesis
-glu_L	L-glutamate		C5H8NO4	-1	C00025	33032	16015	WHUUTDBJXJRKMK-VKHMYHEASA-M		HMDB00148	02/07/2014	Alanine and aspartate metabolism
+glu_L	L-glutamate		C5H8NO4	-1	C00025	33032	16015	WHUUTDBJXJRKMK-VKHMYHEASA-M		HMDB00148	02/07/2014	Amino acid metabolites
 glu1sa	L-Glutamate 1-semialdehyde		C5H9NO3	0							02/07/2014	Heme synthesis
 glu5p	L-Glutamate 5-phosphate		C5H8NO7P	-2	C03287	193475	17798	PJRXVIJAERNUIP-VKHMYHEASA-L		HMDB01228	02/07/2014	Arginine and proline metabolism
 glu5sa	L-Glutamate 5-semialdehyde		C5H9NO3	0	C01165	193305	17232	KABXUUFDPUOJMW-BYPYZUCNSA-N		HMDB02104	02/07/2014	Arginine and proline metabolism
@@ -3780,12 +3781,12 @@ glutrna	L-Glutamyl-tRNA(Glu)		C5H7NO3R	0							02/07/2014	tRNA Charging
 glutrnagln	glutamine_tRNA_charged_with_glutamate		C20H29NO19P2R3	0							02/07/2014	
 glutrpala	Glutamyl-Tryptophanyl-Alanine		C19H23N4O6	-1				ZQNCUVODKOBSSO-XEGUGMAKSA-N			03/01/2017	Peptide metabolism
 glx	glyoxylate		C2H1O3	-1	C00048	760	16891	HHLFWLYXYJOTON-UHFFFAOYSA-M		HMDB00119	02/07/2014	Alanine and aspartate metabolism
-gly	Glycine		C2H5NO2	0	C00037	750	15428	DHMQDGOQFOQNFH-UHFFFAOYSA-N		HMDB00123	02/07/2014	Alanine and aspartate metabolism
+gly	Glycine		C2H5NO2	0	C00037	750	15428	DHMQDGOQFOQNFH-UHFFFAOYSA-N		HMDB00123	02/07/2014	Amino acid metabolites
 glyald	D-Glyceraldehyde		C3H6O3	0	C02154	751	17378	MNQZXJOMYWMBOU-VKHMYHEASA-N		HMDB01051	02/07/2014	Fructose and mannose metabolism
 glyasn	Glycyl-L-asparagine		C6H11N3O4	0						HMDB0028836	02/07/2014	Peptide metabolism
 glyasp	Glycyl-L-aspartate		C6H9N2O5	-1						HMDB0028837	02/07/2014	Peptide metabolism
-glyb	glycine betaine		C5H11NO2	0	C00719	247	17750	KWIUHFFTVRNATP-UHFFFAOYSA-N		HMDB00043	02/07/2014	Glycine, serine and threonine metabolism
-glyc	Glycerol		C3H8O3	0	C00116	753	17754	PEDCQBHIVMGVHV-UHFFFAOYSA-N		HMDB00131	02/07/2014	Arachidonic acid metabolism
+glyb	glycine betaine		C5H11NO2	0	C00719	247	17750	KWIUHFFTVRNATP-UHFFFAOYSA-N		HMDB00043	02/07/2014	Amines
+glyc	Glycerol		C3H8O3	0	C00116	753	17754	PEDCQBHIVMGVHV-UHFFFAOYSA-N		HMDB00131	02/07/2014	Fatty acids
 glyc_R	D-glycerate		C3H5O4	-1	C00258	439194	32398	RBNPOMFGQQGHHO-REOHCLBHSA-M		HMDB00139	02/07/2014	Fructose and mannose metabolism
 glyc_S	(S)-Glycerate		C3H5O4	0		6326776	33871	RBNPOMFGQQGHHO-REOHCLBHSA-N		HMDB06372	02/07/2014	Glyoxylate and dicarboxylate metabolism
 glyc2p	Glycerol 2-phosphate		C3H7O6P	-2				DHCLVCXQIBBOPH-UHFFFAOYSA-L			02/07/2014	Glycerophospholipid metabolism
@@ -3794,7 +3795,7 @@ glyc45tca	glycerol teichoic acid (n=45), linked, unsubstituted	X	X	0							30/09
 glyc45tcaala_D	glycerol teichoic acid (n=45), linked, D-ala substituted	X	X	0							30/09/2014	Cell wall biosynthesis
 glyc45tcaglc	glycerol teichoic acid (n=45), linked, glucose substituted	X	X	0							30/09/2014	Cell wall biosynthesis
 glyceryl_prolpp	Glyceryl Braun prolipoprotein		C366H631N112O121S3	0							02/07/2014	
-glyclt	glycolate		C2H3O3	-1	C00160	757	17497	AEMRFAOFKBGASW-UHFFFAOYSA-M		HMDB00115	02/07/2014	Glyoxylate and dicarboxylate metabolism
+glyclt	glycolate		C2H3O3	-1	C00160	757	17497	AEMRFAOFKBGASW-UHFFFAOYSA-M		HMDB00115	02/07/2014	Others
 glycogen	glycogen		C6H10O5	0						HMDB00757	02/07/2014	Starch and sucrose metabolism
 glycogen1500	glycogen (n=1500 repeat units) (glc alpha 1,4/6 glc)		C9000H15002O7501	0							02/07/2014	Starch and sucrose metabolism
 glycogenb	glycogen(n-1)	X	X	0							30/09/2014	Starch and sucrose metabolism
@@ -3868,7 +3869,7 @@ grnlcoa	cis-Geranyl-CoA		C31H47N7O17P3S	-3							19/09/2018	Geraniol degradation
 grnt	Geranic acid		C10H15O2	-1							19/09/2018	Geraniol degradation
 grxox	glutaredoxin (oxidized)		X	0							02/07/2014	Glutathione metabolism
 grxrd	glutaredoxin (reduced)		XH2	0							02/07/2014	Glutathione metabolism
-gsn	Guanosine		C10H13N5O5	0	C00387	6802	16750	NYHBQMYGNKIUIF-UUOKFMHZSA-N		HMDB00133	02/07/2014	Nucleotide interconversion
+gsn	Guanosine		C10H13N5O5	0	C00387	6802	16750	NYHBQMYGNKIUIF-UUOKFMHZSA-N		HMDB00133	02/07/2014	Nucleotide metabolism
 gstn	Genistein		C15H10O5	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 gt1a_hs	GT1a		C77H127N5O46FULLRCO	-3	C06138		27691				02/07/2014	O-glycan degradation
 gt1alpha_hs	GT1aalpha		C77H127N5O46FULLRCO	-3	G00128						02/07/2014	Sphingolipid metabolism
@@ -3879,8 +3880,8 @@ gt3_hs	GT3		C63H104N4O36FULLRCO	-3	C06299						02/07/2014	Sphingolipid metabolis
 gtacmp	glucuronide-thiomethyl-acetaminophen conjugate	C15H19NO8S	C15H18NO8S	-1							02/07/2014	Drug metabolism
 gthmn	Galanthamine		C17H21NO3	0							19/09/2018	Isoquinoline alkaloid biosynthesis
 gthncoa	CoA-glutathione		C31H47N10O22P3S2	-4							19/09/2018	Glutathione metabolism
-gthox	Oxidized glutathione		C20H30N6O12S2	-2	C00127	975	17858	YPZRWBKMTBYPTK-BJDJZHNGSA-L		HMDB03337	02/07/2014	Arachidonic acid metabolism
-gthrd	Reduced glutathione		C10H16N3O6S	-1	C00051	124886	16856	RWSXRVCMGQZWBV-WDSKDSINSA-M		HMDB00125	02/07/2014	Alanine and aspartate metabolism
+gthox	Oxidized glutathione		C20H30N6O12S2	-2	C00127	975	17858	YPZRWBKMTBYPTK-BJDJZHNGSA-L		HMDB03337	02/07/2014	Amino acid metabolites
+gthrd	Reduced glutathione		C10H16N3O6S	-1	C00051	124886	16856	RWSXRVCMGQZWBV-WDSKDSINSA-M		HMDB00125	02/07/2014	Amino acid metabolites
 gtnlhdhnp	(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene		C20H24N3O7S	-1							19/09/2018	Glutathione metabolism
 gtp	GTP		C10H12N5O14P3	-4	C00044	6830	15996	XKMLYUALXHKNFT-UUOKFMHZSA-J		HMDB01273	02/07/2014	C5-branched dibasic acid metabolism
 gtspmd	Glutathionylspermidine		C17H36N6O5S	2							02/07/2014	Arginine and proline metabolism
@@ -3895,20 +3896,20 @@ gum	gums		C2760000H5060000O2530000	0							02/07/2014	Dietary fiber binding
 gumdchac	guar gum-deoxyxholic acid complex		C2760024H5060039O2530004	-1							02/07/2014	Dietary fiber binding
 gumgchol	guar gum-glycocholate complex		C2760026H5060043NO2530006	0							02/07/2014	Dietary fiber binding
 gumtchol	guar gum-taurocholic acid complex		C2760026H5060045NO2530007S	0							02/07/2014	Dietary fiber binding
-h	proton		H	1	C00080	1038	15378	GPRLSGONYQIRFK-UHFFFAOYSA-N		HMDB0059597	02/07/2014	2-Oxocarboxylic acid metabolism
-h2	Hydrogen		H2	0	C00282	783	18276	UFHFLCQGNIYNRP-UHFFFAOYSA-N		HMDB01362	02/07/2014	Benzoate degradation
+h	proton		H	1	C00080	1038	15378	GPRLSGONYQIRFK-UHFFFAOYSA-N		HMDB0059597	02/07/2014	Small molecules
+h2	Hydrogen		H2	0	C00282	783	18276	UFHFLCQGNIYNRP-UHFFFAOYSA-N		HMDB01362	02/07/2014	Central metabolism
 h2co3	Carbonic acid		CH2O3	0	C01353	767		BVKZGUZCCUSVTD-UHFFFAOYSA-N		HMDB03538	02/07/2014	
 h2mb4p	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate		C5H9O8P2	-3							02/07/2014	Others
-h2o	Water		H2O	0	C00001	962	15377	XLYOFNOQVPJJNP-UHFFFAOYSA-N		HMDB02111	02/07/2014	Alanine and aspartate metabolism
-h2o2	Hydrogen peroxide		H2O2	0	C00027	784	16240	MHAJPDPJQMAIIY-UHFFFAOYSA-N		HMDB03125	02/07/2014	Alanine and aspartate metabolism
-h2s	Hydrogen sulfide		H2S	0						HMDB03276	02/07/2014	Biotin metabolism
+h2o	Water		H2O	0	C00001	962	15377	XLYOFNOQVPJJNP-UHFFFAOYSA-N		HMDB02111	02/07/2014	Small molecules
+h2o2	Hydrogen peroxide		H2O2	0	C00027	784	16240	MHAJPDPJQMAIIY-UHFFFAOYSA-N		HMDB03125	02/07/2014	Small molecules
+h2s	Hydrogen sulfide		H2S	0						HMDB03276	02/07/2014	Small molecules
 h3mbaldh	2-Hydroxy-3-methylbenzaldehyde	C8H8O2	C8H8O2	0	C14087						01/07/2019	Naphthalene degradation
 h4acabiph	N-Hydroxy-4-acetylaminobiphenyl	C14H13NO2	C14H13NO2	0	C04081						01/07/2019	Xenobiotics metabolism
 h4mpt	5,6,7,8-tetrahydromethanopterin	C30H45N6O16P	C30H42N6O16P	-3	C01217	5462234	17321	SCBIBGUJSMHIAI-LHIIQLEZSA-N	[H][C@]1(Nc2c(N[C@H]1C)nc(N)[nH]c2=O)[C@@H](C)Nc1ccc(C[C@H](O)[C@H](O)[C@H](O)CO[C@H]2O[C@H](COP(O)(=O)O[C@@H](CCC(O)=O)C(O)=O)[... <Preview truncated at 128 characters>	HMDB0060403	02/07/2014	Methane metabolism
 h6lactn	hexano-6-lactone		C6H10O2	0							19/09/2018	Caprolactam degradation
-ha	hyaluronan		C28H40N2O22	-2	C00518	53477741	16336	YWIVKILSMZOHHF-QJZPQSOGSA-N		HMDB02061	02/07/2014	Hyaluronan metabolism
-ha_deg1	hyaluronan degradation product 1		C22H33N2O16	-1							02/07/2014	Hyaluronan metabolism
-ha_pre1	hyaluronan biosynthesis, precursor 1		C14H20NO11	-1	C04794	440484	16126	DLGJWSVWTWEWBJ-UCFDOFRFSA-M		HMDB0060071	02/07/2014	Hyaluronan metabolism
+ha	hyaluronan		C28H40N2O22	-2	C00518	53477741	16336	YWIVKILSMZOHHF-QJZPQSOGSA-N		HMDB02061	02/07/2014	Hyaluronan degradation
+ha_deg1	hyaluronan degradation product 1		C22H33N2O16	-1							02/07/2014	Hyaluronan degradation
+ha_pre1	hyaluronan biosynthesis, precursor 1		C14H20NO11	-1	C04794	440484	16126	DLGJWSVWTWEWBJ-UCFDOFRFSA-M		HMDB0060071	02/07/2014	Hyaluronan degradation
 hacolipa	hepta-acylated core oligosaccharide lipid A (E. coli)		C192H333N2O101P4	-11							02/07/2014	Lipopolysaccharide biosynthesis
 hacon_C	cis-Homoaconitate (iAF692)		C7H5O6	-3							08/03/2016	Lysine metabolism
 halipa	hepta-acylated KDO(2)-lipid (A)		C126H226N2O40P2	-6							02/07/2014	Lipopolysaccharide biosynthesis
@@ -3928,7 +3929,7 @@ HC00009	ApoE		X	0							02/07/2014	Glycerophospholipid metabolism
 HC00079	L-ornithinium(1+)		C5H13N2O2	1			3A46911				02/07/2014	Urea cycle
 HC00229	Isomaltose		C12H22O11	0	C00252	5460022	28189			HMDB02923	02/07/2014	
 HC00250	hydrosulfide		HS	-1	C00283	402	16136	RWSOTUBLDIXVET-UHFFFAOYSA-M		HMDB03276	02/07/2014	Methionine and cysteine metabolism
-HC00319	Malonate		C3H2O4	-2	C00383	867	30794	OFOBLEOULBTSOW-UHFFFAOYSA-L		HMDB00691	02/07/2014	Beta-alanine metabolism
+HC00319	Malonate		C3H2O4	-2	C00383	867	30794	OFOBLEOULBTSOW-UHFFFAOYSA-L		HMDB00691	02/07/2014	Others
 HC00342	cis-aconitate(3-)		C6H3O6	-3	C00417	643757	16383	GTZCVFVGUGFEME-IWQZZHSRSA-K		HMDB00072	02/07/2014	Miscellaneous
 HC00361	sedoheptulose 1,7-bisphosphate(4-)		C7H12O13P2	-4	C00447	164735	17969	OKHXOUGRECCASI-SHUUEZRQSA-J		HMDB0060274	02/07/2014	Miscellaneous
 HC00460	2,5-dihydroxybenzoate		C7H5O4	-1	C00628	3469	17189	WXTMDXOMEHJXQO-UHFFFAOYSA-M		HMDB00152	02/07/2014	Tyrosine metabolism
@@ -4117,7 +4118,7 @@ HC02176	laurate		C12H23O2	-1	C02679	3893	30805			HMDB00638	02/07/2014
 HC02179	20-hydroxy-arachidonate		C20H31O3	-1		123803	34306				02/07/2014	
 HC02180	thromboxane-b2		C20H33O6	-1	C05963	5283137	28728	XNRNNGPBEPRNAR-XKHPYWLKSA-M		HMDB03252	02/07/2014	
 HC02187	reverse-triiodthyronine		C15H12I3NO4	0		22069	28774	HZCBWYNLGPIQRK-UHFFFAOYSA-N		HMDB0060074	02/07/2014	
-HC02191	lithocholate		C24H39O3	-1	C03990	11740284	16325	SMEROWZSTRWXGI-HVATVPOCSA-M		HMDB00761	02/07/2014	Bile acid metabolism
+HC02191	lithocholate		C24H39O3	-1	C03990	11740284	16325	SMEROWZSTRWXGI-HVATVPOCSA-M		HMDB00761	02/07/2014	Bile acids
 HC02192	taurolithocholate		C26H44NO5S	-1	C02592	53477716	36259	QBYUNVOYXHFVKC-GBURMNQMSA-M		HMDB00722	02/07/2014	Bile acid metabolism
 HC02193	glycolithocholate		C26H42NO4	-1	C15557	115245	37998	XBSQTYHEGZTYJE-OETIFKLTSA-M		HMDB00698	02/07/2014	Bile acid metabolism
 HC02194	Ursodiol	C24H40O4	C24H39O4	-1	C07880	31401		RUDATBOHQWOJDD-ZAXPUSGHSA-M		HMDB00946	22/12/2016	Bile acid metabolism
@@ -4173,7 +4174,7 @@ hcoumarin	umbelliferone		C9H6O3	0	C09315	5281426	27510	ORHBXUUXSCNDEV-UHFFFAOYSA
 hcsnact	Hydrocortisone acetate		C23H32O6	0							19/09/2018	Steroid metabolism
 hctectnt	(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate		C20H31O3	-1							19/09/2018	Glutathione metabolism
 hcys_L	L-homocysteine		C4H9NO2S	0	C00155	778	17588	FFFHZYDWPBMWHY-VKHMYHEASA-N		HMDB00742	02/07/2014	Glycine, serine, alanine, and threonine metabolism
-hdca	Hexadecanoate (n-C16:0)		C16H31O2	-1	C00249	985	15756	IPCSVZSSVZVIGE-UHFFFAOYSA-M		HMDB00220	02/07/2014	Cytochrome metabolism
+hdca	Hexadecanoate (n-C16:0)		C16H31O2	-1	C00249	985	15756	IPCSVZSSVZVIGE-UHFFFAOYSA-M		HMDB00220	02/07/2014	Fatty acids
 hdca24g	Hyodeoxycholic acid-24glucuronide, HDCA-24G		C30H47O10	-1							03/01/2017	Bile acid synthesis
 hdca6g	Hyodeoxycholic acid-6glucuronide, HDCA-6G		C30H47O10	-1							03/01/2017	Bile acid synthesis
 hdcea	Hexadecenoate (n-C16:1)		C16H29O2	-1	C08362	445638	28716	SECPZKHBENQXJG-FPLPWBNLSA-M		HMDB03229	02/07/2014	Fatty acid oxidation
@@ -4220,7 +4221,7 @@ hhlipa	heptosyl-heptosyl-kdo2-lipidA		C124H220N2O51P2	-6							02/07/2014	Lipopo
 hhxdcal	2-Hydroxyhexadecanal		C16H32O2	0				BKBDVQVDRVGXKT-UHFFFAOYSA-N			03/01/2017	Sphingolipid metabolism
 hibcoa	S__3_Hydroxyisobutyryl_CoA		C25H39N7O18P3S	0							02/07/2014	
 hicit	Homoisocitrate (iMM904)		C7H7O7	-3	C05662						08/03/2016	2-Oxocarboxylic acid metabolism
-his_L	L-histidine		C6H9N3O2	0	C00135	6274	15971	HNDVDQJCIGZPNO-YFKPBYRVSA-N		HMDB00177	02/07/2014	Beta-alanine metabolism
+his_L	L-histidine		C6H9N3O2	0	C00135	6274	15971	HNDVDQJCIGZPNO-YFKPBYRVSA-N		HMDB00177	02/07/2014	Amino acid metabolites
 hisargcys	Histidyl-Arginyl-Cysteine		C15H27N8O4S	1				JHVCZQFWRLHUQR-DCAQKATOSA-M			03/01/2017	Peptide metabolism
 hisargser	Histidyl-Arginyl-Serine		C15H27N8O5	1				ZPVJJPAIUZLSNE-AXFHLTTASA-O			03/01/2017	Peptide metabolism
 hisasp	Histidyl-Aspartate		C10H13N4O5	-1				MDCTVRUPVLZSPG-NKWVEPMBSA-M			03/01/2017	Peptide metabolism
@@ -4327,15 +4328,15 @@ hs_pre8	GlcA-(GlcNAc-GlcA)3-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)		C79H116N4O6
 hs_pre9	(GlcNAc-GlcA)4-GlcNAc-GlcA-Gal-Gal-Xyl-L-Ser (protein)		C87H129N5O69X	-5							02/07/2014	Chondroitin synthesis
 hspdn	Hydroxyspheroidene		C41H62O2	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 hspdnn	Hydroxyspheroidenone		C41H60O3	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-hspg	heparan sulfate proteoglycan		C79H113N5O101S12X	-13							02/07/2014	Chondroitin synthesis
-hspg_degr_1	Heparan sulfate degradation product 1		C24H33O36N2S5	-7							02/07/2014	Drug metabolism
+hspg	heparan sulfate proteoglycan		C79H113N5O101S12X	-13							02/07/2014	Heparan sulfate degradation
+hspg_degr_1	Heparan sulfate degradation product 1		C24H33O36N2S5	-7							02/07/2014	Heparan sulfate degradation
 hspg_degr_10	Heparan sulfate degradation product 10		C43H66N2O38SX	-3							02/07/2014	Heparan sulfate degradation
 hspg_degr_11	Heparan sulfate degradation product 11		C43H67N2O35X	-2							02/07/2014	Heparan sulfate degradation
-hspg_degr_12	Heparan sulfate degradation product 12		C37H56NO31X	-2							02/07/2014	Drug metabolism
-hspg_degr_13	Heparan sulfate degradation product 13		C31H49NO25X	-1							02/07/2014	Drug metabolism
+hspg_degr_12	Heparan sulfate degradation product 12		C37H56NO31X	-2							02/07/2014	Heparan sulfate degradation
+hspg_degr_13	Heparan sulfate degradation product 13		C31H49NO25X	-1							02/07/2014	Heparan sulfate degradation
 hspg_degr_14	Heparan sulfate degradation product 14		C23H36O20X	-1							02/07/2014	Heparan sulfate degradation
 hspg_degr_15	Heparan sulfate degradation product 15		C17H29O14X	0							02/07/2014	Heparan sulfate degradation
-hspg_degr_2	Heparan sulfate degradation product 2		C49H71N2O56S5X	-6							02/07/2014	Drug metabolism
+hspg_degr_2	Heparan sulfate degradation product 2		C49H71N2O56S5X	-6							02/07/2014	Heparan sulfate degradation
 hspg_degr_3	Heparan sulfate degradation product 3		C18H26O30N2S5	-6							02/07/2014	Heparan sulfate degradation
 hspg_degr_4	Heparan sulfate degradation product 4		C18H28O24N2S3	-4							02/07/2014	Heparan sulfate degradation
 hspg_degr_5	Heparan sulfate degradation product 5		C18H29O21N2S2	-3							02/07/2014	Heparan sulfate degradation
@@ -4358,7 +4359,7 @@ htaxol	6 alpha hydroxy taxol/ 6 alpha hydroxy paclitaxel		C47H31NO15	0				NDCWHE
 hx2coa	trans-Hex-2-enoyl-CoA		C27H40N7O17P3S	-4	C05271	5280765	62077	OINXHIBNZUUIMR-IXUYQXAASA-J		HMDB03944	02/07/2014	Butanoate metabolism
 hxa	Hexanoate (n-C6:0)		C6H11O2	-1				FUZZWVXGSFPDMH-UHFFFAOYSA-M			02/07/2014	Fatty acid oxidation
 hxal	hexanal	C6H12O	C6H12O	0						HMDB05994	02/07/2014	Respiration
-hxan	Hypoxanthine		C5H4N4O	0	C00262	790	17368	FDGQSTZJBFJUBT-UHFFFAOYSA-N		HMDB00157	02/07/2014	Nucleotide interconversion
+hxan	Hypoxanthine		C5H4N4O	0	C00262	790	17368	FDGQSTZJBFJUBT-UHFFFAOYSA-N		HMDB00157	02/07/2014	Nucleotide metabolism
 hxcoa	Hexanoyl-CoA (n-C6:0CoA)		C27H42N7O17P3S	-4	C05270	440611		OEXFMSFODMQEPE-HDRQGHTBSA-J		HMDB02845	02/07/2014	Butanoate metabolism
 hxdcal	hexadecanal		C16H32O	0	C00517	984	17600	NIOYUNMRJMEDGI-UHFFFAOYSA-N		HMDB01551	02/07/2014	Fatty acid oxidation
 hxhmmthn	Hexahomomethionine		C11H23NO2S	0							19/09/2018	Glucosinolate biosynthesis
@@ -4396,7 +4397,7 @@ ibup_S	ibuprofen-S	C13H18O2	C13H17O2	-1	D00126	3672				HMDB01925	02/07/2014	Drug
 ibupcoa_R	ibuprofen-CoA-R form	C34H52N7O17P3S	C34H48N7O17P3S	-4							02/07/2014	Drug metabolism
 ibupcoa_S	ibuprofen-CoA-S form	C34H52N7O17P3S	C34H48N7O17P3S	-4							02/07/2014	Drug metabolism
 ibupgluc	ibuprofen acyl glucuronide	C19H26O8	C19H25O8	-1							02/07/2014	Drug metabolism
-icdchol	Isochenodeoxycholate	C24H40O4	C24H39O4	-1	C17660						22/12/2016	Bile acid metabolism
+icdchol	Isochenodeoxycholate	C24H40O4	C24H39O4	-1	C17660						22/12/2016	Bile acids
 ichor	Isochorismate		C10H8O6	-2							02/07/2014	Biosynthesis of siderophore group nonribosomal peptides
 icit	Isocitrate		C6H5O7	-3	C00311	1198	30887	ODBLHEXUDAPZAU-UHFFFAOYSA-K		HMDB00193	02/07/2014	Citric acid cycle
 icolipa	inner core oligosaccharide lipid A (E coli)		C145H251N2O74P4	-11							02/07/2014	Lipopolysaccharide biosynthesis
@@ -4404,8 +4405,8 @@ icprencoa	Isocaprenoyl-CoA	C27H44N7O17P3S	C27H40N7O17P3S	-4	C21090  						20/12/
 icryplmn	Isocorypalmine		C20H23NO4	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 id3acald	indol-3-ylacetaldehyde		C10H9NO	0	C00637	800	18086	WHOOUMGHGSPMGR-UHFFFAOYSA-N		HMDB01190	02/07/2014	Tryptophan metabolism
 idl_hs	Intermediate Density Lipoprotein		X	0							03/01/2017	Glycerophospholipid metabolism
-idon_L	L-Idonate		C6H11O7	-1							02/07/2014	Pentose and glucuronate interconversions
-idour	L-iduronate		C6H9O7	-1	C06472	18845	28481	IAJILQKETJEXLJ-SKNVOMKLSA-M		HMDB02704	02/07/2014	Chondroitin sulfate degradation
+idon_L	L-Idonate		C6H11O7	-1							02/07/2014	Carbohydrates
+idour	L-iduronate		C6H9O7	-1	C06472	18845	28481	IAJILQKETJEXLJ-SKNVOMKLSA-M		HMDB02704	02/07/2014	Carbohydrates
 idp	IDP(3-)		C10H11N4O11P2	-3	C00104	644173	17808	JPXZQMKKFWMMGK-KQYNXXCUSA-K		HMDB03335	02/07/2014	Aminosugar metabolism
 idt	L_Iditol		X	0							02/07/2014	
 iflrpht	Isoflurophate		C6H14O3PF	0							19/09/2018	Xenobiotics metabolism
@@ -4414,7 +4415,7 @@ ihdcoa	fa6coa,Iso-C16:0 CoA   Isohexadecanoyl-CoA		C37H62N7O17P3S	-4							02/07
 ihpdcoa	fa11coa, Iso-C17:0 CoA   Isoheptadecanoyl-CoA		C38H64N7O17P3S	-4							02/07/2014	Fatty acid synthesis
 ihxdcardlip_Bsub	Isohexadecanoylcardiolipin (B. subtilis)	X	X	0							30/09/2014	
 ihxnlgcoa	Isohexenyl-glutaconyl-CoA		C32H46N7O19P3S	-4							19/09/2018	Geraniol degradation
-ile_L	L-isoleucine		C6H13NO2	0	C00407	6306	17191	AGPKZVBTJJNPAG-WHFBIAKZSA-N		HMDB00172	02/07/2014	Miscellaneous
+ile_L	L-isoleucine		C6H13NO2	0	C00407	6306	17191	AGPKZVBTJJNPAG-WHFBIAKZSA-N		HMDB00172	02/07/2014	Amino acid metabolites
 ileargile	Isoleucyl-Arginyl-Isoleucine		C18H37N6O4	1				ATXGFMOBVKSOMK-PNKMZZHYSA-O			03/01/2017	Peptide metabolism
 ileasnhis	Isoleucyl-Asparaginyl-Histidine		C16H26N6O5	0				IIXDMJNYALIKGP-DUQDJFPFSA-N			03/01/2017	Peptide metabolism
 ileasp	Isolecyl-Aspartate		C10H17N2O5	-1				WKXVAXOSIPTXEC-KVWYPCGYSA-M			03/01/2017	Peptide metabolism
@@ -4438,7 +4439,7 @@ imp	IMP		C10H11N4O8P	-2	C00130	8582	17202	GRSZFWQUAKGDAV-KQYNXXCUSA-L		HMDB00175
 impyr	Imidazole_pyruvate		X	0							02/07/2014	
 imzac	4-Imidazoleacetate	C5H6N2O2	C5H5N2O2	-1							02/07/2014	
 in3amino	Indole-3-acetyl-myo-inositol		C16H19NO7	0							19/09/2018	Inositol phosphate metabolism
-ind3ac	indole-3-acetate		C10H8NO2	-1	C00954	802	16411	SEOVTRFCIGRIMH-UHFFFAOYSA-M		HMDB00197	02/07/2014	Histidine metabolism
+ind3ac	indole-3-acetate		C10H8NO2	-1	C00954	802	16411	SEOVTRFCIGRIMH-UHFFFAOYSA-M		HMDB00197	02/07/2014	Amino acid metabolites
 ind3acam	Indole-3-acetamide	C10H10N2O	C10H10N2O	0						HMDB0029739	02/07/2014	Histidine metabolism
 ind3ppa	Indole-3-propionate		C11H10NO2	-1		3292996				HMDB02302	02/07/2014	Tryptophan metabolism
 ind56qn	Indole-5,6-Quinone		C8H5NO2	0				IGGVVGHJSQSLFO-UHFFFAOYSA-N			03/01/2017	Tyrosine metabolism
@@ -4446,15 +4447,15 @@ indaccoa	S-2-(indol-3-yl)acetyl-CoA		C31H39N8O17P3S	-4							02/07/2014	Tryptoph
 indacrcoa	Indoleacrylyl-CoA	C32H43N8O17P3S	C32H39N8O17P3S	-4							20/12/2017	Tryptophan metabolism
 indlac	Indolelactate	C11H11NO3	C11H10NO3	-1	C02043						02/07/2014	Tryptophan metabolism
 indlaccoa	Indolelactyl-CoA	C32H45N8O18P3S	C32H41N8O18P3S	-4							20/12/2017	Tryptophan metabolism
-indole	Indole		C8H7N	0	C00463	798		SIKJAQJRHWYJAI-UHFFFAOYSA-N		HMDB00738	02/07/2014	Miscellaneous
+indole	Indole		C8H7N	0	C00463	798		SIKJAQJRHWYJAI-UHFFFAOYSA-N		HMDB00738	02/07/2014	Amino acid metabolites
 indoxyl	Indoxyl	C8H7NO	C8H6NO	-1	C05658		CHEBI:17840	PCKPVGOLPKLUHR-UHFFFAOYSA-M		HMDB04094	12/01/2015	Miscellaneous
 indprp	Indolepropionate	C11H11NO2	C11H10NO2	-1							20/12/2017	
 indprpcoa	Indolepropionyl-CoA	C32H45N8O17P3S	C32H41N8O17P3S	-4							20/12/2017	Tryptophan metabolism
 indpyr	Indolepyruvate		C11H8NO3	-1						HMDB0060484	02/07/2014	Tryptophan metabolism
 inds	Indoxyl sulfate	C8H7NO4S	C8H6NO4S	-1			CHEBI:43355	BXFFHSIDQOFMLE-UHFFFAOYSA-M		HMDB03309	12/01/2015	Miscellaneous
 inoshp	Myo-inositol hexakisphosphate (iYO844,iSO783)		C6H12O24P6	-6	C01204					HMDB03502	08/03/2016	Inositol phosphate metabolism
-inost	myo-inositol		C6H12O6	0	C00137	892	17268	CDAISMWEOUEBRE-GPIVLXJGSA-N		HMDB00211	02/07/2014	Glycerophospholipid metabolism
-ins	Inosine		C10H12N4O5	0	C00294	6021	17596	UGQMRVRMYYASKQ-KQYNXXCUSA-N		HMDB00195	02/07/2014	Nucleotide interconversion
+inost	myo-inositol		C6H12O6	0	C00137	892	17268	CDAISMWEOUEBRE-GPIVLXJGSA-N		HMDB00211	02/07/2014	Carbohydrates
+ins	Inosine		C10H12N4O5	0	C00294	6021	17596	UGQMRVRMYYASKQ-KQYNXXCUSA-N		HMDB00195	02/07/2014	Nucleotide metabolism
 inulin	Chicory inulin		C180H302O151	0	C03323	24763		JYJIGFIDKWBXDU-UHFFFAOYSA-N		HMDB0014776	02/07/2014	Plant polysaccharide degradation
 inv	Indinavir	C36H47N5O4	C36H47N5O4	0	C07051	5362440					01/03/2019	Drug metabolism
 inv_m1	Indanyl Glucuronide M1	C42H55N5O10	C42H55N5O10	0							01/03/2019	Drug metabolism
@@ -4472,16 +4473,16 @@ iscssh	S-sulfanylcysteine-[IscS protein]	HS2R	S2R	-1	C15812						12/07/2018	Thia
 isetac	Isethionic acid		C2H5O4S	-1						HMDB03903	02/07/2014	Respiration
 isncrdna	Isonocardicin A		C23H23N4O9	-1							19/09/2018	Xenobiotics metabolism
 isnzd	Isoniazid	C6H7N3O	C6H7N3O	0	C07054	3767					01/03/2019	Drug metabolism
-isobut	Isobutyrate, 2-Methylpropanoate	C4H8O2	C4H7O2	-1	C02632	6590		KQNPFQTWMSNSAP-UHFFFAOYSA-N		HMDB01873	02/07/2014	Fatty acid synthesis
-isocapr	Isocaproate	C6H12O2	C6H11O2	-1		12587				HMDB00689	02/07/2014	Valine, leucine, and isoleucine metabolism
+isobut	Isobutyrate, 2-Methylpropanoate	C4H8O2	C4H7O2	-1	C02632	6590		KQNPFQTWMSNSAP-UHFFFAOYSA-N		HMDB01873	02/07/2014	Central metabolism
+isocapr	Isocaproate	C6H12O2	C6H11O2	-1		12587				HMDB00689	02/07/2014	Central metabolism
 isocaprcoa	Isocaproyl-CoA	C27H46N7O17P3S	C27H42N7O17P3S	-4	C21400						20/12/2017	Valine, leucine, and isoleucine metabolism
-isochol	Isocholate	C24H40O5	C24H39O5	-1	C17660	164673				HMDB00361	22/12/2016	Bile acid metabolism
+isochol	Isocholate	C24H40O5	C24H39O5	-1	C17660	164673				HMDB00361	22/12/2016	Bile acids
 isolvstacid	3-hydroxy-iso-delta-4,5-hydroxy acid form of lovastatin	C24H38O7	C24H37O7	-1							02/07/2014	Drug metabolism
 isomal	Isomaltose,  Brachiose	C12H22O11	C12H22O11	0	C00252	439193		DLRVVLDZNNYCBX-RTPHMHGBSA-N		HMDB02923	02/07/2014	Miscellaneous
 isopen	Isopenicillin N		C14H20N3O6S	-1							19/09/2018	Xenobiotics metabolism
 isosorbide_5mn	Isosorbide 5-Mononitrate 	C6H9NO6	C6H9NO6	0	C07714	27661					01/03/2019	Drug metabolism
 isosorbide_5mn_glc	Isosorbide 5-Mononitrate 2-Beta-D-Glucuronide	C12H17NO12	C12H16NO12	-1		46782003					01/03/2019	Drug metabolism
-isoval	Isovalerate, 3-Methylbutanoate	C5H10O2	C5H9O2	-1	C08262	10430		GWYFCOCPABKNJV-UHFFFAOYSA-N		HMDB00718	02/07/2014	Fatty acid synthesis
+isoval	Isovalerate, 3-Methylbutanoate	C5H10O2	C5H9O2	-1	C08262	10430		GWYFCOCPABKNJV-UHFFFAOYSA-N		HMDB00718	02/07/2014	Central metabolism
 ispre	Isoprene	C5H8	C5H8	0	C16521	6557					02/07/2014	Terpenoid backbone biosynthesis
 itaccoa	itaconyl-CoA(5-)		C26H35N7O19P3S	-5	C00531	439254	15528	NFVGYLGSSJPRKW-CITAKDKDSA-I		HMDB03377	02/07/2014	C5-branched dibasic acid metabolism
 itacon	itaconate(2-)		C5H4O4	-2	C00490	811	30838	LVHBHZANLOWSRM-UHFFFAOYSA-L		HMDB02092	02/07/2014	C5-branched dibasic acid metabolism
@@ -4496,7 +4497,7 @@ ivitxn	Isovitexin	C21H20O10	C21H19O10	-1	C01714						01/07/2019	Flavonoid, isofl
 ivitxn2oglc	Isovitexin 2-O-beta-D-glucoside	C27H30O15	C27H29O15	-1	C04199						01/07/2019	Flavonoid, isoflavonoid, and polyphenol metabolism
 jh3	Juvenile hormone III		C16H26O3	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 jh3acd	Juvenile hormone III acid		C15H23O3	-1							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-k	potassium		K	1	C00238	813	29103	NPYPAHLBTDXSSS-UHFFFAOYSA-N		HMDB00586	02/07/2014	Drug metabolism
+k	potassium		K	1	C00238	813	29103	NPYPAHLBTDXSSS-UHFFFAOYSA-N		HMDB00586	02/07/2014	Minerals
 kdn	2-keto-3-deoxy-D-glycero-D-galactononic acid		C9H15O9	-1		22833524		FQHUAUMYHAJTDH-IMSDGWMTSA-M		HMDB00425	02/07/2014	Aminosugar metabolism
 kdnp	2-keto-3-deoxy-D-glycero-D-galactononic acid 9-phosphate		C9H14O12P	-3				ONDNEVXIOCSZAT-IMSDGWMTSA-K			02/07/2014	Aminosugar metabolism
 kdo	3-Deoxy-D-manno-2-octulosonate		C8H13O8	-1							02/07/2014	Lipopolysaccharide biosynthesis
@@ -4645,8 +4646,8 @@ l2amna	L-2-Amino acid		C2H3NO2R	-1							19/09/2018	Arginine and proline metabol
 l2fn2m2masn	{[galactosyl-(1,4)-N-Acetyl-glucosaminyl-(1,2)-mannosyl-(1,3)-],[N-acetyl-glucosaminyl-(1,2)-mannosyl-(1,6)-]mannosyl-(1,4)-N-ac... <Preview truncated at 128 characters>		C68H113N4O49X	0	G00017						02/07/2014	Keratan sulfate synthesis
 l2n2m2mn	de-Fuc, reducing GlcNAc removed, de-Sia form of PA6 (w/o peptide linkage)		C54H91N3O41	0							02/07/2014	N-glycan degradation
 l2xser	(Gal)2-Xyl-L-Ser (protein)		C17H29O14X	0	C04825						02/07/2014	Chondroitin synthesis
-lac_D	D-lactate		C3H5O3	-1	C00256	61503	42111	JVTAAEKCZFNVCJ-REOHCLBHSA-M		HMDB01311	02/07/2014	Cell wall biosynthesis
-lac_L	L-lactate		C3H5O3	-1	C00186	107689	422	JVTAAEKCZFNVCJ-REOHCLBHSA-M		HMDB00190	02/07/2014	Cell wall biosynthesis
+lac_D	D-lactate		C3H5O3	-1	C00256	61503	42111	JVTAAEKCZFNVCJ-REOHCLBHSA-M		HMDB01311	02/07/2014	Central metabolism
+lac_L	L-lactate		C3H5O3	-1	C00186	107689	422	JVTAAEKCZFNVCJ-REOHCLBHSA-M		HMDB00190	02/07/2014	Central metabolism
 lac6p	Lactose 6-phosphate	C12H23O14P	C12H21O14P	-2	C05396	440654	79080	ITPHOIFCAFNCLL-QKKXKWKRSA-N	C(C1C(C(C(C(O1)O)O)O)OC2C(C(C(C(O2)COP(=O)(O)O)O)O)O)O	HMDB06789	16/07/2014	Galactose metabolism
 laccoa	Lactoyl-CoA	C24H40N7O18P3S	C24H36N7O18P3S	-4	C00827	3081970		VIWKEBOLLIEAIL-FBMOWMAESA-N		HMDB02346	24/02/2015	Propanoate metabolism
 lacdfucttr	Lactodifucotetraose (HMO, PMID:11425797)	C24H42O19	C24H42O19	0	G00335						02/07/2014	
@@ -4677,10 +4678,10 @@ lctnb	Lacto-N-biose	C14H25NO11	C14H25NO11	0	C06372						29/03/2017
 lctnbp	Lacto-N-biose phosphate	C14H26NO14P	C14H24NO14P	-2							29/03/2017	
 lcts	Lactose		C12H22O11	0	C00243	84571	17716	GUBGYTABKSRVRQ-QKKXKWKRSA-N		HMDB00186	02/07/2014	Galactose metabolism
 Lcyst	L-cysteate(1-)		C3H6NO5S	-1	C00506	25701	17285	XVOYSCVBGLVSOL-REOHCLBHSA-M		HMDB02757	02/07/2014	Methionine and cysteine metabolism
-Lcystin	L-cystine		C6H12N2O4S2	0	C00491	67678	16283	LEVWYRKDKASIDU-IMJSIDKUSA-N		HMDB00192	02/07/2014	Methionine and cysteine metabolism
+Lcystin	L-cystine		C6H12N2O4S2	0	C00491	67678	16283	LEVWYRKDKASIDU-IMJSIDKUSA-N		HMDB00192	02/07/2014	Amino acid metabolites
 ldambtnt	L-2,4-Diaminobutanoate		C4H11N2O2	1							19/09/2018	Glycine, serine, alanine, and threonine metabolism
 ldl_hs	Low Density Lipoprotein		X	0							03/01/2017	Glycerophospholipid metabolism
-leu_L	L-leucine		C6H13NO2	0	C00123	6106	15603	ROHFNLRQFUQHCH-YFKPBYRVSA-N		HMDB00687	02/07/2014	Glycerophospholipid metabolism
+leu_L	L-leucine		C6H13NO2	0	C00123	6106	15603	ROHFNLRQFUQHCH-YFKPBYRVSA-N		HMDB00687	02/07/2014	Amino acid metabolites
 leualaarg	Leucyl-Alanyl-Arginine		C15H31N6O4	1				LJHGALIOHLRRQN-HBNTYKKESA-O			03/01/2017	Peptide metabolism
 leuasnasp	Leucyl-Asparaginyl-Aspartate		C14H23N4O7	-1				VCSBGUACOYUIGD-YIZRAAEISA-M			03/01/2017	Peptide metabolism
 leuasplys	Leucyl-Aspartyl-Lysine		C16H30N4O6	0				MYGQXVYRZMKRDB-SDDRHHMPSA-N			03/01/2017	Peptide metabolism
@@ -4732,7 +4733,7 @@ lipidX_bt	lipidX_BT		C39H74NO12P	-2							02/07/2014
 lipidX_HP	lipidX_HP		C40H76NO12P	-2							17/07/2015	
 lipoate	lipoate		C8H14O2S2	0	C00725	6112	30314	AGBQKNBQESQNJD-ZETCQYMHSA-N		HMDB01451	02/07/2014	Arginine and proline metabolism
 lipp	Lipoprotein		C19H35NO2R2S	0	C02702						12/11/2020	Cell wall biosynthesis
-Lkynr	L-kynurenine		C10H12N2O3	0	C00328	161166	16946	YGPSJZOEDVAXAB-QMMMGPOBSA-N		HMDB00684	02/07/2014	Tryptophan metabolism
+Lkynr	L-kynurenine		C10H12N2O3	0	C00328	161166	16946	YGPSJZOEDVAXAB-QMMMGPOBSA-N		HMDB00684	02/07/2014	Amino acid metabolites
 lmaatrna	L-Methionylaminoacyl-tRNA		C22H34N2O18P2R4S	-2							19/09/2018	Methionine and cysteine metabolism
 lmn	(+)-Limonene		C10H16	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 lmn2	Laminaribiose		C12H22O11	0							02/07/2014	Plant polysaccharide degradation
@@ -4751,7 +4752,7 @@ lnlccrn	Linoleyl carnitine		C25H45NO4	0		6450015		MJLXQSQYKZWZCB-DQFWFXSYSA-N		H
 lnlnca	alpha-linolenate		C18H29O2	-1	C06427	5280934	27432	DTOSIQBPPRVQHS-PDBXOOCHSA-M		HMDB01388	02/07/2014	Fatty acid oxidation
 lnlncacoa	alpha-Linolenoyl-CoA		C39H60N7O17P3S	-4	C16162	53477815	51985	OMKFKBGZHNJNEX-PQBHNYBOSA-J		HMDB06290	02/07/2014	Fatty acid oxidation
 lnlncacrn	alpha-linolenyl carnitine		C25H43NO4	0		53477821		DFVGGGHKDAHYIU-UHMZJXMFSA-N		HMDB06319	02/07/2014	Fatty acid oxidation
-lnlncg	gamma-linolenate		C18H29O2	-1	C06426	5280933	28661	VZCCETWTMQHEPK-NPLRDPCCSA-M		HMDB03073	02/07/2014	Cholesterol metabolism
+lnlncg	gamma-linolenate		C18H29O2	-1	C06426	5280933	28661	VZCCETWTMQHEPK-NPLRDPCCSA-M		HMDB03073	02/07/2014	Fatty acids
 lnlncgcoa	gamma-linolenoyl-CoA(4-)		C39H60N7O17P3S	-4	C03035	11966132	15508	XZQYPTBYQYZGRU-FHDVEODPSA-J		HMDB06368	02/07/2014	Fatty acid oxidation
 lnlncgcrn	gamma-linolenyl carnitine		C25H43NO4	0		53477819		VDPMHVILMVSAQX-BAHSRKMSSA-N		HMDB06318	02/07/2014	Fatty acid oxidation
 lpam	lipoamide		C8H15NOS2	0	C00248	863	17460	FCCDDURTIIUXBY-UHFFFAOYSA-N		HMDB00962	02/07/2014	Citric acid cycle
@@ -4787,7 +4788,7 @@ lvstacid	lovastatin-hydroxyacid form	C24H38O6	C24H37O6	-1							02/07/2014	Drug 
 lxser	Gal-Xyl-L-Ser (protein)		C11H19O9X	0	G00155						02/07/2014	Chondroitin synthesis
 lypn	Lysopine	C9H18N2O4	C9H18N2O4	0							19/09/2018	Lysine metabolism
 lys_D	D-lysine	C6H14N2O2	C6H15N2O2	1							19/09/2018	Lysine metabolism
-lys_L	L-lysine		C6H15N2O2	1	C00047	5962	18019	KDXKERNSBIXSRK-YFKPBYRVSA-O		HMDB00182	02/07/2014	Biotin metabolism
+lys_L	L-lysine		C6H15N2O2	1	C00047	5962	18019	KDXKERNSBIXSRK-YFKPBYRVSA-O		HMDB00182	02/07/2014	Amino acid metabolites
 lysargleu	Lysyl-Arginyl-Leucine		C18H38N7O4	2				YNNPKXBBRZVIRX-IHRRRGAJSA-M			03/01/2017	Peptide metabolism
 lyscyshis	Lysyl-Cysteinyl-Histidine		C15H27N6O4S	1				QQYRCUXKLDGCQN-SDDRHHMPSA-O			03/01/2017	Peptide metabolism
 lysglnphe	Lysyl-Glutaminyl-Phenylalanine		C20H32N5O5	1				PGBPWPTUOSCNLE-XHSDSOJGSA-O			03/01/2017	Peptide metabolism
@@ -5351,7 +5352,6 @@ M01677	Dextrin(N-1)		X	0	C00721	62698		FYGDTMLNYKFZSV-MRCIVHHJSA-N		HMDB06857	03
 M01678	Dextrin (Recon3D)		C18H32O16	0	C00721			FYGDTMLNYKFZSV-MRCIVHHJSA-N			03/01/2017	
 M01691	Dichloroacetate		C2H1Cl2O2	-1	C11149			JXTHNDFMNIQAHM-UHFFFAOYSA-N			03/01/2017	
 M01692	Dichloroacetyl Chloride		C2HCl3O	0	C14867			FBCCMZVIWNDFMO-UHFFFAOYSA-N			03/01/2017	
-M01707	Dimethylamine		C2H7N	0							03/01/2017	
 M01710	Diphospho-Myo-Inositol-Polyphosphate		X	0	C11524						03/01/2017	
 M01719	Dna-Containing-6-O-Methylguanine		C11H16N5O7P(C5H8O5PR)n(C5H8O5PR)n	0	C04250						03/01/2017	Miscellaneous
 M01720	Dna-Containing-Guanine		C10H14N5O7P(C5H8O5PR)n(C5H8O5PR)n	0	C11475						03/01/2017	Miscellaneous
@@ -5742,7 +5742,7 @@ magole_hs	1-Oleoylglycerol		C21H40O4	0				RZRNAYUHWVFMIP-KTKRTIGZSA-N			03/01/20
 magpalm_hs	1-Palmitoylglycerol		C19H38O4	0				QHZLMUACJMDIAE-UHFFFAOYSA-N			03/01/2017	Glycerophospholipid metabolism
 magste_hs	1-Stearoylglycerol		C21H42O4	0				VBICKXHEKHSIBG-UHFFFAOYSA-N			03/01/2017	Glycerophospholipid metabolism
 mal_D	D-Malate		C4H4O5	-2						HMDB0031518	02/07/2014	Butanoate metabolism
-mal_L	L-malate		C4H4O5	-2	C00149	222656	30797	BJEPYKJPYRNKOW-REOHCLBHSA-L		HMDB00156	02/07/2014	Carbon fixation pathways in prokaryotes
+mal_L	L-malate		C4H4O5	-2	C00149	222656	30797	BJEPYKJPYRNKOW-REOHCLBHSA-L		HMDB00156	02/07/2014	Central metabolism
 malACP	Malonyl-[acyl-carrier protein]		C14H22N2O10PRS	-2	C01209		58107				02/07/2014	Biotin metabolism
 malcoa	Malonyl-CoA		C24H33N7O19P3S	-5	C00083	10663	15531	LTYOQGRJFJAKNA-DVVLENMVSA-I		HMDB01175	02/07/2014	Biotin metabolism
 malcoam	Malonyl-CoA methyl ester		C25H36N7O19P3S	-4							02/07/2014	Biotin metabolism
@@ -5750,7 +5750,7 @@ malon	Malonate		X	0							02/07/2014
 malpy	maleylpyruvate/Maleylpyruvic acid/3-Maleylpyruvate		C7H6O6	-2							02/07/2014	
 malpyr	Maleylpyruvate		C7H4O6	-2							19/09/2018	Tyrosine metabolism
 malsa	Malic semialdehyde	C4H6O4	C4H5O4	-1							13/11/2015	
-malt	Maltose		C12H22O11	0	C00208	10991489	17306	GUBGYTABKSRVRQ-PICCSMPSSA-N		HMDB00163	02/07/2014	Histone phosphorylation
+malt	Maltose		C12H22O11	0	C00208	10991489	17306	GUBGYTABKSRVRQ-PICCSMPSSA-N		HMDB00163	02/07/2014	Carbohydrates
 malt6p	Maltose 6-phosphate		C12H21O14P	-2							02/07/2014	Histone phosphorylation
 malthp	maltoheptaose		C42H72O36	0				BNABBHGYYMZMOA-QJBBZCPBSA-N		HMDB0013000	02/07/2014	Starch and sucrose metabolism
 malthx	Maltohexaose		C36H62O31	0	C01936	439606	61953	OCIBBXPLUVYKCH-LIGGPISVSA-N		HMDB0012253	02/07/2014	Starch and sucrose metabolism
@@ -5758,7 +5758,7 @@ maltpt	maltopentaose		C30H52O26	0		13489094	61952	FTNIPWXXIGNQQF-HZWIHCTQSA-N		H
 malttr	maltotriose		C18H32O16	0	C01835	439586	27931	FYGDTMLNYKFZSV-PXXRMHSHSA-N		HMDB01262	02/07/2014	Starch and sucrose metabolism
 maltttr	Maltotetraose		C24H42O21	0	C02052	439639	28460	LUEWUZLMQUOBSB-AYQJAVFRSA-N		HMDB01296	02/07/2014	Starch and sucrose metabolism
 malylcoa	Malyl-CoA (iSO783)		C25H36N7O20P3S	-4						HMDB01021	08/03/2016	Carbon fixation pathways in prokaryotes
-man	D-Mannose		C6H12O6	0	C00159	18950	4208	WQZGKKKJIJFFOK-QTVWNMPRSA-N		HMDB00169	02/07/2014	Drug metabolism
+man	D-Mannose		C6H12O6	0	C00159	18950	4208	WQZGKKKJIJFFOK-QTVWNMPRSA-N		HMDB00169	02/07/2014	Carbohydrates
 man1p	D-Mannose 1-phosphate		C6H11O9P	-2	C00636	644175	35374	HXXFSFRBOHSIMQ-JFNONXLTSA-L		HMDB06330	02/07/2014	Fructose and mannose metabolism
 man6p	D-Mannose 6-phosphate		C6H11O9P	-2	C00275	439198	49728	NBSCHQHZLSJFNQ-RWOPYEJCSA-L		HMDB01078	02/07/2014	Aminosugar metabolism
 man6pglyc	2(alpha-D-Mannosyl-6-phosphate)-D-glycerate		C9H14O12P	-3							02/07/2014	Fructose and mannose metabolism
@@ -5766,7 +5766,7 @@ mana	D-Mannonate		C6H11O7	-1							02/07/2014	Fructose and mannose metabolism
 manb	Mannobiose (beta-1,4)		C12H22O11	0	 C01728						02/07/2014	Fructose and mannose metabolism
 manglyc	2(alpha-D-Mannosyl)-D-glycerate		C9H15O9	-1							02/07/2014	Fructose and mannose metabolism
 mannan	Alpha-mannan, yeast, has a MW of about 25000 (PMID: 5461381), equals ~ 140 mannose units. ID according to iMM904		C840H1402O701	0							17/03/2015	Drug metabolism
-mannur	D-Mannuronic acid	C6H10O7	C6H9O7	-1	C02024						26/08/2019	Fructose and mannose metabolism
+mannur	D-Mannuronic acid	C6H10O7	C6H9O7	-1	C02024						26/08/2019	Carbohydrates
 manpt	mannopentaose		C30H52O26	0							02/07/2014	Fructose and mannose metabolism
 mantr	mannotriose (beta-1,4)		C18H32O16	0							02/07/2014	Fructose and mannose metabolism
 manttr	mannotetraose		C24H42O21	0							02/07/2014	Fructose and mannose metabolism
@@ -5786,12 +5786,12 @@ mdzglc	Midazolam-Glucuronide	C24H22ClFN3O6	C24H21ClFN3O6	-1							02/07/2014	Dru
 mecfsp	Methylcorrinoid iron sulfur protein		C20H3CoN4R21	1	C06020						23/02/2015	Wood-Ljungdahl Pathway
 melanin	Melanin		C9H6NO4	-1	C05606	6325610		XUMBMVFBXHLACL-UHFFFAOYSA-N		HMDB04068	02/07/2014	Tyrosine metabolism
 melatn	melatonin		C13H16N2O2	0	C01598	896	16796	DRLFMBDRBRZALE-UHFFFAOYSA-N		HMDB01389	02/07/2014	Tryptophan metabolism
-melib	Melibiose		C12H22O11	0				KDEWWQZHBSXNPX-XGZCLZEASA-N		HMDB0055419	02/07/2014	Fructose and mannose metabolism
+melib	Melibiose		C12H22O11	0				KDEWWQZHBSXNPX-XGZCLZEASA-N		HMDB0055419	02/07/2014	Carbohydrates
 melt	Melilotate	C9H10O3	C9H9O3	-1						HMDB0033752	02/07/2014	Phenylalanine metabolism
 mem2emgacpail_hs	({[(mannosyl),(phosphoethanolaminyl)]-dimannosyl},{phosphoethanolaminyl})-mannosyl-glucosaminyl-acylphosphatidylinositol (M4B)		C59H110N3O40P3FULLRCO2FULLR2CO2	0							02/07/2014	Phosphatidylinositol phosphate metabolism
 mem2emgacpail_prot_hs	({[(mannosyl),(phosphoethanolaminyl)]-dimannosyl},{phosphoethanolaminyl})-mannosyl-glucosaminyl-acylphosphatidylinositol-Protein... <Preview truncated at 128 characters>		C59H110N3O40P3FULLRCO2FULLR2CO2X	0							02/07/2014	Phosphatidylinositol phosphate metabolism
 memgacpail_hs	(mannosyl),(phosphoethanolaminyl)-mannosyl-glucosylaminyl-acylphosphatidylinositol (B)		C45H84N2O27P2FULLRCO2FULLR2CO2	0							02/07/2014	Phosphatidylinositol phosphate metabolism
-meoh	methanol		CH4O1	0	C00132	887	17790	OKKJLVBELUTLKV-UHFFFAOYSA-N		HMDB01875	02/07/2014	Alkaloid synthesis
+meoh	methanol		CH4O1	0	C00132	887	17790	OKKJLVBELUTLKV-UHFFFAOYSA-N		HMDB01875	02/07/2014	Central metabolism
 mepi	Metanephrine		C10H16NO3	1	C05588	21100	144365	JWJCTZKFYGDABJ-VIFPVBQESA-O		HMDB04063	02/07/2014	Tyrosine metabolism
 meracmp	acetaminophen-mercapturate-conjugate/N-acetyl-cysteine-acetaminophen	C13H16N2O5S	C13H15N2O5S	-1							02/07/2014	Drug metabolism
 mercapt	Mercapturic acid		C5H7NO3RS	-1	C05727						01/07/2019	Glutathione metabolism
@@ -5800,8 +5800,8 @@ mercplaccys	3-mercaptolactate-cysteine disulfide		C6H10O5S2N	-1		193536		MAFDYID
 mercppyr	3-mercaptopyruvate		C3H3O3S	-1	C00957	98	16208	OJOLFAIGOXZBCI-UHFFFAOYSA-M		HMDB01368	02/07/2014	Alanine and aspartate metabolism
 mescoa	Mesaconyl-CoA		C26H35N7O19P3S	-5	C06028	11966166	27969	LVBVWNJPMXCQJE-CBBDEUQJSA-I		HMDB0060124	02/07/2014	C5-branched dibasic acid metabolism
 mescon	Mesaconate		C5H4O4	-2	C01732	638129	16600	HNEGQIOMVPPMNR-NSCUHMNNSA-L		HMDB00749	02/07/2014	C5-branched dibasic acid metabolism
-met_D	D-Methionine		C5H10NO2S	0		3292996					02/07/2014	
-met_L	L-methionine		C5H11NO2S	0	C00073	6137	16643	FFEARJCKVFRZRR-BYPYZUCNSA-N		HMDB00696	02/07/2014	Arginine and proline metabolism
+met_D	D-Methionine		C5H10NO2S	0		3292996					02/07/2014	Amino acids
+met_L	L-methionine		C5H11NO2S	0	C00073	6137	16643	FFEARJCKVFRZRR-BYPYZUCNSA-N		HMDB00696	02/07/2014	Amino acid metabolites
 metala	L-methionyl-L-alanine		C8H16N2O3S	0			74394				02/07/2014	Peptide metabolism
 metargleu	Methionyl-Arginyl-Leucine		C17H35N6O4S	1				WDTLNWHPIPCMMP-XQQFMLRXSA-O			03/01/2017	Peptide metabolism
 metasntyr	Methionyl-Asparaginyl-Tyrosine		C18H26N4O6S	0				HKRYNJSKVLZIFP-MJBXVCDLSA-N			03/01/2017	Peptide metabolism
@@ -5821,7 +5821,7 @@ mettrna	L-Methionyl-tRNA (Met)		C5H10NOSR	1							02/07/2014	tRNA Charging
 mettrpphe	Methionyl-Tryptophanyl-Phenylalanine		C25H30N4O4S	0				HMEVNCOJHJTLNB-NNWRFLSQSA-N			03/01/2017	Peptide metabolism
 mev_R	(R)-mevalonate		C6H11O4	-1	C00418	449	17710	KJTLQQUUPVSXIM-ZCFIWIBFSA-M		HMDB00227	02/07/2014	Cholesterol metabolism
 mfur	Methanofuran	C34H44N4O15	C34H40N4O15	-4							02/07/2014	Methane metabolism
-mg2	magnesium		Mg	2				JLVVSXFLKOJNIY-UHFFFAOYSA-N		HMDB00547	02/07/2014	Vitamin B12 metabolism
+mg2	magnesium		Mg	2				JLVVSXFLKOJNIY-UHFFFAOYSA-N		HMDB00547	02/07/2014	Minerals
 mgacpail_hs	mannosyl-glucosaminyl-acylphosphatidylinositiol (H2)		C37H68NO19PFULLRCO2FULLR2CO2	0							02/07/2014	Phosphatidylinositol phosphate metabolism
 mgal	Methyl beta-D-galactoside	C7H14O6	C7H14O6	0	C03619						01/07/2019	Glycosaminoglycan degradation
 MGlcn10	mucin-type O-glycan No 10	C44H71N4O31X	C44H69N4O31X	-2							29/03/2017	Mucin O-glycan biosynthesis
@@ -6225,7 +6225,7 @@ miso_glc	Misonidazole Glucuronide	C13H19N3O10	C13H18N3O10	-1		128826					01/03/2
 mlbtl	Melibiitol		C12H24O11	0							19/09/2018	Fructose and mannose metabolism
 mlemt	Maleamate		C4H4NO3	-1							19/09/2018	Nicotine degradation
 mlthf	5,10-Methylenetetrahydrofolate		C20H21N7O6	-2	C00143	439175	15636	QYNUQALWYRSVHF-UEWDXFNNSA-L		HMDB01533	02/07/2014	CoA synthesis
-mma	methylammonium		C1H6N	1	C00218	6329	16830	BAVYZALUXZFZLV-UHFFFAOYSA-O		HMDB00164	02/07/2014	Glycine, serine, alanine, and threonine metabolism
+mma	methylammonium		C1H6N	1	C00218	6329	16830	BAVYZALUXZFZLV-UHFFFAOYSA-O		HMDB00164	02/07/2014	Amines
 mmcoa_R	(R)-methylmalonyl-CoA(5-)		C25H35N7O19P3S	-5	C01213	22833590	15465	MZFOKIKEPGUZEN-AGCMQPJKSA-I		HMDB02255	02/07/2014	Propanoate metabolism
 mmcoa_S	(S)-methylmalonyl-CoA(5-)		C25H35N7O19P3S	-5	C00683	439291	15466	MZFOKIKEPGUZEN-IBNUZSNCSA-I		HMDB01269	02/07/2014	Cell wall biosynthesis
 mmcoapyrct	[Methylmalonyl-CoA:pyruvate carboxytransferase]		C17H27N5O4R2S	0							19/09/2018	Biotin metabolism
@@ -6234,7 +6234,7 @@ mmql7	methymenaquinol 7 (iSO783)		C47H68O2	0							08/03/2016	NAD metabolism
 mmqn7	methylmenaquinone 7 (iSO783)		C47H66O2	0							08/03/2016	NAD metabolism
 mmtsa	(S)-Methylmalonate semialdehyde		C4H5O3	-1	C06002	5462303		VOKUMXABRRXHAR-VKHMYHEASA-N		HMDB02217	02/07/2014	Valine, leucine, and isoleucine metabolism
 mn	beta-1,4-mannose-N-acetylglucosamine		C14H25NO11	0		53477853		KFEUJDWYNGMDBV-MMOUBBDDSA-N		HMDB06535	02/07/2014	N-glycan degradation
-mn2	Mn2+		Mn	2							02/07/2014	
+mn2	Mn2+		Mn	2							02/07/2014	Minerals
 mnl	D-Mannitol		C6H14O6	0						HMDB00765	02/07/2014	Fructose and mannose metabolism
 mnl1p	D-Mannitol 1-phosphate		C6H13O9P	-2							02/07/2014	Fructose and mannose metabolism
 mntd	Mononucleotide		C5H9O7PR	-1							19/09/2018	Nucleotide interconversion
@@ -6261,7 +6261,7 @@ mqn10	Menaquinone-10		C61H88O2	0		9988135		OCQQATZYCNAKQB-UHFFFAOYSA-N			02/07/2
 mqn11	Menaquinone-11		C66H96O2	0		6442190		YYDMANIEKFAEJC-UHFFFAOYSA-N			02/07/2014	
 mqn6	Menaquinone 6		C41H56O2	0							17/07/2015	Citric acid cycle
 mqn7	Menaquinone 7	C46H64O2	C46H64O2	0	C00828	5287554	16374	RAKQPZMEYJZGPI-LJWNYQGCSA-N			02/07/2014	Citric acid cycle
-mqn8	Menaquinone 8	C51H72O2	C51H72O2	0	C00828	5376507	16374	LXKDFTDVRVLXFY-UHFFFAOYSA-N	CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C		02/07/2014	Citric acid cycle
+mqn8	Menaquinone 8	C51H72O2	C51H72O2	0	C00828	5376507	16374	LXKDFTDVRVLXFY-UHFFFAOYSA-N	CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C		02/07/2014	Cofactors
 mqn9	Menaquinone-9		C56H80O2	0		6289935		WCRXHNIUHQUASO-UVZVDVBNSA-N			02/07/2014	
 mrctn	Myricetin		C15H9O8	-1							19/09/2018	Isoquinoline alkaloid biosynthesis
 mrna	mRNA		X	0							29/07/2024	Nucleotide interconversion
@@ -6282,7 +6282,7 @@ mtth4mpt	5,10-Methenyl-5,6,7,8-tetrahydromethanopterin	C31H44N6O16P	C31H41N6O16P
 mtym	m-Tyramine	C8H11NO	C8H12NO	1						HMDB04989	19/07/2019	Drug metabolism
 mtz	Metronidazole	C6H9N3O3	C6H9N3O3	0	C07203	4173					01/03/2019	Drug metabolism
 mtz_glc	Metronidazole Beta-D-Glucuronide	C12H17N3O9	C12H16N3O9	-1		95162713					01/03/2019	Drug metabolism
-mucl	mucolactone	C6H6O4	C6H5O4	-1	C04105	6796	18080		OC(=O)CC1OC(=O)C=C1		02/07/2014	Benzoate degradation
+mucl	mucolactone	C6H6O4	C6H5O4	-1	C04105	6796	18080		OC(=O)CC1OC(=O)C=C1		02/07/2014	Others
 murein_lpp	Braun lipoprotein conjugated with murein		C385H645N102O139S2	0							02/07/2014	
 murein3p3p	two linked disacharide tripeptide murein units (uncrosslinked, middle of chain)		C68H104N12O38	-4							02/07/2014	Cell wall biosynthesis
 murein3p4p	two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain)		C71H107N13O38	-4							12/11/2020	Cell wall biosynthesis
@@ -6337,7 +6337,7 @@ n6odsglsmn	N,6-O-Disulfo-D-glucosamine		C6H11NO11S2	-2							19/09/2018	Heparan 
 n8aspmd	N(8)-acetylspermidinium(2+)		C9H23N3O	2	C01029	123689	27911	FONIWJIDLJEJTL-UHFFFAOYSA-P		HMDB02189	02/07/2014	Arginine and proline metabolism
 na1	Sodium		Na	1	C01330	923	29101	FKNQFGJONOIPTF-UHFFFAOYSA-N		HMDB00588	02/07/2014	Butanoate metabolism
 nabggpptd	N-Acetyl-beta-D-glucosaminyl-glycopeptide		C8H14NO6R	0							19/09/2018	N-glycan degradation
-nac	Nicotinate		C6H4NO2	-1	C00253	938	15940	PVNIIMVLHYAWGP-UHFFFAOYSA-M		HMDB01488	02/07/2014	NAD metabolism
+nac	Nicotinate		C6H4NO2	-1	C00253	938	15940	PVNIIMVLHYAWGP-UHFFFAOYSA-M		HMDB01488	02/07/2014	Cofactors
 Nacasp	N-acetyl-L-aspartate(2-)		C6H7NO5	-2	C01042	65065	21547	OTCCIMWXFLJLIA-BYPYZUCNSA-L		HMDB00812	02/07/2014	Alanine and aspartate metabolism
 Naccitr_L	N-Acetyl-L-citrulline		C8H15N3O4	0						HMDB00856	02/07/2014	Arginine and proline metabolism
 nacgbgdgc	N-Acetyl-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-D- glucosylceramide		C39H70N2O19	0							30/09/2018	
@@ -6371,7 +6371,7 @@ napqi	NAPQI	C8H7NO2	C8H7NO2	0						HMDB0060946	02/07/2014
 nargnn	Naringenin	C15H12O5	C15H12O5	0	C00509						01/07/2019	
 natdmp5p	N-Acetyl-N6,N6,O-tridemethylpuromycin-5-phosphate		C21H25N7O9P	-1							19/09/2018	Xenobiotics metabolism
 Nbfortyr	N,N-bisformyl-dityrosine (iMM904)		C20H22N2O8	-2							08/03/2016	Folate metabolism
-ncam	Nicotinamide		C6H6N2O	0	C00153	936	17154	DFPAKSUCGFBDDF-UHFFFAOYSA-N		HMDB01406	02/07/2014	Miscellaneous
+ncam	Nicotinamide		C6H6N2O	0	C00153	936	17154	DFPAKSUCGFBDDF-UHFFFAOYSA-N		HMDB01406	02/07/2014	Cofactors
 ncamurea	N-(Carboxyaminomethyl)urea		C3H6N3O3	-1							19/09/2018	Nitrogen metabolism
 ncbmlscn	N-Carbamoylsarcosine		C4H7N2O3	-1							19/09/2018	Arginine and proline metabolism
 ncclrn	Norcoclaurine		C16H17NO3	0							19/09/2018	Isoquinoline alkaloid biosynthesis
@@ -6397,14 +6397,14 @@ nflasp	N-Formyl-L-aspartate	C5H7NO5	C5H5NO5	-2							19/09/2018	Histidine metabo
 nflmaatrna	N-Formyl-L-methionylaminoacyl-tRNA		C23H34N2O19P2R4S	-2							19/09/2018	Methionine and cysteine metabolism
 nfmmt	N-Formyl maleamic acid		C5H4NO4	-1							19/09/2018	Nicotine degradation
 nfmnlasp	N-Formimino-L-aspartate		C5H7N2O4	-1							19/09/2018	Xenobiotics metabolism
-nforglu	N-Formyl-L-glutamate	C6H9NO5	C6H7NO5	-2						HMDB03470	02/07/2014	Folate metabolism
+nforglu	N-Formyl-L-glutamate	C6H9NO5	C6H7NO5	-2						HMDB03470	02/07/2014	Amino acid metabolites
 nformanth	N-formylanthranilate		C8H6NO3	-1	C05653	101399	36575	LLLPDUXGHXIXIW-UHFFFAOYSA-M		HMDB04089	02/07/2014	Tryptophan metabolism
 Nfortyr	N-Formyl-L-tyrosine (iMM904)		C10H10NO4	-1							08/03/2016	Folate metabolism
 ngadabut	N-gamma-Acetyldiaminobutyrate		C6H12N2O3	0							19/09/2018	Glycine, serine, alanine, and threonine metabolism
 nglnt	Nogalonic acid		C20H13O8	-1							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 nglntme	Nogalonic acid methyl ester		C21H16O8	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 nh3	Ammonia		X	0							02/07/2014	
-nh4	Ammonium		H4N	1	C00014	222	28938	QGZKDVFQNNGYKY-UHFFFAOYSA-O		HMDB00051	02/07/2014	Alanine and aspartate metabolism
+nh4	Ammonium		H4N	1	C00014	222	28938	QGZKDVFQNNGYKY-UHFFFAOYSA-O		HMDB00051	02/07/2014	Small molecules
 nh4oh	Ammonium hydroxide	H5NO	H5NO	0	C01358	4561	18219		[NH4+].[OH-]		16/07/2014	
 ni2	nickel		Ni	2	C19609	934		VEQPNABPJHWNSG-UHFFFAOYSA-N		HMDB02457	02/07/2014	
 nicrns	Nicotinate D-ribonucleoside		C11H13NO6	0	C05841	161234	27748	PUEDDPCUCPRQNY-ZYUZMQFOSA-N		HMDB06809	02/07/2014	NAD metabolism
@@ -6418,7 +6418,7 @@ nmanthcoa	N-Methylanthraniloyl-CoA		C29H39N8O17P3S	-4	C12092						01/07/2019	Ami
 nmantnlt	N-Malonylanthranilate		C10H7NO5	-2							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 Nmelys	Histone N6-methyl-L-lysine		CXH4	1	C03702						02/07/2014	
 nmlala	N-Methyl-L-alanine		C4H9NO2	0							19/09/2018	
-nmn	NMN		C11H14N2O8P	-1	C00455	14180	16171	DAYLJWODMCOQEW-TURQNECASA-M		HMDB00229	02/07/2014	NAD metabolism
+nmn	NMN		C11H14N2O8P	-1	C00455	14180	16171	DAYLJWODMCOQEW-TURQNECASA-M		HMDB00229	02/07/2014	Cofactors
 nmptrc	N-methylputrescinium(2+)		C5H16N2	2	C02723	439791	17166	RMIVMBYMDISYFZ-UHFFFAOYSA-P		HMDB03661	02/07/2014	Alkaloid synthesis
 nmth2ogltmt	N-Methyl-2-oxoglutaramate	C6H8NO4	C6H8NO4	-1							19/09/2018	Primary amine metabolism
 nmthmcn	Neomethymycin		C25H44NO7	1							19/09/2018	Biosynthesis of 12-, 14- and 16-membered macrolides
@@ -6426,11 +6426,11 @@ nmthsrtn	N-Methylserotonin		C11H15N2O	1	C06212	150885	48294	ASUSBMNYRHGZIG-UHFFF
 Nmtrp	N-Methyltryptophan		C12H14N2O2	0							02/07/2014	
 nndmanlno	N,N-Dimethylaniline N-oxide		C8H11NO	0							19/09/2018	Xenobiotics metabolism
 no	Nitric oxide		NO	0	C00533	145068	16480	MWUXSHHQAYIFBG-UHFFFAOYSA-N		HMDB03378	02/07/2014	Arginine and proline metabolism
-no2	Nitrite		NO2	-1	C00088	946	16301	IOVCWXUNBOPUCH-UHFFFAOYSA-M		HMDB02786	02/07/2014	Miscellaneous
+no2	Nitrite		NO2	-1	C00088	946	16301	IOVCWXUNBOPUCH-UHFFFAOYSA-M		HMDB02786	02/07/2014	Small molecules
 no3	Nitrate		NO3	-1						HMDB02878	02/07/2014	Nitrogen metabolism
 noncoa	nonanoylcoa		C30H48N7O17P3S	-4	C01942	439607	27770	WLDUTYVSAGSKIV-FUEUKBNZSA-J		HMDB13028	02/07/2014	Fatty acid oxidation
 normete_L	L-Normetanephrine		C9H14NO3	1	C05589	1237	144308	YNYAYWLBAHXHLL-QMMMGPOBSA-N		HMDB00819	02/07/2014	Tyrosine metabolism
-norval_L	L-Norvaline	C5H11NO2	C5H10NO2	-1	C01826						25/09/2019	Valine, leucine, and isoleucine metabolism
+norval_L	L-Norvaline	C5H11NO2	C5H10NO2	-1	C01826						25/09/2019	Amines
 np2msucc	Naphthyl-2-methyl-succinic acid	C15H14O4	C15H12O4	-2							02/07/2014	Naphthalene degradation
 np2msucccoa	Naphthyl-2-methyl-succinyl-CoA	C36H48N7O19P3S	C36H43N7O19P3S	-5	C14116						02/07/2014	Naphthalene degradation
 npepox	(1R,2S)-Naphthalene epoxide		C10H8O	0							19/09/2018	Glutathione metabolism
@@ -6466,7 +6466,7 @@ o16a3und	(O16 antigen)x3 undecaprenyl diphosphate		C157H255N3O82P2	-2							02/0
 o16a4colipa	(O16 antigen)x4 core oligosaccharide lipid A		C312H523N6O200P4	-11							02/07/2014	
 o16a4und	(O16 antigen)x4 undecaprenyl diphosphate		C191H310N4O107P2	-2							02/07/2014	Cell wall biosynthesis
 o16aund	O16 antigen undecaprenyl diphosphate		C89H145N1O32P2	-2							02/07/2014	Cell wall biosynthesis
-o2	O2		O2	0	C00007	977	15379	MYMOFIZGZYHOMD-UHFFFAOYSA-N		HMDB01377	02/07/2014	Alanine and aspartate metabolism
+o2	O2		O2	0	C00007	977	15379	MYMOFIZGZYHOMD-UHFFFAOYSA-N		HMDB01377	02/07/2014	Small molecules
 o2_	Superoxide		O2	0							02/07/2014	
 o2s	superoxide		O2	-1	C00704	5359597	18421	OUUQCZGPVNCOIJ-UHFFFAOYSA-M		HMDB02168	02/07/2014	Androgen and estrogen synthesis and metabolism
 OA_ST	OA_ST[p]		X	0							02/07/2014	
@@ -6482,7 +6482,7 @@ ocACP	Octanoyl-ACP (n-C8:0ACP)		C19H35N2O8PRS	-1							02/07/2014	Fatty acid oxi
 ocblsrn	O-Carbamoyl-L-serine		C4H8N2O4	0							19/09/2018	Glycine, serine, alanine, and threonine metabolism
 occoa	Octanoyl-CoA (n-C8:0CoA)		C29H46N7O17P3S	-4	C01944	380	57386	KQMZYOXOBSXMII-ISFBVWQPSA-J		HMDB01070	02/07/2014	Fatty acid oxidation
 ocdacp	Octadecanoyl_acyl_carrier_protein		C18H34OX	0							02/07/2014	
-ocdca	octadecanoate (n-C18:0)		C18H35O2	-1	C01530	5281	28842	QIQXTHQIDYTFRH-UHFFFAOYSA-M		HMDB00827	02/07/2014	Fatty acid oxidation
+ocdca	octadecanoate (n-C18:0)		C18H35O2	-1	C01530	5281	28842	QIQXTHQIDYTFRH-UHFFFAOYSA-M		HMDB00827	02/07/2014	Fatty acids
 ocdcaACP	Octadecanoyl-ACP (n-C18:0ACP)		C29H55N2O8PRS	-1							02/07/2014	Fatty acid oxidation
 ocdcea	octadecenoate (n-C18:1)		C18H33O2	-1	C00712	445639	30823	ZQPPMHVWECSIRJ-KTKRTIGZSA-M		HMDB00207	02/07/2014	Fatty acid oxidation
 ocdcya	octadecadienoate (n-C18:2)		C18H31O2	-1			25626	OYHQOLUKZRVURQ-HZJYTTRNSA-M			02/07/2014	Fatty acid oxidation
@@ -6535,13 +6535,13 @@ opeslfnt	2-(2-Oxopropylthio)ethanesulfonate		C5H9O4S2	-1							19/09/2018	Sulfur
 opvoh	oxidized polyvinyl alcohol		C2H4O	0							19/09/2018	
 orcnl	Orcinol		C7H8O2	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 oretn	4-oxo-retinoic acid		C20H27O3	-1	C16678	104857	269971	GGCUJPCCTQNTJF-FRCNGJHJSA-M		HMDB06285	02/07/2014	Vitamin A metabolism
-orn	Ornithine		C5H13N2O2	1	C00077	6262	15729	AHLPHDHHMVZTML-BYPYZUCNSA-O		HMDB00214	02/07/2014	Arginine and proline metabolism
+orn	Ornithine		C5H13N2O2	1	C00077	6262	15729	AHLPHDHHMVZTML-BYPYZUCNSA-O		HMDB00214	02/07/2014	Amino acid metabolites
 orn_D	D-ornithinium(1+)		C5H13N2O2	1	C00515	71082	16176	AHLPHDHHMVZTML-SCSAIBSYSA-O		HMDB03374	02/07/2014	Arginine and proline metabolism
 orn_L	L_Ornithine		X	0							02/07/2014	
 orot	Orotate		C5H3N2O4	-1	C00295	967	16742	PXQPEWDEAKTCGB-UHFFFAOYSA-M		HMDB00226	02/07/2014	Pyrimidine catabolism
 orot5p	Orotidine 5-phosphate		C10H10N2O11P	-3	C01103	160617	15842	KYOBSHFOBAOFBF-XVFCMESISA-K		HMDB00218	02/07/2014	Pyrimidine synthesis
 orslnt	Orsellinate	C8H7O4	C8H7O4	-1							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-oxa	oxalate(2-)		C2O4	-2	C00209	971	16995	MUBZPKHOEPUJKR-UHFFFAOYSA-L		HMDB02329	02/07/2014	Glyoxylate and dicarboxylate metabolism
+oxa	oxalate(2-)		C2O4	-2	C00209	971	16995	MUBZPKHOEPUJKR-UHFFFAOYSA-L		HMDB02329	02/07/2014	Others
 oxadpcoa	3-Oxoadipyl-CoA		C27H37N7O20P3S	-5	C02232	9543153		VKKKAAPGXHWXOO-BIEWRJSYSA-N		HMDB0060378	02/07/2014	Benzoate degradation
 oxag	Oxaloglutarate (iMM904)		C7H5O7	-3	C05533						08/03/2016	2-Oxocarboxylic acid metabolism
 oxal	oxalate		X	0							02/07/2014	
@@ -6571,7 +6571,7 @@ pa181	1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate		C39H71O8P1	-2							02/07/
 pa2_ST	Membrane phosphatidate mixture		X	0							02/07/2014	
 paai15	1,2-dianteisopentadecanoyl-sn-glycerol 3-phosphate (12-methyl-tetradecanoyl, anteiso-C15)		C33H63O8P	-2							02/07/2014	Glycerophospholipid metabolism
 paai17	1,2-dianteisoheptadecanoyl-sn-glycerol 3-phosphate (14-methyl-hexadecanoyl, anteiso-C17)		C37H71O8P	-2							02/07/2014	Glycerophospholipid metabolism
-pac	phenylacetate		C8H7O2	-1	C07086	999	30745	WLJVXDMOQOGPHL-UHFFFAOYSA-M		HMDB00209	02/07/2014	Arginine and proline metabolism
+pac	phenylacetate		C8H7O2	-1	C07086	999	30745	WLJVXDMOQOGPHL-UHFFFAOYSA-M		HMDB00209	02/07/2014	Amino acid metabolites
 pacald	phenylacetaldehyde		C8H8O	0	C00601	998	16424	DTUQWGWMVIHBKE-UHFFFAOYSA-N		HMDB06236	02/07/2014	Miscellaneous
 pacaldhom	(Z)-Phenylacetaldehyde oxime		C8H9NO	0							19/09/2018	Cyanoamino acid metabolism
 pad	2-Phenylacetamide	C8H9NO	C8H9NO	0						HMDB0010715	02/07/2014	Arginine and proline metabolism
@@ -6643,7 +6643,7 @@ pcmt	p-Cumate		C10H11O2	-1							19/09/2018	Xenobiotics metabolism
 pcollg5hlys	erythro-5-hydroxy-L-lysinium(1+)		C6H14N2O3	0	C16741	3032849	18040	YSMODUONRAFBET-CRCLSJGQSA-N		HMDB00450	02/07/2014	Lysine metabolism
 pcollglys	Procollagen L-lysine		C7H14N3O2R2	1	C16740						02/07/2014	Lysine metabolism
 pcreat	Phosphocreatine		C4H8N3O5P	-2	C02305	587	17287	DRBBFCLWYRJSJZ-UHFFFAOYSA-M		HMDB01511	02/07/2014	Urea cycle
-pcresol	p-Cresol	C7H8O	C7H7O	-1	C01468	2879	CHEBI:17847	IWDCLRJOBJJRNH-UHFFFAOYSA-M		HMDB01858	12/01/2015	Miscellaneous
+pcresol	p-Cresol	C7H8O	C7H7O	-1	C01468	2879	CHEBI:17847	IWDCLRJOBJJRNH-UHFFFAOYSA-M		HMDB01858	12/01/2015	Amino acid metabolites
 pcrn	propionyl-carnitine		C10H19NO4	0	C03017	107738	28867	UFAHZIUFPNSHSL-UHFFFAOYSA-N		HMDB00824	02/07/2014	Fatty acid oxidation
 pcs	p-Cresol sulfate	C7H8O4S	C7H7O4S	-1		4615423		WGNAKZGUSRVWRH-UHFFFAOYSA-M		HMDB0011635	12/01/2015	Miscellaneous
 pd3	Previtamin D3		C27H44O	0	C07711	11199982		YUGCAAVRZWBXEQ-WHTXLNIXSA-N		HMDB06500	02/07/2014	Vitamin D metabolism
@@ -6678,7 +6678,7 @@ pe2linl_hs	2-Linoleoylglycerophosphoethanolamine		C23H44NO7P	0				SVRBKLJIDJHADS
 pea	Phenylethyl_alcohol		X	0							02/07/2014	
 peai15	Phosphatidylethanolamine (12-methyl-tetradecanoyl, anteiso-C15)		C35H70NO8P	0							02/07/2014	Glycerophospholipid metabolism
 peai17	Phosphatidylethanolamine (14-methyl-hexadecanoyl, anteiso-C17)		C39H78NO8P	0							02/07/2014	Glycerophospholipid metabolism
-peamn	2-phenylethanamine		C8H12N	1	C05332	1001	18397	BHHGXPLMPWCGHP-UHFFFAOYSA-O		HMDB0012275	02/07/2014	Phenylalanine metabolism
+peamn	2-phenylethanamine		C8H12N	1	C05332	1001	18397	BHHGXPLMPWCGHP-UHFFFAOYSA-O		HMDB0012275	02/07/2014	Amino acid metabolites
 pear_hs	1-Arachidonoyl-Sn-Glycero-3-Phosphoethanolamine		C25H44NO7P	0				ROPRRXYVXLDXQO-CDIMZWLNSA-N			03/01/2017	Cholesterol metabolism
 pecgon	pseudoecgonine		C9H14NO3	-1	C12449	443845		PHMBVCPLDPDESM-GHNGIAPOSA-M		HMDB06348	02/07/2014	Alkaloid synthesis
 pecgoncoa	Pseudoecgonyl-CoA		C30H46N8O18P3S	-3	C12450	443846		LWFFRRDSDGEAQK-ZSCOKQQMSA-K		HMDB06403	02/07/2014	Alkaloid synthesis
@@ -6768,7 +6768,7 @@ phdca	phenol palmitic acid (iMEO21)		C23H37O3	-1							08/03/2016
 phdcaACP	phenol palmitic acid ACP (iMEO21)		C34H57N2O9PRS	-1							08/03/2016	Cell wall biosynthesis
 phdcacoa	phenol palmitic coenzyme A (iMEO21)		C44H69N7O18P3S	-3							08/03/2016	Fatty acid synthesis
 phe_D	D-Phenylalanine		C9H11NO2	0							19/09/2018	Phenylalanine metabolism
-phe_L	L-phenylalanine		C9H11NO2	0	C00079	6140	17295	COLNVLDHVKWLRT-QMMMGPOBSA-N		HMDB00159	02/07/2014	Miscellaneous
+phe_L	L-phenylalanine		C9H11NO2	0	C00079	6140	17295	COLNVLDHVKWLRT-QMMMGPOBSA-N		HMDB00159	02/07/2014	Amino acid metabolites
 pheacgln	(2S)-4-carbamoyl-2-(2-phenylacetamido)butanoate		C13H16N2O4	0	C04148	92258	17884	JFLIEFSWGNOPJJ-JTQLQIEISA-N		HMDB06344	02/07/2014	Phenylalanine metabolism
 pheacgly	Phenylacetylglycine	C10H11NO3	C10H10NO3	-1	C05598		CHEBI:27480	UTYVDVLMYQPLQB-UHFFFAOYSA-M		HMDB00821	12/01/2015	Phenylalanine metabolism
 phearg	L-phenylalanyl-L-arginine		C15H24N5O3	1							02/07/2014	
@@ -6781,8 +6781,8 @@ pheleuasp	Phenylalanyl-Leucyl-Aspartate		C19H26N3O6	-1				YKUGPVXSDOOANW-ZNMIVQP
 pheleuhis	Phenylalanyl-Leucyl-Histidine		C21H29N5O4	0				METZZBCMDXHFMK-BZSNNMDCSA-N			03/01/2017	Peptide metabolism
 phelysala	Phenylalanyl-Lysyl-Alanine		C18H29N4O4	1				DNAXXTQSTKOHFO-AEGPPILISA-O			03/01/2017	Peptide metabolism
 phelyspro	Phenylalanyl-Lysyl-Proline		C20H31N4O4	1				BNRFQGLWLQESBG-GVDBMIGSSA-O			03/01/2017	Peptide metabolism
-pheme	Protoheme		C34H30FeN4O4	-2	C00032		17627	KABFMIBPWCXCRK-RGGAHWMASA-J		HMDB03178	02/07/2014	Heme degradation
-phenol	Phenol		C6H6O	0						HMDB00228	02/07/2014	Aminobenzoate degradation
+pheme	Protoheme		C34H30FeN4O4	-2	C00032		17627	KABFMIBPWCXCRK-RGGAHWMASA-J		HMDB03178	02/07/2014	Cofactors
+phenol	Phenol		C6H6O	0						HMDB00228	02/07/2014	Amino acid metabolites
 phep	Phenylphosphate		C6H6O4P	-1							19/09/2018	Phenylalanine metabolism
 phephe	Phenylalanyl-Phenylalanine		C18H20N2O3	0				GKZIWHRNKRBEOH-JKSUJKDBSA-N			03/01/2017	Peptide metabolism
 phepheasn	Phenylalanyl-Phenylalaninyl-Asparagine		C22H26N4O5	0				OWSLLRKCHLTUND-KSZLIROESA-N			03/01/2017	Peptide metabolism
@@ -6809,7 +6809,7 @@ phom	O-phosphonato-L-homoserine(2-)		C4H8NO6P	-2	C01102	151187	15961	FXDNYOANAXW
 phphhlipa	phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA		C131H230N2O63P4	-10							02/07/2014	Lipopolysaccharide biosynthesis
 phppa	p-hydroxyphenylpropionic acid	C9H10O3	C9H9O3	-1	C01744	10394		NMHMNPHRMNGLLB-UHFFFAOYSA-N		HMDB02199	26/03/2015	Drug metabolism
 phppa_glc	3-(3-Hydroxyphenyl)Propionate Glucuronide	C15H18O9	C15H16O9	-2							01/03/2019	Drug metabolism
-phpyr	keto-phenylpyruvate		C9H7O3	-1	C00166	997	30851	BTNMPGBKDVTSJY-UHFFFAOYSA-M		HMDB00205	02/07/2014	Phenylalanine metabolism
+phpyr	keto-phenylpyruvate		C9H7O3	-1	C00166	997	30851	BTNMPGBKDVTSJY-UHFFFAOYSA-M		HMDB00205	02/07/2014	Amino acid metabolites
 phsdln	Phaseollidin		C20H20O4	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 phsdlnh	Phaseollidin hydrate		C20H22O5	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 phsph1p	Phytosphingosine-1-Phosphate		C18H39NO6P	-1				AYGOSKULTISFCW-KSZLIROESA-M			03/01/2017	Sphingolipid metabolism
@@ -6823,7 +6823,7 @@ phyt	phytanate		C20H39O2	-1	C01607	26840	16285	RLCKHJSFHOZMDR-UHFFFAOYSA-M		HMDB
 phyt2ohcoa	2-hydroxyphytanoyl-CoA(4-)		C41H70N7O18P3S	-4	C07343	11966142	15475	WNVFJMYPVBOLKV-YLNUKALLSA-J		HMDB01295	02/07/2014	Fatty acid oxidation
 phytcoa	phytanoyl-CoA(4-)		C41H70N7O17P3S	-4	C02060	439640	15538	NRJQGHHZMSOUEN-ZJGVPSKGSA-J		HMDB01359	02/07/2014	Fatty acid oxidation
 phytn	Phytoene	C40H64	C40H64	0						HMDB02181	02/07/2014	Terpenoid backbone biosynthesis
-pi	hydrogenphosphate		HO4P	-2	C00009	1061	43474	NBIIXXVUZAFLBC-UHFFFAOYSA-L		HMDB01429	02/07/2014	Alanine and aspartate metabolism
+pi	hydrogenphosphate		HO4P	-2	C00009	1061	43474	NBIIXXVUZAFLBC-UHFFFAOYSA-L		HMDB01429	02/07/2014	Small molecules
 pime	Pimelate		C7H10O4	-2	C02656	385		WLJVNTCWHIRURA-UHFFFAOYSA-N		HMDB00857	02/07/2014	Glycerophospholipid metabolism
 pkrmcn	Pikromycin		C28H48NO8	1							19/09/2018	Xenobiotics metabolism
 plac	Phenyllactate		C9H9O3	-1	C05607			VOXXWSYKYCBWHO-QMMMGPOBSA-N		HMDB00563	02/07/2014	Phenylalanine metabolism
@@ -6848,12 +6848,12 @@ pncln	Penicillin		C9H10N2O4RS	-1							19/09/2018	Xenobiotics metabolism
 pnclt	Penicilloic acid		C9H11N2O5RS	-2							19/09/2018	Xenobiotics metabolism
 pnp	4-Hydroxynitrobenzene, p-Nitrophenol	C6H5NO3	C6H4NO3	-1							02/07/2014	Aminobenzoate degradation
 pnslvn	Pinosylvin		C14H12O2	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-pnto_R	(R)-Pantothenate		C9H16NO5	-1	C00864	988	7916	GHOKWGTUZJEAQD-UHFFFAOYSA-M		HMDB00210	02/07/2014	CoA catabolism
+pnto_R	(R)-Pantothenate		C9H16NO5	-1	C00864	988	7916	GHOKWGTUZJEAQD-UHFFFAOYSA-M		HMDB00210	02/07/2014	Cofactors
 polypi	Polyphosphate		X	0							02/07/2014	
-ppa	Propionate		C3H5O2	-1	C00163	1032	30768	XBDQKXXYIPTUBI-UHFFFAOYSA-M		HMDB00237	02/07/2014	Bile acid synthesis
+ppa	Propionate		C3H5O2	-1	C00163	1032	30768	XBDQKXXYIPTUBI-UHFFFAOYSA-M		HMDB00237	02/07/2014	Central metabolism
 ppaca	Phosphonoacetaldehyde	C2H5O4P	C2H3O4P	-2	C03167	6050	18124		[H]C(=O)CP(O)(O)=O		02/07/2014	Aminophosphonate metabolism
 ppact	Phosphonoacetate	C2H5O5P	C2H2O5P	-3							19/09/2018	Phosphonate and phosphinate metabolism
-ppal	Propanal		C3H6O	0						HMDB03366	02/07/2014	Glycolysis/gluconeogenesis
+ppal	Propanal		C3H6O	0						HMDB03366	02/07/2014	Central metabolism
 ppap	Propanoyl phosphate		C3H5O5P	-2							02/07/2014	Propanoate metabolism
 ppbng	Porphobilinogen		C10H13N2O4	-1	C00931	1021	17381	QSHWIQZFGQKFMA-UHFFFAOYSA-M		HMDB00245	02/07/2014	Heme synthesis
 ppcoa	Propanoyl-CoA		C24H36N7O17P3S	-4	C00100	439164	57392	QAQREVBBADEHPA-SSERFMASSA-J		HMDB01275	02/07/2014	Bile acid synthesis
@@ -6864,17 +6864,17 @@ pphn	Prephenate		C10H8O6	-2						HMDB0012283	02/07/2014	Phenylalanine metabolism
 pphtd	Prephytoene diphosphate	C40H68O7P2	C40H65O7P2	-3						HMDB03023	02/07/2014	Terpenoid backbone biosynthesis
 pphthdl	phenolic phthiodiolone		C34H60O4	0							12/11/2020	Cell wall biosynthesis
 pphthiocerol	phenolphtiocerol		C35H64O4	0							12/11/2020	Cell wall biosynthesis
-ppi	Diphosphate		HO7P2	-3	C00013	644102	29888	XPPKVPWEQAFLFU-UHFFFAOYSA-K		HMDB00250	02/07/2014	Alanine and aspartate metabolism
+ppi	Diphosphate		HO7P2	-3	C00013	644102	29888	XPPKVPWEQAFLFU-UHFFFAOYSA-K		HMDB00250	02/07/2014	Small molecules
 ppiogly	Propionyl-Glycine		C5H8NO3	-1				WOMAZEJKVZLLFE-UHFFFAOYSA-M			03/01/2017	Glycine, serine, alanine, and threonine metabolism
 ppmi12346p	5-Diphosphoinositol pentakisphosphate		C6H6O27P7	-13	C11526		30164	UPHPWXPNZIOZJL-KXXVROSKSA-A		HMDB06229	02/07/2014	Inositol phosphate metabolism
 ppmi1346p	Diphosphoinositol tetrakisphosphate		C6H7O24P6	-11	C18058	890	17401	IMQLKJBTEOYOSI-GPIVLXJGSA-C		HMDB03502	02/07/2014	Inositol phosphate metabolism
 ppn	Phosphonate		H2O3P	-1	C01271						12/11/2020	
-ppoh	1-Propanol		C3H8O1	0							02/07/2014	Glycolysis/gluconeogenesis
+ppoh	1-Propanol		C3H8O1	0							02/07/2014	Central metabolism
 ppp9	Protoporphyrin		C34H32N4O4	-2	C02191	4971	15430	KSFOVUSSGSKXFI-UJJXFSCMSA-L		HMDB00241	02/07/2014	Heme synthesis
 pppg9	Protoporphyrinogen IX		C34H38N4O4	-2	C01079	121893	15435	UHSGPDMIQQYNAX-UHFFFAOYSA-L		HMDB01097	02/07/2014	Heme synthesis
 ppphbda	Pyropheophorbide a		C33H34N4O3	0							19/09/2018	Porphyrin and chlorophyll metabolism
 pppi	triphosphate(5-)		HO10P3	-4	C00536	3440921	18036	UNXRWKVEANCORM-UHFFFAOYSA-J		HMDB03379	02/07/2014	Glycolysis/gluconeogenesis
-pppn	Phenylpropanoate		C9H9O2	-1		12497				HMDB00764	02/07/2014	Phenylalanine metabolism
+pppn	Phenylpropanoate		C9H9O2	-1		12497				HMDB00764	02/07/2014	Amino acid metabolites
 pppncoa	Phenylpropanoyl-CoA	C30H44N7O17P3S	C30H40N7O17P3S	-4							20/12/2017	Phenylalanine metabolism
 pprdn	Piperideine	C5H9N	C5H9N	0	C06181	8432	47858		C1CCN=CC1		02/07/2014	Lysine metabolism
 ppt	Phosphonate		HO3P	-2							02/07/2014	
@@ -6912,7 +6912,7 @@ prldn	2,5-Pyrroledione		C4H3NO2	0							19/09/2018	Xenobiotics metabolism
 prlp	5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide		C15H21N5O15P2	-4							02/07/2014	Histidine metabolism
 prnl	Prenal		C5H8O	0							19/09/2018	Terpenoid backbone biosynthesis
 pro_D	D-proline		C5H9NO2	0	C00763	8988	16313	ONIBWKKTOPOVIA-SCSAIBSYSA-N		HMDB03411	02/07/2014	Arginine and proline metabolism
-pro_L	L-proline		C5H9NO2	0	C00148	145742	17203	ONIBWKKTOPOVIA-BYPYZUCNSA-N		HMDB00162	02/07/2014	Arginine and proline metabolism
+pro_L	L-proline		C5H9NO2	0	C00148	145742	17203	ONIBWKKTOPOVIA-BYPYZUCNSA-N		HMDB00162	02/07/2014	Amino acid metabolites
 proargasp	Prolyl-Arginyl-Aspartate		C15H26N6O6	0				SSSFPISOZOLQNP-CBMCFHRWSA-N			03/01/2017	Peptide metabolism
 proargcys	Prolyl-Arginyl-Cysteine		C14H27N6O4S	1				OLHDPZMYUSBGDE-CBMCFHRWSA-O			03/01/2017	Peptide metabolism
 proasncys	Prolyl-Asparaginyl-Cysteine		C12H20N4O5S	0				WECYCNFPGZLOOU-ZHFSPANRSA-N			03/01/2017	Peptide metabolism
@@ -7001,7 +7001,7 @@ ptdcacrn	pendtadenoyl carnitine		C22H43NO4	0				MDDWQHVKSHTZTD-FQEVSTJZSA-N			02
 ptdtrna	Peptidyl-tRNA		C19H27N2O18P2R5	-2							19/09/2018	Miscellaneous
 pthamd	Phthalylamide		C8H5NO3R	-1							19/09/2018	Xenobiotics metabolism
 pthn	Parathion		C10H14NO5PS	0							19/09/2018	Xenobiotics metabolism
-ptrc	Putrescine		C4H14N2	2	C00134	1045	17148	KIDHWZJUCRJVML-UHFFFAOYSA-P		HMDB01414	02/07/2014	Arginine and proline metabolism
+ptrc	Putrescine		C4H14N2	2	C00134	1045	17148	KIDHWZJUCRJVML-UHFFFAOYSA-P		HMDB01414	02/07/2014	Amino acid metabolites
 ptrpn	Pseudotropine		C8H15NO	0							19/09/2018	Tropane, piperidine and pyridine alkaloid biosynthesis
 ptth	pantetheine		C11H22N2O4S	0	C00154	15667	16753	ZNXZGRMVNNHPCA-VIFPVBQESA-N		HMDB01338	02/07/2014	CoA catabolism
 ptvm13lac	pitavastatin-M13-lactone	C50H44CaF2N2O8	C50H44CaF2N2O8	0							02/07/2014	
@@ -7019,12 +7019,12 @@ pvs	pravastatin	C23H35NaO7	C23H35NaO7	0		54687		TUZYXOIXSAXUGO-PZAWKZKUSA-N			02
 pvsgluc	pravastatin glucuronide	C29H43NaO13	C29H42NaO13	-1							02/07/2014	Drug metabolism
 pxthn	Paraxanthine		C7H8N4O2	0							19/09/2018	Caffeine metabolism
 pyam5p	Pyridoxamine 5-phosphate		C8H12N2O5P	-1	C00647	1053	18335	ZMJGSOSNSPKHNH-UHFFFAOYSA-M		HMDB01555	02/07/2014	Vitamin B6 metabolism
-pydam	Pyridoxamine		C8H13N2O2	1	C00534	1052	16410	NHZMQXZHNVQTQA-UHFFFAOYSA-O		HMDB01431	02/07/2014	Vitamin B6 metabolism
-pydx	Pyridoxal		C8H9NO3	0	C00250	1050	17310	RADKZDMFGJYCBB-UHFFFAOYSA-N		HMDB01545	02/07/2014	Vitamin B6 metabolism
-pydx5p	Pyridoxal 5-phosphate		C8H8NO6P	-2	C00018	1051	18405	NGVDGCNFYWLIFO-UHFFFAOYSA-L		HMDB01491	02/07/2014	Selenoamino acid metabolism
-pydxn	Pyridoxine		C8H11NO3	0	C00314	1054	16709	LXNHXLLTXMVWPM-UHFFFAOYSA-N		HMDB00239	02/07/2014	Vitamin B6 metabolism
+pydam	Pyridoxamine		C8H13N2O2	1	C00534	1052	16410	NHZMQXZHNVQTQA-UHFFFAOYSA-O		HMDB01431	02/07/2014	Cofactors
+pydx	Pyridoxal		C8H9NO3	0	C00250	1050	17310	RADKZDMFGJYCBB-UHFFFAOYSA-N		HMDB01545	02/07/2014	Cofactors
+pydx5p	Pyridoxal 5-phosphate		C8H8NO6P	-2	C00018	1051	18405	NGVDGCNFYWLIFO-UHFFFAOYSA-L		HMDB01491	02/07/2014	Cofactors
+pydxn	Pyridoxine		C8H11NO3	0	C00314	1054	16709	LXNHXLLTXMVWPM-UHFFFAOYSA-N		HMDB00239	02/07/2014	Cofactors
 pylald	perillyl aldehyde		C10H14O	0	C02576	16441	15421	RUMOYJJNUMEFDD-UHFFFAOYSA-N		HMDB03647	02/07/2014	Limonene and pinene degradation
-pyr	Pyruvate		C3H3O3	-1	C00022	1060	32816	LCTONWCANYUPML-UHFFFAOYSA-M		HMDB00243	02/07/2014	Alanine and aspartate metabolism
+pyr	Pyruvate		C3H3O3	-1	C00022	1060	32816	LCTONWCANYUPML-UHFFFAOYSA-M		HMDB00243	02/07/2014	Carbohydrates
 pyrimid	Pyrimidine		C4H4N2	0							02/07/2014	
 pyrin	Pyrimidine_nucleoside		C9H14N2O4	0							02/07/2014	
 pyrtht	6-pyruvoyl tetrahydropterin		X	0							02/07/2014	
@@ -7074,7 +7074,7 @@ raffin	Raffinose		C18H32O16	0						HMDB03213	02/07/2014	Fructose and mannose met
 ragund	rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate		C69H113N1O16P2	-2							02/07/2014	
 razur	Reduced azurin	X	X	1							30/09/2014	Nitrogen metabolism
 rb15bp	D-Ribulose 1,5-bisphosphate	C5H12O11P2	C5H8O11P2	-4							02/07/2014	Carbon fixation in photosynthetic organisms
-rbflvrd	Reduced riboflavin		C17H22N4O6	0						HMDB01557	02/07/2014	Respiration
+rbflvrd	Reduced riboflavin		C17H22N4O6	0						HMDB01557	02/07/2014	Cofactors
 rbl_D	D-ribulose		C5H10O5	0	C00309	151261	17173	ZAQJHHRNXZUBTE-NQXXGFSBSA-N		HMDB00621	02/07/2014	Pentose and glucuronate interconversions
 rbl_L	L-Ribulose		C5H10O5	0						HMDB03371	02/07/2014	Pentose and glucuronate interconversions
 rbpclys	[Ribulose-1,5-bisphosphate-carboxylase]-lysine		C7H13N3O2R2	0							19/09/2018	Lysine metabolism
@@ -7109,8 +7109,8 @@ rhama	L-rhamnonate		C6H12O6	-1							02/07/2014
 rhamnogalurI	Potato rhamnogalacturonan I, MW assumed ~200000, 62 galur, 20 rmn, 12 gal, 3 arab-L, 1 xyl-D (www.megazyme.com, PMID: 16661590)		C5840H7862O5281	-620	G09800						02/07/2014	Plant polysaccharide degradation
 rhamnogalurII	Wine rhamnogalacturonan II, MW ~ 5-10 kDa, 37% galur, 16% rmn, 3% fuc-L, 11% arab-L, 6% gal, 5% glcur, 4% 2omfuc, 3% 2omxyl, 6% ... <Preview truncated at 128 characters>		C317H445O273	-27	G06506						02/07/2014	Plant polysaccharide degradation
 rhcys	S-Ribosyl-L-homocysteine		C9H17NO6S	0							02/07/2014	Glycerophospholipid metabolism
-rib_D	D-ribose		C5H10O5	0	C00121	5779	47013	HMFHBZSHGGEWLO-SOOFDHNKSA-N		HMDB00283	02/07/2014	Methionine and cysteine metabolism
-ribflv	Riboflavin		C17H20N4O6	0	C00255	493570	17015	AUNGANRZJHBGPY-SCRDCRAPSA-N		HMDB00244	02/07/2014	Respiration
+rib_D	D-ribose		C5H10O5	0	C00121	5779	47013	HMFHBZSHGGEWLO-SOOFDHNKSA-N		HMDB00283	02/07/2014	Carbohydrates
+ribflv	Riboflavin		C17H20N4O6	0	C00255	493570	17015	AUNGANRZJHBGPY-SCRDCRAPSA-N		HMDB00244	02/07/2014	Cofactors
 rml	L-Rhamnulose		C6H12O5	0						HMDB0010207	02/07/2014	Fructose and mannose metabolism
 rml1p	L-Rhamnulose 1-phosphate		C6H11O8P	-2							02/07/2014	Fructose and mannose metabolism
 rmn	L-Rhamnose		C6H12O5	0						HMDB00849	02/07/2014	Fructose and mannose metabolism
@@ -7219,8 +7219,8 @@ selnp	Selenophosphate		H2O3PSe	-1	C05172	1092	29269	JRPHGDYSKGJTKZ-UHFFFAOYSA-M	
 sephchc	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate		X	0							02/07/2014	
 ser_D	D-serine		C3H7NO3	0	C00740	71077	16523	MTCFGRXMJLQNBG-UWTATZPHSA-N		HMDB03406	02/07/2014	Glycine, serine, alanine, and threonine metabolism
 Ser_Gly_Ala_X_Gly	protein-linked serine residue (glycosaminoglycan attachment site)		XH	0	C02189						02/07/2014	Chondroitin sulfate degradation
-ser_L	L-serine		C3H7NO3	0	C00065	5951	17115	MTCFGRXMJLQNBG-REOHCLBHSA-N		HMDB00187	02/07/2014	Glycerophospholipid metabolism
-Ser_Thr	protein-linked serine or threonine residue (O-glycosylation site)		XH	0							02/07/2014	Keratan sulfate degradation
+ser_L	L-serine		C3H7NO3	0	C00065	5951	17115	MTCFGRXMJLQNBG-REOHCLBHSA-N		HMDB00187	02/07/2014	Amino acid metabolites
+Ser_Thr	protein-linked serine or threonine residue (O-glycosylation site)		XH	0							02/07/2014	Polysaccharide degradation
 seramp	L-seryl-AMP		C13H19N6O9P	0							02/07/2014	
 serargala	Seryl-Arginyl-Alanine		C12H25N6O5	1				GXXTUIUYTWGPMV-BIIVOSGPSA-O			03/01/2017	Peptide metabolism
 serargtrp	Seryl-Arginyl-Tryptophan		C20H30N7O5	1				HZWAHWQZPSXNCB-IMJJTQAJSA-O			03/01/2017	Peptide metabolism
@@ -7245,10 +7245,10 @@ sftz	Sulfathiazole	C9H9N3O2S2	C9H8N3O2S2	-1	C11169	5340					01/03/2019	Drug meta
 sftz_glc	Sulfathiazole Glucuronide	C15H17N3O8S2	C15H15N3O8S2	-2							01/03/2019	Drug metabolism
 sgalside_hs	sulfatide galactocerebroside		C24H45NO10SFULLRCO	-1							02/07/2014	Glycerophospholipid metabolism
 shchc	(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate		C11H12O6	0							02/07/2014	
-sheme	Siroheme		C42H36FeN4O16	-8							02/07/2014	Vitamin B12 metabolism
+sheme	Siroheme		C42H36FeN4O16	-8							02/07/2014	Cofactors
 simvgluc	simvastatin-acyl-glucuronide	C31H48O12	C31H47O12	-1							02/07/2014	Drug metabolism
 sinapaldh	Sinapaldehyde		C11H12O4	0							19/09/2018	Isoquinoline alkaloid biosynthesis
-skatole	Skatole, methylindole		C9H9N	0							17/07/2015	Tryptophan metabolism
+skatole	Skatole, methylindole		C9H9N	0							17/07/2015	Amino acid metabolites
 skm	Shikimate		C7H9O5	-1						HMDB03070	02/07/2014	Phenylalanine metabolism
 skm5p	Shikimate 5-phosphate		C7H8O8P	-3							02/07/2014	Phenylalanine metabolism
 sl_L	(S)-3-sulfonatolactate(2-)		C3H4O6S	-2	C11499	443233	16712	CQQGIWJSICOUON-UWTATZPHSA-L		HMDB0060176	02/07/2014	Methionine and cysteine metabolism
@@ -7269,8 +7269,8 @@ sncclrn	(S)-Norcoclaurine		C16H17NO3	0							19/09/2018	Isoquinoline alkaloid bi
 snmcclrn	(S)-N-Methylcoclaurine		C18H21NO3	0							19/09/2018	Methionine and cysteine metabolism
 snpt	Sinapate		C11H11O5	-1							19/09/2018	Isoquinoline alkaloid biosynthesis
 so2	sulfur dioxide		O2S	0							02/07/2014	Methionine and cysteine metabolism
-so3	Sulfite		O3S	-2	C00094	1099	48854	LSNNMFCWUKXFEE-UHFFFAOYSA-L		HMDB00240	02/07/2014	Aminosugar metabolism
-so4	sulfate		O4S	-2	C00059	1117	16189	QAOWNCQODCNURD-UHFFFAOYSA-L		HMDB01448	02/07/2014	Androgen and estrogen synthesis and metabolism
+so3	Sulfite		O3S	-2	C00094	1099	48854	LSNNMFCWUKXFEE-UHFFFAOYSA-L		HMDB00240	02/07/2014	Small molecules
+so4	sulfate		O4S	-2	C00059	1117	16189	QAOWNCQODCNURD-UHFFFAOYSA-L		HMDB01448	02/07/2014	Small molecules
 somthnnsln	(S)-6-O-Methylnorlaudanosoline		C17H19NO4	0							19/09/2018	Isoquinoline alkaloid biosynthesis
 spaptrn	Sepiapterin		C9H11N5O3	0							19/09/2018	Tetrahydrobiopterin metabolism
 spc_hs	sphingosylphosphorylcholine		C23H50N2O5P	1	C03640	5280613	52897	JLVSPVFPBBFMBE-HXSWCURESA-O		HMDB06482	02/07/2014	Sphingolipid metabolism
@@ -7298,7 +7298,7 @@ sphmyln18123_hs	Sm (D18:1/23:0), Sphingomyelin		C46H94N2O6P	0				SXZWBNWTCVLZJN-
 sphmyln1824_hs	Sm (D18:0/24:0), Sphingomyelin		C47H98N2O6P	0				SMJLGESYPKPRNU-UHFFFAOYSA-O			03/01/2017	Glycerophospholipid metabolism
 sphmyln1825_hs	Sm (D18:0/25:0), Sphingomyelin		C48H100N2O6P	0				GFLDDOQLLVKYKC-UHFFFAOYSA-O			03/01/2017	Glycerophospholipid metabolism
 sphs1p	sphingosine 1-phosphate(1-)		C18H37NO5P	-1	C06124	5353956	37550	DUYSYHSSBDVJSM-KRWOKUGFSA-M		HMDB00277	02/07/2014	Sphingolipid metabolism
-spmd	Spermidine		C7H22N3	3	C00315	1102	16610	ATHGHQPFGPMSJY-UHFFFAOYSA-Q		HMDB01257	02/07/2014	Arginine and proline metabolism
+spmd	Spermidine		C7H22N3	3	C00315	1102	16610	ATHGHQPFGPMSJY-UHFFFAOYSA-Q		HMDB01257	02/07/2014	Amino acid metabolites
 sprm	spermine(4+)		C10H30N4	4	C00750	1103	15746	PFNFFQXMRSDOHW-UHFFFAOYSA-R		HMDB01256	02/07/2014	Urea cycle
 spyr	3-Sulfopyruvate	C3H4O6S	C3H3O6S	-1	C05528						24/02/2015	Methane metabolism
 spz	Sulfinpyrazone	C23H20N2O3S	C23H19N2O3S	-1	C07317	5342					01/03/2019	Drug metabolism
@@ -7308,7 +7308,7 @@ spz_sfn_glc	Sulfinpyrazone Sulfone Glucuronide	C29H28N2O10S	C29H26N2O10S	-2					
 sql	squalene		C30H50	0	C00751	11975273	15440	YYGNTYWPHWGJRM-AAJYLUCBSA-N		HMDB00256	02/07/2014	Cholesterol metabolism
 srb_L	L-Sorbose		C6H12O6	0	C00247	441484	10295	LKDRXBCSQODPBY-BGPJRJDNSA-N		HMDB01266	02/07/2014	Fructose and mannose metabolism
 srbL1p	L-Sorbose 1-phosphate		C6H12O9P	-1	C02888	439837		ZKLLSNQJRLJIGT-OTWZMJIISA-N		HMDB06797	02/07/2014	Fructose and mannose metabolism
-srtn	Serotonin		C10H13N2O	1	C00780	5202	28790	QZAYGJVTTNCVMB-UHFFFAOYSA-O		HMDB00259	02/07/2014	Tryptophan metabolism
+srtn	Serotonin		C10H13N2O	1	C00780	5202	28790	QZAYGJVTTNCVMB-UHFFFAOYSA-O		HMDB00259	02/07/2014	Amino acid metabolites
 srv	Sorivudine	C11H13BrN2O6	C11H13BrN2O6	0		5282192					01/03/2019	Drug metabolism
 ssaltpp	Succinate semialdehyde-thiamin diphosphate anion		C16H21N4O10P2S	-3							02/07/2014	Pyruvate metabolism
 Ssq23epx	(S)-2,3-epoxysqualene		C30H50O	0	C01054	53477723	15441	QYIMSPSDBYKPPY-RSKUXYSASA-N		HMDB01188	02/07/2014	Cholesterol metabolism
@@ -7350,7 +7350,7 @@ sucacetat	Succinyl-Acetoacetate		C8H8O6	-2				OMFWHSRZHVVVAL-UHFFFAOYSA-L			03/0
 sucaceto	Succinylacetone		C7H9O4	-1				WYEPBHZLDUPIOD-UHFFFAOYSA-M			03/01/2017	Tyrosine metabolism
 sucarg	N2-Succinyl-L-arginine		C10H17N4O5	-1							02/07/2014	Arginine and proline metabolism
 sucbz	o-Succinylbenzoate		C11H8O5	-2							02/07/2014	Ubiquinone and other terpenoid-quinone biosynthesis
-succ	Succinate		C4H4O4	-2	C00042	1110	15741	KDYFGRWQOYBRFD-UHFFFAOYSA-L		HMDB00254	02/07/2014	Arginine and proline metabolism
+succ	Succinate		C4H4O4	-2	C00042	1110	15741	KDYFGRWQOYBRFD-UHFFFAOYSA-L		HMDB00254	02/07/2014	Central metabolism
 succitr_L	N-succinyl-L-citrulline 		C10H16N3O6	-1							02/07/2014	Arginine and proline metabolism
 succoa	Succinyl-CoA		C25H35N7O19P3S	-5	C00091	439161	57292	VNOYUJKHFWYWIR-RJPVGMBJSA-I		HMDB01022	02/07/2014	Arginine and proline metabolism
 sucglu	N2-Succinyl-L-glutamate		C9H10NO7	-3							02/07/2014	Arginine and proline metabolism
@@ -7363,7 +7363,7 @@ sulfac	sulfoacetate		C2H2O5S	-2							02/07/2014	Respiration
 sulfp	Sulfapyridine	C11H11N3O2S	C11H11N3O2S	0	D02434						01/03/2019	Drug metabolism
 sulpacmp	sulphate-conjugate-acetaminophen	C8H9NO5S	C8H8NO5S	-1							02/07/2014	Drug metabolism
 sxnthn	Spirilloxanthin		C42H60O2	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
-T_antigen	T antigen (core 1)		C14H24NO10X	0	C04750		22783				02/07/2014	Mucin O-glycan biosynthesis
+T_antigen	T antigen (core 1)		C14H24NO10X	0	C04750		22783				02/07/2014	Polysaccharide degradation
 t12dhb12d	trans-1,2-Dihydrobenzene-1,2-diol		C6H8O2	0							19/09/2018	Xenobiotics metabolism
 t2chdlac	trans-2-Chlorodienelactone		C6H2O4Cl	-1							19/09/2018	Xenobiotics metabolism
 t2m26dcoa	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA		C31H46N7O17P3S	-4	C11945	53477851		MPYXOYHSKAAPLW-AVJOVGNRSA-J		HMDB06530	02/07/2014	Limonene and pinene degradation
@@ -7395,7 +7395,7 @@ tartr_D	D-tartrate		C4H4O6	0							02/07/2014
 tartr_L	L-tartrate		C4H4O6	-2							02/07/2014	Glyoxylate and dicarboxylate metabolism
 tartr_M	meso-Tartrate	C4H6O6	C4H4O6	-2							02/07/2014	Glyoxylate and dicarboxylate metabolism
 tat	N-(2-Methyl-3-Chlorophenyl)-Anthranilic Acid	C20H20ClNO8	C20H19ClNO8	-1							01/03/2019	Drug metabolism
-taur	Taurine		C2H7NO3S	0	C00245	1123	15891	XOAAWQZATWQOTB-UHFFFAOYSA-N		HMDB00251	02/07/2014	Bile acid metabolism
+taur	Taurine		C2H7NO3S	0	C00245	1123	15891	XOAAWQZATWQOTB-UHFFFAOYSA-N		HMDB00251	02/07/2014	Amines
 tauribup_S	taurine conjugate of S-ibuprofen	C15H23NO4S	C15H22NO4S	-1							02/07/2014	Drug metabolism
 taxfol	Taxifolin	C15H12O7	C15H12O7	0	C01617						01/07/2019	Flavonoid, isoflavonoid, and polyphenol metabolism
 taxol	paclitaxel		C47H31NO14	0	C07394	36314	45863	RCINICONZNJXQF-MZXODVADSA-N		HMDB0015360	02/07/2014	Cytochrome metabolism
@@ -7403,7 +7403,7 @@ tca3s	Taurocholic acid 3-sulfate		C26H44NO10S2	-1							03/01/2017	Bile acid syn
 tcam	minor teichoic acid (acetylgalactosamine glucose phosphate, n=30)	X	X	0							30/09/2014	Cell wall biosynthesis
 tcb	Tricarballylate	C6H8O6	C6H5O6	-3	C19806	14925	5969	KQTIIICEAUMSDG-UHFFFAOYSA-N	OC(=O)CC(CC(O)=O)C(O)=O	HMDB0031193	02/07/2014	Others
 tcdca3s	Taurochenodeoxycholic acid 3-sulfate		C26H44NO9S2	-1							03/01/2017	Bile acid synthesis
-tchola	taurocholate		C26H45NO7S	0	C05122	440567	28865	WBWWGRHZICKQGZ-DFXZFZLWSA-N		HMDB00036	02/07/2014	Bile acid metabolism
+tchola	taurocholate		C26H45NO7S	0	C05122	440567	28865	WBWWGRHZICKQGZ-DFXZFZLWSA-N		HMDB00036	02/07/2014	Bile acids
 tclbnzna	Trichlorobenzene A		C6H3Cl3	0							19/09/2018	Xenobiotics metabolism
 tclccmcnt	2,3,5-Trichloro-cis,cis-muconate		C6HO4Cl3	-2							19/09/2018	Benzoate degradation
 tclcdhchd	3,4,6-Trichloro-cis-1,2-dihydroxycyclohexa-3,5-diene		C6H5O2Cl3	0							19/09/2018	Xenobiotics metabolism
@@ -7417,7 +7417,7 @@ td2glutrcoa	Trans-Delta-2-Glutaryl Coenzyme A		C26H35N7O19P3S	-5				URTLOTISFJPP
 td5a13ad	Taxa-4(20),11(12)-dien-5alpha,13alpha-diol		C20H32O2	0							19/09/2018	Xenobiotics metabolism
 td5aol	Taxa-4(20),11(12)-dien-5alpha-ol		C20H32O	0							19/09/2018	Xenobiotics metabolism
 tdca3s	Taurodeoxycholic acid 3-sulfate		C26H43NO9S2	-2							03/01/2017	Bile acid synthesis
-tdchola	taurochenodeoxycholate		C26H45NO6S	0	C05465	387316	16525	BHTRKEVKTKCXOH-QPRHXUMOSA-N		HMDB00951	02/07/2014	Bile acid metabolism
+tdchola	taurochenodeoxycholate		C26H45NO6S	0	C05465	387316	16525	BHTRKEVKTKCXOH-QPRHXUMOSA-N		HMDB00951	02/07/2014	Bile acids
 tdcoa	Tetradecanoyl-CoA (n-C14:0CoA)		C35H58N7O17P3S	-4	C02593	65113	57385	DUAFKXOFBZQTQE-IXZUJZTPSA-J		HMDB01521	02/07/2014	Cell wall biosynthesis
 tdcrn	myristoyl carnitine		C21H41NO4	0		53477791				HMDB05066	02/07/2014	
 tddec2eACP	trans-Dodec-2-enoyl-[acyl-carrier protein]		C23H41N2O8PRS	-1							02/07/2014	Fatty acid synthesis
@@ -7471,21 +7471,21 @@ thex2eACP	trans-Hex-2-enoyl-[acyl-carrier protein]		C17H29N2O8PRS	-1							02/07
 thexaecoa	(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA		C45H66N7O17P3S	-4	C16387						01/07/2019	Fatty acid metabolism
 thexdd	7Z,10Z-Hexadecadienoic Acid		C16H27O2	-1				WPJGPAAPSBVXNU-HZJYTTRNSA-M			03/01/2017	Fatty acid oxidation
 thexddcoa	trans7,10-hexadecadienoylcoa		C37H58N7O17P3S	-4				OKKMIEAMIHILAM-BBQXBXLMSA-J			02/07/2014	Fatty acid oxidation
-thf	5,6,7,8-Tetrahydrofolate		C19H21N7O6	-2	C00101	91443	20506	MSTNYGQPCMXVAQ-UHFFFAOYSA-L		HMDB01846	02/07/2014	CoA synthesis
+thf	5,6,7,8-Tetrahydrofolate		C19H21N7O6	-2	C00101	91443	20506	MSTNYGQPCMXVAQ-UHFFFAOYSA-L		HMDB01846	02/07/2014	Cofactors
 thfglu	Tetrahydrofolyl-[Glu](2)		C24H27N8O9	-3						HMDB06825	02/07/2014	Folate metabolism
 thglu	Tetrahydropteroyltri_L_glutamate		C24H32N8O12	0							02/07/2014	Methionine and cysteine metabolism
 thiflvn	2,7,4-Trihydroxyisoflavanone		C15H12O5	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 this	[ThiS protein]	RCO2H	RCO2	-1	C15810						12/07/2018	Thiamine metabolism
 thissh	Thiocarboxy-[ThiS protein]	RCOSH	RCOS	-1	C15814						12/07/2018	Thiamine metabolism
-thm	Thiamin		C12H17N4OS	1	C00378	1130	18385	JZRWCGZRTZMZEH-UHFFFAOYSA-N		HMDB00235	02/07/2014	Thiamine metabolism
-thmmp	Thiamin monophosphate		C12H16N4O4PS	-1	C01081	3382778	37574	HZSAJDVWZRBGIF-UHFFFAOYSA-M		HMDB02666	02/07/2014	Thiamine metabolism
+thm	Thiamin		C12H17N4OS	1	C00378	1130	18385	JZRWCGZRTZMZEH-UHFFFAOYSA-N		HMDB00235	02/07/2014	Cofactors
+thmmp	Thiamin monophosphate		C12H16N4O4PS	-1	C01081	3382778	37574	HZSAJDVWZRBGIF-UHFFFAOYSA-M		HMDB02666	02/07/2014	Cofactors
 thmmthn	Trihomomethionine		C8H17NO2S	0							19/09/2018	Glucosinolate biosynthesis
 thmpp	Thiamine diphosphate		C12H16N4O7P2S	-2	C00068	1132	9532	AYEKOFBPNLCAJY-UHFFFAOYSA-L		HMDB01372	02/07/2014	Citric acid cycle
 thmtp	thiamine(1+) triphosphate(4-)		C12H16N4O10P3S	-3	C03028	511	9534	IWLROWZYZPNOFC-UHFFFAOYSA-K		HMDB01512	02/07/2014	Thiamine metabolism
 thnpthn	1,3,8-Trihydroxynaphthalene		C10H8O3	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 thp2c	1-piperideine-6-carboxylate		C6H8NO2	-1		165067	49015	CSDPVAKVEWETFG-UHFFFAOYSA-M		HMDB0012130	02/07/2014	Lysine metabolism
 thpmtn	Tetrahydropalmatine		C21H25NO4	0							19/09/2018	Isoquinoline alkaloid biosynthesis
-thr_L	L-threonine		C4H9NO3	0	C00188	6288	16857	AYFVYJQAPQTCCC-GBXIJSLDSA-N		HMDB00167	02/07/2014	Glycine, serine, alanine, and threonine metabolism
+thr_L	L-threonine		C4H9NO3	0	C00188	6288	16857	AYFVYJQAPQTCCC-GBXIJSLDSA-N		HMDB00167	02/07/2014	Amino acid metabolites
 thrargtyr	Threonyl-Arginyl-Tyrosine		C19H31N6O6	1				UNURFMVMXLENAZ-PUPMMZHASA-O			03/01/2017	Peptide metabolism
 thrasntyr	Threonyl-Asparaginyl-Tyrosine		C17H24N4O7	0				JVTHIXKSVYEWNI-PRAYIBQGSA-N			03/01/2017	Peptide metabolism
 thrfvs	threo-isomer of fluvastain	C24H25FNNaO4	C24H25FNNaO4	0							02/07/2014	Drug metabolism
@@ -7506,7 +7506,7 @@ thside	Trihexosylceramide		C37H66NO18R	0							12/11/2020	Cell wall biosynthesis
 thsxnthn	3,4,3,4-Tetrahydrospirilloxanthin		C42H64O2	0							19/09/2018	Flavonoid, isoflavonoid, and polyphenol metabolism
 thxbiphe	2,2,3-Trihydroxybiphenyl		C12H10O3	0							19/09/2018	Xenobiotics metabolism
 thym	Thymine		C5H6N2O2	0	C00178	1135	17821	RWQNBRDOKXIBIV-UHFFFAOYSA-N		HMDB00262	02/07/2014	Pyrimidine catabolism
-thymd	Thymidine		C10H14N2O5	0	C00214	5789	17748	IQFYYKKMVGJFEH-XLPZGREQSA-N		HMDB00273	02/07/2014	Nucleotide interconversion
+thymd	Thymidine		C10H14N2O5	0	C00214	5789	17748	IQFYYKKMVGJFEH-XLPZGREQSA-N		HMDB00273	02/07/2014	Nucleotide metabolism
 thyochol	Taurohyocholic acid; N-(3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oyl)taurine		C26H44NO7S	-1	C15516	17396508	52022	XSOLDPYUICCHJX-DMWZFLOVSA-N		HMDB0011637	03/01/2017	Bile acid synthesis
 thyox_L	L-thyroxine		C15H11I4NO4	0	C01829	5819	18332	XUIIKFGFIJCVMT-LBPRGKRZSA-N		HMDB00248	02/07/2014	Tyrosine metabolism
 ticit_D	D-threo-Isocitric acid	C6H8O7	C6H5O7	-3	C00451						01/07/2019	Citric acid cycle
@@ -7536,9 +7536,9 @@ tlms_glc	Telmisartan Glucuronide	C39H38N4O8	C39H37N4O8	-1		126968877					01/03/2
 tln	Toluene		C7H8	0							19/09/2018	Xenobiotics metabolism
 tln4s	Toluene-4-sulfonate		C7H7O3S	-1							19/09/2018	Xenobiotics metabolism
 tlt	Toluate		C8H7O2	-1							19/09/2018	Benzoate degradation
-tma	trimethylamine		C3H10N	1	C00565	1146				HMDB00906	02/07/2014	Others
+tma	trimethylamine		C3H10N	1	C00565	1146				HMDB00906	02/07/2014	Amines
 tmacmp	thiomethyl-conjugate-acetaminophen	C9H11NO2S	C9H11NO2S	0							02/07/2014	Drug metabolism
-tmao	Trimethylamine N-oxide		C3H9NO	0	C01104	1145				HMDB00925	02/07/2014	Primary amine metabolism
+tmao	Trimethylamine N-oxide		C3H9NO	0	C01104	1145				HMDB00925	02/07/2014	Amines
 tmd	Torasemide	C16H20N4O3S	C16H19N4O3S	-1	D00382	41781		NGBFQHCMQULJNZ-UHFFFAOYSA-N		HMDB0014359	02/07/2014	Drug metabolism
 tmdm1	Torasemide-M1	C16H20N4O4S	C16H19N4O4S	-1							02/07/2014	Drug metabolism
 tmdm3	Torasemide-M3	C16H20N4O4S	C16H19N4O4S	-1							02/07/2014	Drug metabolism
@@ -7555,7 +7555,7 @@ tmtrdcoa	4,8,12-trimethyl tridecanoylcoa		C37H62N7O17P3S	-4	C07296	11966114		ZYU
 tmuncoa	2,6,10-trimethyl undecanoylcoa		C35H58N7O17P3S	-4				QCNISQOYPUIJJO-OOHGGQFJSA-J			02/07/2014	Fatty acid oxidation
 tmxfn	Tamoxifen		C26H30NO	1							19/09/2018	Xenobiotics metabolism
 tmxfno	Tamoxifen N-oxide		C26H29NO2	0							19/09/2018	Xenobiotics metabolism
-Tn_antigen	Tn antigen		C8H14NO5X	0	G00023			REDMNGDGDYFZRE-UHFFFAOYSA-N			02/07/2014	Keratan sulfate degradation
+Tn_antigen	Tn antigen		C8H14NO5X	0	G00023			REDMNGDGDYFZRE-UHFFFAOYSA-N			02/07/2014	Polysaccharide degradation
 to3	tellurite		X	-2							02/07/2014	
 toct2eACP	trans-Oct-2-enoyl-[acyl-carrier protein]		C19H33N2O8PRS	-1							02/07/2014	Fatty acid synthesis
 toctd2eACP	trans-octadec-2-enoyl-[acyl-carrier protein]		C29H53N2O8PRS	-1							02/07/2014	Fatty acid synthesis
@@ -7611,7 +7611,7 @@ trnatrp	tRNA(Trp)		R	0							02/07/2014	tRNA Charging
 trnatyr	tRNA(Tyr)		R	0							02/07/2014	tRNA Charging
 trnaupsic	tRNA UpsiC		C19H25N2O21P3R2	-4							12/11/2020	tRNA Charging
 trnaval	tRNA(Val)		R	0							02/07/2014	tRNA Charging
-trp_L	L-tryptophan		C11H12N2O2	0	C00078	6305	16828	QIVBCDIJIAJPQS-VIFPVBQESA-N		HMDB00929	02/07/2014	Peptide metabolism
+trp_L	L-tryptophan		C11H12N2O2	0	C00078	6305	16828	QIVBCDIJIAJPQS-VIFPVBQESA-N		HMDB00929	02/07/2014	Amino acid metabolites
 trpalapro	Tryptophanyl-Alanyl-Proline		C19H24N4O4	0				VZBWRZGNEPBRDE-PJODQICGSA-N			03/01/2017	Peptide metabolism
 trpargala	Tryptophanyl-Arginyl-Alanine		C20H30N7O4	1				HOJPPPKZWFRTHJ-HZUKXOBISA-O			03/01/2017	Peptide metabolism
 trpaspasp	Tryptophanyl-Aspartyl-Aspartate		C19H20N4O8	-2				VEYXZZGMIBKXCN-YUTCNCBUSA-L			03/01/2017	Peptide metabolism
@@ -7645,18 +7645,18 @@ trptrna	L-Tryptophanyl-tRNA(Trp)		C11H11N2OR	1							02/07/2014	tRNA Charging
 trptyrgln	Tryptophanyl-Tyrosyl-Glutamine		C25H29N5O6	0				PKZIWSHDJYIPRH-JBACZVJFSA-N			03/01/2017	Peptide metabolism
 trptyrtyr	Tryptophanyl-Tyrosyl-Tyrosine		C29H30N4O6	0				GDPDVIBHJDFRFD-DMDYGQEQSA-N			03/01/2017	Peptide metabolism
 trpvalasp	Tryptophanyl-Valyl-Aspartate		C20H25N4O6	-1				RKISDJMICOREEL-JLJPHGGASA-M			03/01/2017	Peptide metabolism
-trypta	Tryptamine		C10H13N2	1	C00398	1150	16765	APJYDQYYACXCRM-UHFFFAOYSA-O		HMDB00303	02/07/2014	Tryptophan metabolism
+trypta	Tryptamine		C10H13N2	1	C00398	1150	16765	APJYDQYYACXCRM-UHFFFAOYSA-O		HMDB00303	02/07/2014	Amino acid metabolites
 ts3	Tachysterol 3		C27H44O	0	C07711	5283713		YUGCAAVRZWBXEQ-WHTXLNIXSA-N		HMDB06560	02/07/2014	Vitamin D metabolism
 tsacmgluc	thiomethyl-sulphoxide-acetaminophen-glucuronide	C15H19NO9S	C15H18NO9S	-1							02/07/2014	Drug metabolism
 tsacmsul	thiomethyl-sulphoxide-acetaminophen-sulphate	C9H11NO6S2	C9H10NO6S2	-1							02/07/2014	Drug metabolism
 tststerone	testosterone		C19H28O2	0	C00535	6013	17347	MUMGGOZAMZWBJJ-DYKIIFRCSA-N		HMDB00234	02/07/2014	Steroid metabolism
 tststeroneglc	testosterone 3-glucosiduronic acid		C25H36O8	0	C11134	108192	28835	NIKZPECGCSUSBV-HMAFJQTKSA-N		HMDB03193	02/07/2014	Steroid metabolism
 tststerones	testosterone sulfate		C19H27O5S	-1		119207		WAQBISPOEAOCOG-DYKIIFRCSA-M		HMDB02833	02/07/2014	Steroid metabolism
-tsul	thiosulfate(2-)		O3S2	-2	C00320	1084	16094	DHCDFWKWKRSZHF-UHFFFAOYSA-L		HMDB00257	02/07/2014	Methionine and cysteine metabolism
+tsul	thiosulfate(2-)		O3S2	-2	C00320	1084	16094	DHCDFWKWKRSZHF-UHFFFAOYSA-L		HMDB00257	02/07/2014	Small molecules
 ttc	tetracosanoate	C24H48O2	C24H47O2	-1							02/07/2014	Fatty acid oxidation
 ttc_ggdp	trans,trans,cis-Geranylgeranyl diphosphate		C20H33O7P2	-3	C11356	5281909	10698	OINNEUNVOZHBOX-KWBDAJKESA-K			02/07/2014	Cholesterol metabolism
 ttccoa	tetracosanoyl-CoA  (n-C24:0CoA)		C45H78N7O17P3S	-4	C16529	53477849	52974	MOYMQYZWIUKGGY-YOUZJQHUSA-J		HMDB06526	02/07/2014	Fatty acid oxidation
-ttdca	tetradecanoate (n-C14:0)		C14H27O2	-1	C06424	11005	28875	TUNFSRHWOTWDNC-UHFFFAOYSA-M		HMDB00806	02/07/2014	Cytochrome metabolism
+ttdca	tetradecanoate (n-C14:0)		C14H27O2	-1	C06424	11005	28875	TUNFSRHWOTWDNC-UHFFFAOYSA-M		HMDB00806	02/07/2014	Fatty acids
 ttdcea	tetradecenoate (n-C14:1)		C14H25O2	-1	C08322	68344	27781	YWWVWXASSLXJHU-WAYWQWQTSA-M		HMDB02000	02/07/2014	Fatty acid oxidation
 ttdceacoa	Tetradecenoyl Coenzyme A (N-C14:1)		C35H56N7O17P3S	-4							03/01/2017	Fatty acid oxidation
 ttdcrn	tetradecanoyl carnitine		C21H41NO4	0		53477791		PSHXNVGSVNEJBD-LJQANCHMSA-N		HMDB05066	02/07/2014	Fatty acid oxidation
@@ -7669,10 +7669,10 @@ tungs	tungstate		O4W1	-2							02/07/2014
 turan_D	D-Turanose	C12H22O11	C12H22O11	0	C19636						26/08/2019	Fructose and mannose metabolism
 txa2	thromboxane A2(1-)		C20H31O5	-1	C02198	5280497	15627	DSNBHJFQCNUKMA-UJIKMVLPSA-M		HMDB01452	02/07/2014	Eicosanoid metabolism
 txb2	Thromboxane B2		C20H33O6	-1				XNRNNGPBEPRNAR-IUMIINJXSA-M			03/01/2017	Eicosanoid metabolism
-tym	Tyramine		C8H12NO	1	C00483	5610	15760	DZGWFCGJZKJUFP-UHFFFAOYSA-O		HMDB00306	02/07/2014	Tyrosine metabolism
+tym	Tyramine		C8H12NO	1	C00483	5610	15760	DZGWFCGJZKJUFP-UHFFFAOYSA-O		HMDB00306	02/07/2014	Amino acid metabolites
 tymsf	Tyramine O-sulfate		C8H11NO4S	0		153005		DYDUXGMDSXJQFT-UHFFFAOYSA-N		HMDB06409	02/07/2014	Tyrosine metabolism
 Tyr_ggn	Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis)		XOH	0							02/07/2014	Starch and sucrose metabolism
-tyr_L	L-tyrosine		C9H11NO3	0	C00082	6057	17895	OUYCCCASQSFEME-QMMMGPOBSA-N		HMDB00158	02/07/2014	Folate metabolism
+tyr_L	L-tyrosine		C9H11NO3	0	C00082	6057	17895	OUYCCCASQSFEME-QMMMGPOBSA-N		HMDB00158	02/07/2014	Amino acid metabolites
 tyrala	Tyrosyl-Alanine		C12H16N2O4	0				NLKUJNGEGZDXGO-OIBJUYFYSA-N			03/01/2017	Peptide metabolism
 tyralaphe	Tyrosyl-Alaninyl-Phenylalanine		C21H25N3O5	0				XGEUYEOEZYFHRL-MORSLUCNSA-N			03/01/2017	Peptide metabolism
 tyrargglu	Tyrosyl-Arginyl-Glutamate		C20H30N6O7	0				HTHCZRWCFXMENJ-ZNMIVQPWSA-N			03/01/2017	Peptide metabolism
@@ -7806,21 +7806,21 @@ unRTA	undecaprenyl_teichoic_acid_with_ribitol		X	0							02/07/2014
 unsdigalur	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate, Unsaturated digalacturonate	C12H16O12	C12H14O12	-2	C06118						02/07/2014	Plant polysaccharide degradation
 up4g	P1,P4-Bis(5-uridyl) tetraphosphate; UppppU	C18H26N4O23P4	C18H22N4O23P4	-4	C06198	148197		NMLMACJWHPHKGR-NCOIDOBVSA-N		HMDB06796	02/07/2014	Pyrimidine catabolism
 uppg3	Uroporphyrinogen III		C40H36N4O16	-8	C01051	1179	15437	HUHWZXWWOFSFKF-UHFFFAOYSA-F		HMDB01086	02/07/2014	Heme synthesis
-ura	uracil		C4H4N2O2	0	C00106	1174	17568	ISAKRJDGNUQOIC-UHFFFAOYSA-N		HMDB00300	02/07/2014	Glycine, serine, alanine, and threonine metabolism
+ura	uracil		C4H4N2O2	0	C00106	1174	17568	ISAKRJDGNUQOIC-UHFFFAOYSA-N		HMDB00300	02/07/2014	Nucleotide metabolism
 ura5c	Uracil 5-carboxylate		C5H3N2O4	-1							19/09/2018	Nucleotide salvage pathway
 urate	Urate		C5H4N4O3	0	C00366	1175	17775	LEHOTFFKMJEONL-UHFFFAOYSA-N		HMDB00289	02/07/2014	Drug metabolism
 urcan	Urocanate		C6H5N2O2	-1	C00785	736715	27248	LOIYMIARKYCTBW-UHFFFAOYSA-M		HMDB00301	02/07/2014	Histidine metabolism
 urdgly	Ureidoglycine	C3H7N3O3	C3H7N3O3	0	C02091	5176	16282		NC(NC(N)=O)C(O)=O		02/07/2014	Purine catabolism
 urdglyc	(-)-Ureidoglycolate		C3H5N2O4	-1						HMDB01005	02/07/2014	Nitrogen metabolism
-urea	Urea		CH4N2O	0	C00086	1176	16199	XSQUKJJJFZCRTK-UHFFFAOYSA-N		HMDB00294	02/07/2014	Alanine and aspartate metabolism
-uri	Uridine		C9H12N2O6	0	C00299	6029	16704	DRTQHJPVMGBUCF-XVFCMESISA-N		HMDB00296	02/07/2014	Nucleotide interconversion
+urea	Urea		CH4N2O	0	C00086	1176	16199	XSQUKJJJFZCRTK-UHFFFAOYSA-N		HMDB00294	02/07/2014	Amino acid metabolites
+uri	Uridine		C9H12N2O6	0	C00299	6029	16704	DRTQHJPVMGBUCF-XVFCMESISA-N		HMDB00296	02/07/2014	Nucleotide metabolism
 urocan	Urocanate		C6H5N2O2	-1							02/07/2014	
 urscholcoa	Ursodeoxycholyl Coenzyme A		C45H70N7O19P3S	-4				IIWDDMINEZBCTG-UHFFFAOYSA-J			03/01/2017	Bile acid synthesis
 utp	UTP		C9H11N2O15P3	-4	C00075	6133	15713	PGAVKCOVUIYSFO-XVFCMESISA-J		HMDB00285	02/07/2014	Aminosugar metabolism
 vacc	trans-vaccenate		C18H33O2	-1	C08367	5281127	28727	UWHZIFQPPBDJPM-UHFFFAOYSA-N		HMDB03231	02/07/2014	Cholesterol metabolism
 vacccoa	vaccenyl coenzyme A		C39H64N7O17P3S	-4		53477847		HEJOXXLSCAQQGQ-NPPGZUNGSA-N		HMDB06521	02/07/2014	
 vacccrn	Vaccenyl carnitine		C25H47NO4	0		53477830		FYTSXCMSQVVSOE-ZHACJKMWSA-N		HMDB06351	02/07/2014	
-val_L	L-valine		C5H11NO2	0	C00183	6287	16414	KZSNJWFQEVHDMF-BYPYZUCNSA-N		HMDB00883	02/07/2014	Peptide metabolism
+val_L	L-valine		C5H11NO2	0	C00183	6287	16414	KZSNJWFQEVHDMF-BYPYZUCNSA-N		HMDB00883	02/07/2014	Amino acid metabolites
 valarggly	Valyl-Arginyl-Glycine		C13H27N6O4	1				COYSIHFOCOMGCF-WCBMZHEXSA-O			03/01/2017	Peptide metabolism
 valhisasn	Valyl-Histidyl-Asparagine		C15H24N6O5	0				OACSGBOREVRSME-HOSYDEDBSA-N			03/01/2017	Peptide metabolism
 valleuphe	Valyl-Leucyl-Phenylalanine		C20H31N3O4	0				ZZGPVSZDZQRJQY-GVDBMIGSSA-N			03/01/2017	Peptide metabolism
@@ -7853,7 +7853,7 @@ whddca	omega hydroxy dodecanoate (n-C12:0)		C12H23O3	-1	C08317	79034	39567	ZDHCZ
 whhdca	16-Hydroxy hexadecanoic acid		C16H30O3	-1	C18218	7058075	55329	UGAGPNKCDRTDHP-UHFFFAOYSA-M		HMDB06294	02/07/2014	Cytochrome metabolism
 whtststerone	w hydroxy testosterone		C19H28O3	0	C05294	16395893	798	YLTCTXBDDHSLCS-KOUJMVCDSA-N		HMDB0060089	02/07/2014	Steroid metabolism
 whttdca	omega hydroxy tetradecanoate (n-C14:0)		C14H27O3	-1				JOSXCARTDOQGLV-UHFFFAOYSA-M			02/07/2014	Cytochrome metabolism
-xan	Xanthine		C5H4N4O2	0	C00385	1188	17712	LRFVTYWOQMYALW-UHFFFAOYSA-N		HMDB00292	02/07/2014	Caffeine metabolism
+xan	Xanthine		C5H4N4O2	0	C00385	1188	17712	LRFVTYWOQMYALW-UHFFFAOYSA-N		HMDB00292	02/07/2014	Nucleotide metabolism
 xan8cbxl	Xanthine-8-carboxylate	C6H4N4O4	C6H3N4O4	-1	C03314						01/07/2019	Others
 xdp	XDP		C10H11N4O12P2	-3							02/07/2014	Nucleotide interconversion
 xmp	Xanthosine 5-phosphate		C10H11N4O9P	-2	C00655	73323	15652	DCTLYFZHFGENCW-UUOKFMHZSA-L		HMDB01554	02/07/2014	Bile acid synthesis
@@ -7887,12 +7887,12 @@ xoltri27	7alpha,26-dihydroxycholesterol		C27H46O3	0	C06341	440985	18431	RXMHNAKZ
 xoltriol	5beta-cholestane-3alpha,7alpha,12alpha-triol		C27H48O3	0	C05454	160520	16496	RIVQQZVHIVNQFH-XJZYBRFWSA-N		HMDB01457	02/07/2014	Bile acid synthesis
 xser	Xyl-L-Ser (protein)		C5H9O4X	0	C02399						02/07/2014	Chondroitin synthesis
 xtp	XTP		C10H11N4O15P3	-4	C00700	439296	10049	CAEFEWVYEZABLA-UUOKFMHZSA-J		HMDB00293	02/07/2014	Nucleotide interconversion
-xtsn	xanthosine		C10H12N4O6	0	C01762	64959	18107	UBORTCNDUKBEOP-UUOKFMHZSA-N		HMDB00299	02/07/2014	Caffeine metabolism
+xtsn	xanthosine		C10H12N4O6	0	C01762	64959	18107	UBORTCNDUKBEOP-UUOKFMHZSA-N		HMDB00299	02/07/2014	Nucleotide metabolism
 xu1p_D	D-Xylulose 1-phosphate		C5H9O8P	-2		14844436	71687	NBOCCPQHBPGYCX-NQXXGFSBSA-L		HMDB06534	02/07/2014	Glyoxylate and dicarboxylate metabolism
 xu1p_L	L-Xylulose 1-phosphate		C5H9O8P	-2							02/07/2014	Pentose and glucuronate interconversions
 xu5p_D	D-xylulose 5-phosphate(2-)		C5H9O8P	-2	C00231	439190	16332	FNZLKVNUWIIPSJ-RFZPGFLSSA-L		HMDB00868	02/07/2014	Methane metabolism
 xu5p_L	L-Xylulose 5-phosphate		C5H9O8P	-2							02/07/2014	Pentose and glucuronate interconversions
-xyl_D	aldehydo-D-xylose		C5H10O5	0	C00181	135191	15936	PYMYPHUHKUWMLA-VPENINKCSA-N		HMDB00098	02/07/2014	Chondroitin sulfate degradation
+xyl_D	aldehydo-D-xylose		C5H10O5	0	C00181	135191	15936	PYMYPHUHKUWMLA-VPENINKCSA-N		HMDB00098	02/07/2014	Carbohydrates
 xyl_L	L-Xylose		C5H10O5	0	C01510			P			02/07/2021	
 xylan	Oat spelt xylan	C2640H4226O2113	C2640H4226O2113	0	G00279						27/03/2015	Drug metabolism
 xylhl_L	L-xylo-Hexulonolactone	C6H8O6	C6H8O6	0	C03289	439966	73681		C(C(C1C(C(=O)C(=O)O1)O)O)O		03/02/2015	Ascorbate and aldarate metabolism
@@ -7905,7 +7905,7 @@ xylu_D	D-xylulose		C5H10O5	0	C00310	5289590	17140	ZAQJHHRNXZUBTE-WUJLRWPWSA-N		H
 xylu_L	L-xylulose		C5H10O5	0	C00312	22253	17399	ZAQJHHRNXZUBTE-WVZVXSGGSA-N		HMDB00751	02/07/2014	Pentose and glucuronate interconversions
 xyluglc	Xyloglucan	C6438H10610O5245	C6438H10610O5245	0							27/03/2015	Drug metabolism
 yvite	gamma-tocopherol		C28H48O2	0	C02483	92729	18185	QUEDXNHFTDJVIY-DQCZWYHMSA-N		HMDB01492	02/07/2014	Vitamin E metabolism
-zn2	Zinc		Zn	2	C00038	32051		PTFCDOFLOPIGGS-UHFFFAOYSA-N		HMDB01303	02/07/2014	
+zn2	Zinc		Zn	2	C00038	32051		PTFCDOFLOPIGGS-UHFFFAOYSA-N		HMDB01303	02/07/2014	Minerals
 zym_int2	zymosterol intermediate 2		C27H42O	0	C05437	22298942	18252	AUNLIRXIJAVBNM-ZMKODQQDSA-N		HMDB06271	02/07/2014	Cholesterol metabolism
 zymst	zymosterol		C27H44O	0	C05437	92746	18252	CGSJXLIKVBJVRY-XTGBIJOFSA-N		HMDB06271	02/07/2014	Cholesterol metabolism
 zymstnl	5alpha-cholest-8-en-3beta-ol		C27H46O	0	C03845	101770	16608	QETLKNDKQOXZRP-XTGBIJOFSA-N		HMDB06841	02/07/2014	Cholesterol metabolism
@@ -8018,3 +8018,4 @@ te	tellurium		O3Te	-2							15/07/2025
 malmeACP	Malonyl-ACP-methyl-ester		C15H25N2O10PRS	-1	C19673						15/07/2025	
 pfmnh2	Prenylated FMNH2		C22H29N4O9P	-2	C21215						15/07/2025	
 7979clcpn	7,9,7',9'-Tetra-cis-lycopene		C40H56	0	C15858	47205178	62466				15/07/2025	
+34dhpp	3,4-Dihydroxyphenylpyruvate		C9H8O5	0	C04045						26/02/2026	
